@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" BookCode="0169" PageNumber="170" ImageLoc="0169_KanaadaScientificMagazine_Img_300_Original/0169_KanaadaScientificMagazine_Img_300_Org_Page_0170.tif">
+    <block type="Image" BlockNumber="1" rowStart="228" rowEnd="726" colStart="379" colEnd="1398"/>
+    <block type="Image" BlockNumber="2" rowStart="1243" rowEnd="1651" colStart="408" colEnd="1404"/>
+    <block type="Text" BlockNumber="3" rowStart="94" rowEnd="142" colStart="62" colEnd="1753">
+        <line LineNumber="1" rowStart="94" rowEnd="142">
+            <word unicode="170" WordNumber="1" rowStart="106" rowEnd="142" colStart="62" colEnd="130"/>
+            <word unicode="ಕಣಾದ/1982" WordNumber="2" rowStart="94" rowEnd="136" colStart="1542" colEnd="1753"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="4" rowStart="781" rowEnd="828" colStart="849" colEnd="961">
+        <line LineNumber="2" rowStart="781" rowEnd="828">
+            <word unicode="ಚಿತ್ರ" WordNumber="1" rowStart="782" rowEnd="828" colStart="849" colEnd="911"/>
+            <word unicode="8" WordNumber="2" rowStart="781" rowEnd="817" colStart="941" colEnd="961"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="5" rowStart="856" rowEnd="910" colStart="405" colEnd="1402">
+        <line LineNumber="3" rowStart="856" rowEnd="910">
+            <word unicode="ಭ್ರಾಮಕವನ್ನುಪಯೋಗಿಸಿ" WordNumber="1" rowStart="858" rowEnd="910" colStart="405" colEnd="769"/>
+            <word unicode="ಏಳ್ತವನ್ನು" WordNumber="2" rowStart="857" rowEnd="908" colStart="789" colEnd="935"/>
+            <word unicode="ತೋರಿಸುವ" WordNumber="3" rowStart="856" rowEnd="888" colStart="966" colEnd="1124"/>
+            <word unicode="ಉಪಕರಣದ" WordNumber="4" rowStart="856" rowEnd="889" colStart="1154" colEnd="1328"/>
+            <word unicode="ಚಿತ್ರ" WordNumber="5" rowStart="860" rowEnd="909" colStart="1349" colEnd="1402"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="6" rowStart="1686" rowEnd="1733" colStart="854" colEnd="966">
+        <line LineNumber="4" rowStart="1686" rowEnd="1733">
+            <word unicode="ಚಿತ್ರ" WordNumber="1" rowStart="1686" rowEnd="1733" colStart="854" colEnd="915"/>
+            <word unicode="9" WordNumber="2" rowStart="1686" rowEnd="1721" colStart="945" colEnd="966"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="7" rowStart="1761" rowEnd="1816" colStart="270" colEnd="1530">
+        <line LineNumber="5" rowStart="1761" rowEnd="1816">
+            <word unicode="ಭ್ರಾಮಕವನ್ನುಪಯೋಗಿಸಿ" WordNumber="1" rowStart="1764" rowEnd="1816" colStart="270" colEnd="640"/>
+            <word unicode="ವಿಮಾನದ" WordNumber="2" rowStart="1763" rowEnd="1795" colStart="660" colEnd="803"/>
+            <word unicode="ಹೊರಳುವಿಕೆಯನ್ನು" WordNumber="3" rowStart="1761" rowEnd="1812" colStart="824" colEnd="1093"/>
+            <word unicode="ಸೂಚಿಸುವ" WordNumber="4" rowStart="1761" rowEnd="1792" colStart="1113" colEnd="1261"/>
+            <word unicode="ಉಪಕರಣದ" WordNumber="5" rowStart="1763" rowEnd="1794" colStart="1281" colEnd="1456"/>
+            <word unicode="ತತ್ವ" WordNumber="6" rowStart="1765" rowEnd="1816" colStart="1476" colEnd="1530"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="8" rowStart="1940" rowEnd="2500" colStart="49" colEnd="853">
+        <line LineNumber="6" rowStart="1940" rowEnd="1996">
+            <word unicode="ರಾಡಾರ್" WordNumber="1" rowStart="1946" rowEnd="1974" colStart="101" colEnd="228"/>
+            <word unicode="ವ್ಯವಸ್ಥೆಯಲ್ಲಿ" WordNumber="2" rowStart="1942" rowEnd="1996" colStart="244" colEnd="425"/>
+            <word unicode="ಒಂದು" WordNumber="3" rowStart="1942" rowEnd="1973" colStart="439" colEnd="532"/>
+            <word unicode="ನಿರ್ದಿಷ್ಟ" WordNumber="4" rowStart="1943" rowEnd="1993" colStart="545" colEnd="662"/>
+            <word unicode="ತರಂಗಾಂತರ" WordNumber="5" rowStart="1940" rowEnd="1973" colStart="676" colEnd="853"/>
+        </line>
+        <line LineNumber="7" rowStart="2003" rowEnd="2058">
+            <word unicode="ದಲ್ಲಿ" WordNumber="1" rowStart="2005" rowEnd="2049" colStart="54" colEnd="109"/>
+            <word unicode="ವಿದ್ಯುತ್ಕಾಂತೀಯ" WordNumber="2" rowStart="2005" rowEnd="2058" colStart="126" colEnd="372"/>
+            <word unicode="ಅಲೆಗಳನ್ನು" WordNumber="3" rowStart="2005" rowEnd="2055" colStart="393" colEnd="548"/>
+            <word unicode="ಪ್ರೇಷಿಸುವ" WordNumber="4" rowStart="2003" rowEnd="2052" colStart="571" colEnd="724"/>
+            <word unicode="ಮತ್ತು" WordNumber="5" rowStart="2005" rowEnd="2052" colStart="761" colEnd="850"/>
+        </line>
+        <line LineNumber="8" rowStart="2067" rowEnd="2121">
+            <word unicode="ಗ್ರಹಿಸುವ" WordNumber="1" rowStart="2069" rowEnd="2117" colStart="51" colEnd="184"/>
+            <word unicode="ವ್ಯವಸ್ಥೆ" WordNumber="2" rowStart="2067" rowEnd="2121" colStart="205" colEnd="307"/>
+            <word unicode="ಇರುತ್ತದೆ." WordNumber="3" rowStart="2067" rowEnd="2116" colStart="331" colEnd="472"/>
+            <word unicode="ಇದರ" WordNumber="4" rowStart="2067" rowEnd="2099" colStart="525" colEnd="604"/>
+            <word unicode="ಸಹಾಯದಿಂದ" WordNumber="5" rowStart="2067" rowEnd="2099" colStart="649" colEnd="851"/>
+        </line>
+        <line LineNumber="9" rowStart="2130" rowEnd="2190">
+            <word unicode="ನಾವು" WordNumber="1" rowStart="2132" rowEnd="2169" colStart="50" colEnd="123"/>
+            <word unicode="ತಿಳಿಯ" WordNumber="2" rowStart="2131" rowEnd="2163" colStart="146" colEnd="241"/>
+            <word unicode="ಬೇಕಾದ" WordNumber="3" rowStart="2130" rowEnd="2162" colStart="261" colEnd="374"/>
+            <word unicode="ಮಹಿತಿಗಳನ್ನು" WordNumber="4" rowStart="2130" rowEnd="2182" colStart="419" colEnd="635"/>
+            <word unicode="ತಿಳಿದುಕೊಳ್ಳ" WordNumber="5" rowStart="2130" rowEnd="2190" colStart="671" colEnd="849"/>
+        </line>
+        <line LineNumber="10" rowStart="2192" rowEnd="2249">
+            <word unicode="ಬಹುದು." WordNumber="1" rowStart="2194" rowEnd="2227" colStart="49" colEnd="178"/>
+            <word unicode="ಉದಾಹರಣೆಗೆ" WordNumber="2" rowStart="2192" rowEnd="2225" colStart="237" colEnd="437"/>
+            <word unicode="ರಾಡಾರ್" WordNumber="3" rowStart="2198" rowEnd="2225" colStart="476" colEnd="601"/>
+            <word unicode="ವ್ಯವಸ್ಥೆಯಿಂದ" WordNumber="4" rowStart="2193" rowEnd="2249" colStart="640" colEnd="847"/>
+        </line>
+        <line LineNumber="11" rowStart="2256" rowEnd="2308">
+            <word unicode="ವಿಮಾನದ" WordNumber="1" rowStart="2258" rowEnd="2290" colStart="50" colEnd="192"/>
+            <word unicode="ವೇಗವನ್ನು" WordNumber="2" rowStart="2257" rowEnd="2308" colStart="237" colEnd="381"/>
+            <word unicode="ಹೇಗೆ" WordNumber="3" rowStart="2257" rowEnd="2290" colStart="441" colEnd="510"/>
+            <word unicode="ತಿಳಿಯಬಹುದೆಂದು" WordNumber="4" rowStart="2256" rowEnd="2289" colStart="570" colEnd="843"/>
+        </line>
+        <line LineNumber="12" rowStart="2319" rowEnd="2368">
+            <word unicode="ತಿಳಿಯೋಣ." WordNumber="1" rowStart="2320" rowEnd="2352" colStart="51" colEnd="223"/>
+            <word unicode="ಚಿತ್ರ" WordNumber="2" rowStart="2321" rowEnd="2368" colStart="245" colEnd="307"/>
+            <word unicode="10" WordNumber="3" rowStart="2322" rowEnd="2358" colStart="333" colEnd="375"/>
+            <word unicode="ರಲ್ಲಿ" WordNumber="4" rowStart="2320" rowEnd="2364" colStart="391" colEnd="439"/>
+            <word unicode="ತೋರಿಸಿರುವಂತೆ" WordNumber="5" rowStart="2319" rowEnd="2353" colStart="472" colEnd="703"/>
+            <word unicode="ವಿಮಾನ" WordNumber="6" rowStart="2321" rowEnd="2353" colStart="735" colEnd="847"/>
+        </line>
+        <line LineNumber="13" rowStart="2384" rowEnd="2437">
+            <word unicode="ದಿಂದ" WordNumber="1" rowStart="2385" rowEnd="2415" colStart="51" colEnd="129"/>
+            <word unicode="ಎರಡು" WordNumber="2" rowStart="2384" rowEnd="2415" colStart="166" colEnd="259"/>
+            <word unicode="ದಿಕ್ಕುಗಳಲ್ಲಿ" WordNumber="3" rowStart="2384" rowEnd="2437" colStart="306" colEnd="454"/>
+            <word unicode="ಗೊತ್ತಾದ" WordNumber="4" rowStart="2384" rowEnd="2433" colStart="508" colEnd="647"/>
+            <word unicode="ವಿಮಾನದ" WordNumber="5" rowStart="2385" rowEnd="2417" colStart="705" colEnd="846"/>
+        </line>
+        <line LineNumber="14" rowStart="2446" rowEnd="2500">
+            <word unicode="ಹಾರಾಟದ" WordNumber="1" rowStart="2447" rowEnd="2479" colStart="51" colEnd="198"/>
+            <word unicode="ಪಥದ" WordNumber="2" rowStart="2448" rowEnd="2485" colStart="220" colEnd="304"/>
+            <word unicode="ಮೇಲೆ" WordNumber="3" rowStart="2446" rowEnd="2477" colStart="327" colEnd="413"/>
+            <word unicode="ವಿದ್ಯುತ್ಕಾಂತೀಯ" WordNumber="4" rowStart="2446" rowEnd="2500" colStart="427" colEnd="672"/>
+            <word unicode="ಅಲೆಗಳನ್ನು" WordNumber="5" rowStart="2448" rowEnd="2494" colStart="687" colEnd="839"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="9" rowStart="1945" rowEnd="2372" colStart="950" colEnd="1751">
+        <line LineNumber="15" rowStart="1945" rowEnd="2000">
+            <word unicode="ಕಳಿಸುತ್ತಾರೆ." WordNumber="1" rowStart="1945" rowEnd="1994" colStart="957" colEnd="1124"/>
+            <word unicode="ಈ" WordNumber="2" rowStart="1946" rowEnd="1977" colStart="1177" colEnd="1213"/>
+            <word unicode="ಅಲೆಗಳು" WordNumber="3" rowStart="1947" rowEnd="1978" colStart="1250" colEnd="1370"/>
+            <word unicode="ಭೂಮಿಯನ್ನು" WordNumber="4" rowStart="1948" rowEnd="2000" colStart="1418" colEnd="1617"/>
+            <word unicode="ತಲುಪಿ" WordNumber="5" rowStart="1954" rowEnd="1981" colStart="1655" colEnd="1749"/>
+        </line>
+        <line LineNumber="16" rowStart="2008" rowEnd="2065">
+            <word unicode="ಹಿಂದಿರುಗುತ್ತವೆ." WordNumber="1" rowStart="2008" rowEnd="2057" colStart="957" colEnd="1190"/>
+            <word unicode="ವಿಮಾನದ" WordNumber="2" rowStart="2010" rowEnd="2042" colStart="1227" colEnd="1370"/>
+            <word unicode="ಮುಂಭಾಗಕ್ಕೆ" WordNumber="3" rowStart="2010" rowEnd="2065" colStart="1391" colEnd="1569"/>
+            <word unicode="ಕಳಿಸಲ್ಪಟ್ಟ" WordNumber="4" rowStart="2012" rowEnd="2063" colStart="1606" colEnd="1748"/>
+        </line>
+        <line LineNumber="17" rowStart="2071" rowEnd="2127">
+            <word unicode="ಅಲೆಗಳು" WordNumber="1" rowStart="2071" rowEnd="2103" colStart="957" colEnd="1074"/>
+            <word unicode="ಹಿಂದಿರುವ" WordNumber="2" rowStart="2072" rowEnd="2103" colStart="1086" colEnd="1234"/>
+            <word unicode="ಬರುವಕಾಲಕ್ಕೂ" WordNumber="3" rowStart="2073" rowEnd="2127" colStart="1269" colEnd="1492"/>
+            <word unicode="ಮತ್ತು" WordNumber="4" rowStart="2075" rowEnd="2124" colStart="1517" colEnd="1605"/>
+            <word unicode="ಹಿಂಭಾಗ" WordNumber="5" rowStart="2076" rowEnd="2114" colStart="1628" colEnd="1750"/>
+        </line>
+        <line LineNumber="18" rowStart="2135" rowEnd="2191">
+            <word unicode="ದಿಂದ" WordNumber="1" rowStart="2135" rowEnd="2165" colStart="955" colEnd="1032"/>
+            <word unicode="ಅಲೆಗಳು" WordNumber="2" rowStart="2135" rowEnd="2167" colStart="1052" colEnd="1168"/>
+            <word unicode="ಹಿಂದಿರುಗುವ" WordNumber="3" rowStart="2137" rowEnd="2168" colStart="1189" colEnd="1375"/>
+            <word unicode="ಕಾಲಕ್ಕೂ" WordNumber="4" rowStart="2137" rowEnd="2190" colStart="1402" colEnd="1527"/>
+            <word unicode="ವ್ಯತ್ಯಾಸವಿರು" WordNumber="5" rowStart="2138" rowEnd="2191" colStart="1571" colEnd="1750"/>
+        </line>
+        <line LineNumber="19" rowStart="2197" rowEnd="2254">
+            <word unicode="ತ್ತದೆ." WordNumber="1" rowStart="2197" rowEnd="2245" colStart="950" colEnd="1021"/>
+            <word unicode="ಈ" WordNumber="2" rowStart="2199" rowEnd="2230" colStart="1078" colEnd="1115"/>
+            <word unicode="ಕಾದ" WordNumber="3" rowStart="2198" rowEnd="2245" colStart="1135" colEnd="1229"/>
+            <word unicode="ವ್ಯತ್ಯಾಸವನ್ನು" WordNumber="4" rowStart="2199" rowEnd="2253" colStart="1249" colEnd="1446"/>
+            <word unicode="ವಿಮಾನದ" WordNumber="5" rowStart="2201" rowEnd="2232" colStart="1467" colEnd="1609"/>
+            <word unicode="ವೇಗಕ್ಕೆ" WordNumber="6" rowStart="2200" rowEnd="2254" colStart="1651" colEnd="1747"/>
+        </line>
+        <line LineNumber="20" rowStart="2260" rowEnd="2316">
+            <word unicode="ಸಂಬಂಧೀಕರಿಸಿ" WordNumber="1" rowStart="2260" rowEnd="2298" colStart="952" colEnd="1158"/>
+            <word unicode="ರಾಡರ್" WordNumber="2" rowStart="2263" rowEnd="2294" colStart="1197" colEnd="1305"/>
+            <word unicode="ವೇಗಮಾಪಕವನ್ನು" WordNumber="3" rowStart="2262" rowEnd="2316" colStart="1349" colEnd="1606"/>
+            <word unicode="ರಚಿಸಿರು" WordNumber="4" rowStart="2264" rowEnd="2295" colStart="1638" colEnd="1751"/>
+        </line>
+        <line LineNumber="21" rowStart="2324" rowEnd="2372">
+            <word unicode="ತ್ತಾರೆ." WordNumber="1" rowStart="2324" rowEnd="2372" colStart="950" colEnd="1038"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="10" rowStart="2387" rowEnd="2486" colStart="948" colEnd="1748">
+        <line LineNumber="22" rowStart="2387" rowEnd="2441">
+            <word unicode="ಇದೇ" WordNumber="1" rowStart="2387" rowEnd="2420" colStart="999" colEnd="1067"/>
+            <word unicode="ತತ್ವವನ್ನು" WordNumber="2" rowStart="2389" rowEnd="2440" colStart="1106" colEnd="1243"/>
+            <word unicode="ಎತ್ತರವನ್ನು" WordNumber="3" rowStart="2390" rowEnd="2441" colStart="1284" colEnd="1450"/>
+            <word unicode="ಅಳೆಯಲೂ" WordNumber="4" rowStart="2390" rowEnd="2421" colStart="1501" colEnd="1660"/>
+            <word unicode="ಸಹ" WordNumber="5" rowStart="2390" rowEnd="2421" colStart="1696" colEnd="1748"/>
+        </line>
+        <line LineNumber="23" rowStart="2451" rowEnd="2486">
+            <word unicode="ಉಪಯೋಗಿಸಬಹುದಾಗಿದೆ." WordNumber="1" rowStart="2451" rowEnd="2484" colStart="948" colEnd="1338"/>
+            <word unicode="ವಿಮಾನದಿಂದ" WordNumber="2" rowStart="2452" rowEnd="2486" colStart="1379" colEnd="1572"/>
+            <word unicode="ನೇರವಾಗಿ" WordNumber="3" rowStart="2453" rowEnd="2486" colStart="1615" colEnd="1747"/>
+        </line>
+    </block>
+</page>

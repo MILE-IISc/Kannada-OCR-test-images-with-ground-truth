@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" BookCode="0347" PageNumber="287" ImageLoc="0347_KhanijaNikshepagalu_Img_300_Original/0347_KhanijaNikshepagalu_Img_300_Org_Page_0287.tif">
+    <block type="Image" BlockNumber="1" rowStart="1402" rowEnd="1501" colStart="265" colEnd="285"/>
+    <block type="Text" BlockNumber="2" rowStart="55" rowEnd="128" colStart="605" colEnd="1308">
+        <line LineNumber="1" rowStart="70" rowEnd="116">
+            <word unicode="ಸ್ಥಳ" WordNumber="1" rowStart="70" rowEnd="116" colStart="620" colEnd="684"/>
+            <word unicode="ಸೂಚಿ" WordNumber="2" rowStart="70" rowEnd="116" colStart="687" colEnd="769"/>
+            <word unicode="287" WordNumber="3" rowStart="70" rowEnd="116" colStart="1249" colEnd="1297"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="3" rowStart="163" rowEnd="224" colStart="144" colEnd="1262">
+        <line LineNumber="2" rowStart="165" rowEnd="216">
+            <word unicode="ಸ್ಥಳ" WordNumber="1" rowStart="165" rowEnd="216" colStart="156" colEnd="208"/>
+            <word unicode="ಜಿಲ್ಲೆ" WordNumber="2" rowStart="165" rowEnd="216" colStart="535" colEnd="596"/>
+            <word unicode="ಪುಟ" WordNumber="3" rowStart="165" rowEnd="216" colStart="1195" colEnd="1250"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="4" rowStart="246" rowEnd="1402" colStart="100" colEnd="1314">
+        <line LineNumber="3" rowStart="254" rowEnd="297">
+            <word unicode="ಕಾಗಿನೆಲ್ಲಿ" WordNumber="1" rowStart="254" rowEnd="296" colStart="111" colEnd="227"/>
+            <word unicode="ಶಿವಮೊಗ್ಗ" WordNumber="2" rowStart="254" rowEnd="297" colStart="497" colEnd="646"/>
+            <word unicode=".." WordNumber="3" rowStart="262" rowEnd="281" colStart="951" colEnd="997"/>
+            <word unicode="63" WordNumber="4" rowStart="255" rowEnd="276" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="4" rowStart="304" rowEnd="346">
+            <word unicode="ಕಾದಿರ್‌ಕೊಪ್ಪ" WordNumber="1" rowStart="304" rowEnd="346" colStart="111" colEnd="307"/>
+            <word unicode="ಬಿಜಾಪುರ" WordNumber="2" rowStart="304" rowEnd="343" colStart="498" colEnd="637"/>
+            <word unicode=".." WordNumber="3" rowStart="311" rowEnd="329" colStart="951" colEnd="996"/>
+            <word unicode="259" WordNumber="4" rowStart="305" rowEnd="327" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="5" rowStart="352" rowEnd="394">
+            <word unicode="ಕಾಡಮನೆ" WordNumber="1" rowStart="354" rowEnd="390" colStart="110" colEnd="250"/>
+            <word unicode="ಚಿಕ್ಕಮಗಳೂರು" WordNumber="2" rowStart="355" rowEnd="394" colStart="501" colEnd="729"/>
+            <word unicode=".." WordNumber="3" rowStart="361" rowEnd="378" colStart="955" colEnd="996"/>
+            <word unicode="114," WordNumber="4" rowStart="355" rowEnd="386" colStart="1011" colEnd="1081"/>
+            <word unicode="203," WordNumber="5" rowStart="355" rowEnd="386" colStart="1084" colEnd="1151"/>
+            <word unicode="247," WordNumber="6" rowStart="352" rowEnd="386" colStart="1171" colEnd="1232"/>
+            <word unicode="248" WordNumber="7" rowStart="352" rowEnd="386" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="6" rowStart="401" rowEnd="447">
+            <word unicode="ಕಾಮಸಮುದ್ರ" WordNumber="1" rowStart="401" rowEnd="447" colStart="108" colEnd="314"/>
+            <word unicode="ಕೋಲಾರ" WordNumber="2" rowStart="402" rowEnd="442" colStart="499" colEnd="639"/>
+            <word unicode=".." WordNumber="3" rowStart="414" rowEnd="427" colStart="956" colEnd="1001"/>
+            <word unicode="134," WordNumber="4" rowStart="406" rowEnd="436" colStart="1171" colEnd="1243"/>
+            <word unicode="203" WordNumber="5" rowStart="406" rowEnd="436" colStart="1246" colEnd="1299"/>
+        </line>
+        <line LineNumber="7" rowStart="454" rowEnd="495">
+            <word unicode="ಕಾರ್ಯ" WordNumber="1" rowStart="456" rowEnd="489" colStart="108" colEnd="226"/>
+            <word unicode="ಮೈಸೂರು" WordNumber="2" rowStart="454" rowEnd="495" colStart="499" colEnd="647"/>
+            <word unicode=".." WordNumber="3" rowStart="464" rowEnd="478" colStart="958" colEnd="1002"/>
+            <word unicode="209," WordNumber="4" rowStart="457" rowEnd="486" colStart="1090" colEnd="1151"/>
+            <word unicode="240," WordNumber="5" rowStart="457" rowEnd="486" colStart="1170" colEnd="1232"/>
+            <word unicode="247" WordNumber="6" rowStart="457" rowEnd="479" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="8" rowStart="502" rowEnd="544">
+            <word unicode="ಕಾರಲ್ಗಿ" WordNumber="1" rowStart="502" rowEnd="544" colStart="111" colEnd="210"/>
+            <word unicode="ಬೆಳಗಾಂ" WordNumber="2" rowStart="502" rowEnd="542" colStart="495" colEnd="618"/>
+            <word unicode=".." WordNumber="3" rowStart="513" rowEnd="528" colStart="954" colEnd="996"/>
+            <word unicode="132" WordNumber="4" rowStart="506" rowEnd="528" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="9" rowStart="555" rowEnd="596">
+            <word unicode="ಕ್ಯಾಸರ್‌ವಾಡ್" WordNumber="1" rowStart="555" rowEnd="596" colStart="110" colEnd="316"/>
+            <word unicode="ಬೆಳಗಾಂ" WordNumber="2" rowStart="555" rowEnd="591" colStart="499" colEnd="620"/>
+            <word unicode=".." WordNumber="3" rowStart="563" rowEnd="576" colStart="953" colEnd="996"/>
+            <word unicode="64," WordNumber="4" rowStart="557" rowEnd="585" colStart="1185" colEnd="1230"/>
+            <word unicode="192" WordNumber="5" rowStart="556" rowEnd="578" colStart="1250" colEnd="1300"/>
+        </line>
+        <line LineNumber="10" rowStart="604" rowEnd="644">
+            <word unicode="ಕ್ಯಾಸಲ್‌ರಾಕ್" WordNumber="1" rowStart="604" rowEnd="644" colStart="110" colEnd="312"/>
+            <word unicode="ಉತ್ತರ" WordNumber="2" rowStart="604" rowEnd="644" colStart="495" colEnd="604"/>
+            <word unicode="ಕನ್ನಡ" WordNumber="3" rowStart="604" rowEnd="644" colStart="607" colEnd="704"/>
+            <word unicode=".." WordNumber="4" rowStart="611" rowEnd="624" colStart="953" colEnd="992"/>
+            <word unicode="166" WordNumber="5" rowStart="606" rowEnd="626" colStart="1250" colEnd="1300"/>
+        </line>
+        <line LineNumber="11" rowStart="654" rowEnd="693">
+            <word unicode="ಕಿಕ್ರಿ" WordNumber="1" rowStart="654" rowEnd="693" colStart="111" colEnd="175"/>
+            <word unicode="ಚಿಕ್ಕಮಗಳೂರು" WordNumber="2" rowStart="654" rowEnd="693" colStart="498" colEnd="727"/>
+            <word unicode=".." WordNumber="3" rowStart="658" rowEnd="676" colStart="952" colEnd="994"/>
+            <word unicode="215," WordNumber="4" rowStart="654" rowEnd="690" colStart="1086" colEnd="1156"/>
+            <word unicode="216," WordNumber="5" rowStart="655" rowEnd="684" colStart="1168" colEnd="1229"/>
+            <word unicode="240" WordNumber="6" rowStart="655" rowEnd="676" colStart="1249" colEnd="1300"/>
+        </line>
+        <line LineNumber="12" rowStart="701" rowEnd="746">
+            <word unicode="ಕಿಟ್ಟೂರು" WordNumber="1" rowStart="701" rowEnd="746" colStart="111" colEnd="247"/>
+            <word unicode="ಬೆಳಗಾಂ" WordNumber="2" rowStart="702" rowEnd="739" colStart="498" colEnd="619"/>
+            <word unicode=".." WordNumber="3" rowStart="711" rowEnd="726" colStart="954" colEnd="996"/>
+            <word unicode="166" WordNumber="4" rowStart="705" rowEnd="727" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="13" rowStart="754" rowEnd="792">
+            <word unicode="ಕಿತ್ತೂರು" WordNumber="1" rowStart="754" rowEnd="792" colStart="110" colEnd="243"/>
+            <word unicode="ಬೆಳಗಾಂ" WordNumber="2" rowStart="754" rowEnd="788" colStart="500" colEnd="624"/>
+            <word unicode=".." WordNumber="3" rowStart="762" rowEnd="776" colStart="952" colEnd="998"/>
+            <word unicode="258" WordNumber="4" rowStart="755" rowEnd="777" colStart="1249" colEnd="1300"/>
+        </line>
+        <line LineNumber="14" rowStart="801" rowEnd="841">
+            <word unicode="ಕುಂಚಿಗನಹಾಳು" WordNumber="1" rowStart="804" rowEnd="839" colStart="108" colEnd="335"/>
+            <word unicode="ಚಿತ್ರದುರ್ಗ" WordNumber="2" rowStart="803" rowEnd="841" colStart="498" colEnd="661"/>
+            <word unicode=".." WordNumber="3" rowStart="812" rowEnd="827" colStart="955" colEnd="993"/>
+            <word unicode="160," WordNumber="4" rowStart="801" rowEnd="836" colStart="1171" colEnd="1230"/>
+            <word unicode="177" WordNumber="5" rowStart="805" rowEnd="828" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="15" rowStart="849" rowEnd="895">
+            <word unicode="ಕುಂಸಿ" WordNumber="1" rowStart="851" rowEnd="892" colStart="109" colEnd="201"/>
+            <word unicode="ಶಿವಮೊಗ್ಗ" WordNumber="2" rowStart="849" rowEnd="895" colStart="496" colEnd="641"/>
+            <word unicode=".." WordNumber="3" rowStart="862" rowEnd="878" colStart="953" colEnd="994"/>
+            <word unicode="60," WordNumber="4" rowStart="856" rowEnd="886" colStart="1058" colEnd="1103"/>
+            <word unicode="62," WordNumber="5" rowStart="856" rowEnd="886" colStart="1123" colEnd="1168"/>
+            <word unicode="64," WordNumber="6" rowStart="856" rowEnd="886" colStart="1187" colEnd="1230"/>
+            <word unicode="142" WordNumber="7" rowStart="856" rowEnd="878" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="16" rowStart="905" rowEnd="947">
+            <word unicode="ಕುಕ್ಥೋಲಿ" WordNumber="1" rowStart="905" rowEnd="947" colStart="110" colEnd="262"/>
+            <word unicode="ಬೆಳಗಾಂ" WordNumber="2" rowStart="905" rowEnd="941" colStart="495" colEnd="627"/>
+            <word unicode=".." WordNumber="3" rowStart="913" rowEnd="928" colStart="957" colEnd="991"/>
+            <word unicode="258" WordNumber="4" rowStart="906" rowEnd="929" colStart="1249" colEnd="1300"/>
+        </line>
+        <line LineNumber="17" rowStart="954" rowEnd="995">
+            <word unicode="ಕುಡಿನೀರುಕಟ್ಟೆ" WordNumber="1" rowStart="954" rowEnd="995" colStart="110" colEnd="325"/>
+            <word unicode="ಚಿತ್ರದುರ್ಗ" WordNumber="2" rowStart="954" rowEnd="995" colStart="497" colEnd="659"/>
+            <word unicode=".." WordNumber="3" rowStart="961" rowEnd="978" colStart="951" colEnd="994"/>
+            <word unicode="203" WordNumber="4" rowStart="957" rowEnd="979" colStart="1249" colEnd="1300"/>
+        </line>
+        <line LineNumber="18" rowStart="1005" rowEnd="1041">
+            <word unicode="ಕುದುರೇಕಣಿವೆ" WordNumber="1" rowStart="1005" rowEnd="1041" colStart="111" colEnd="313"/>
+            <word unicode="ತುಮಕೂರು" WordNumber="2" rowStart="1005" rowEnd="1039" colStart="498" colEnd="682"/>
+            <word unicode=".." WordNumber="3" rowStart="1012" rowEnd="1028" colStart="951" colEnd="991"/>
+            <word unicode="62" WordNumber="4" rowStart="1007" rowEnd="1028" colStart="1268" colEnd="1300"/>
+        </line>
+        <line LineNumber="19" rowStart="1053" rowEnd="1096">
+            <word unicode="ಕುದುರೇಕೊಂಡ" WordNumber="1" rowStart="1053" rowEnd="1091" colStart="112" colEnd="333"/>
+            <word unicode="ಶಿವಮೊಗ್ಗ" WordNumber="2" rowStart="1054" rowEnd="1096" colStart="497" colEnd="646"/>
+            <word unicode=".." WordNumber="3" rowStart="1061" rowEnd="1077" colStart="958" colEnd="998"/>
+            <word unicode="42," WordNumber="4" rowStart="1058" rowEnd="1086" colStart="1204" colEnd="1248"/>
+            <word unicode="46" WordNumber="5" rowStart="1057" rowEnd="1078" colStart="1268" colEnd="1300"/>
+        </line>
+        <line LineNumber="20" rowStart="1105" rowEnd="1146">
+            <word unicode="ಕುದುರೇಮುಖ" WordNumber="1" rowStart="1105" rowEnd="1141" colStart="110" colEnd="324"/>
+            <word unicode="ಚಿಕ್ಕಮಗಳೂರು" WordNumber="2" rowStart="1105" rowEnd="1146" colStart="496" colEnd="729"/>
+            <word unicode=".." WordNumber="3" rowStart="1114" rowEnd="1126" colStart="957" colEnd="995"/>
+            <word unicode="21" WordNumber="4" rowStart="1106" rowEnd="1127" colStart="1253" colEnd="1300"/>
+        </line>
+        <line LineNumber="21" rowStart="1155" rowEnd="1194">
+            <word unicode="ಕುಪ್ಯ" WordNumber="1" rowStart="1155" rowEnd="1194" colStart="111" colEnd="194"/>
+            <word unicode="ಮೈಸೂರು" WordNumber="2" rowStart="1155" rowEnd="1194" colStart="497" colEnd="649"/>
+            <word unicode=".." WordNumber="3" rowStart="1160" rowEnd="1175" colStart="954" colEnd="997"/>
+            <word unicode="124" WordNumber="4" rowStart="1155" rowEnd="1177" colStart="1253" colEnd="1300"/>
+        </line>
+        <line LineNumber="22" rowStart="1199" rowEnd="1243">
+            <word unicode="ಕುಮಾರಸ್ವಾಮಿ" WordNumber="1" rowStart="1202" rowEnd="1243" colStart="110" colEnd="324"/>
+            <word unicode="ಗುಡ್ಡ" WordNumber="2" rowStart="1202" rowEnd="1243" colStart="338" colEnd="422"/>
+            <word unicode="ಬಳ್ಳಾರಿ" WordNumber="3" rowStart="1203" rowEnd="1243" colStart="498" colEnd="616"/>
+            <word unicode=".." WordNumber="4" rowStart="1212" rowEnd="1224" colStart="957" colEnd="997"/>
+            <word unicode="132" WordNumber="5" rowStart="1199" rowEnd="1227" colStart="1253" colEnd="1300"/>
+        </line>
+        <line LineNumber="23" rowStart="1249" rowEnd="1293">
+            <word unicode="ಕುರುಬರ" WordNumber="1" rowStart="1249" rowEnd="1287" colStart="112" colEnd="244"/>
+            <word unicode="ಮರಡೀಕೆರೆ" WordNumber="2" rowStart="1250" rowEnd="1290" colStart="250" colEnd="408"/>
+            <word unicode="ಚಿತ್ರದುರ್ಗ" WordNumber="3" rowStart="1250" rowEnd="1293" colStart="502" colEnd="659"/>
+            <word unicode=".." WordNumber="4" rowStart="1262" rowEnd="1276" colStart="959" colEnd="1002"/>
+            <word unicode="52," WordNumber="5" rowStart="1253" rowEnd="1285" colStart="1201" colEnd="1249"/>
+            <word unicode="97" WordNumber="6" rowStart="1256" rowEnd="1285" colStart="1269" colEnd="1300"/>
+        </line>
+        <line LineNumber="24" rowStart="1304" rowEnd="1347">
+            <word unicode="ಕುರೀಕೊಪ್ಪ" WordNumber="1" rowStart="1304" rowEnd="1347" colStart="113" colEnd="284"/>
+            <word unicode="ಬಳ್ಳಾರಿ" WordNumber="2" rowStart="1305" rowEnd="1345" colStart="502" colEnd="613"/>
+            <word unicode=".." WordNumber="3" rowStart="1312" rowEnd="1326" colStart="952" colEnd="992"/>
+            <word unicode="252" WordNumber="4" rowStart="1306" rowEnd="1328" colStart="1247" colEnd="1300"/>
+        </line>
+        <line LineNumber="25" rowStart="1353" rowEnd="1395">
+            <word unicode="ಕುರುಬರ" WordNumber="1" rowStart="1354" rowEnd="1393" colStart="112" colEnd="243"/>
+            <word unicode="ಮಂಚೇನಹಳ್ಳಿ" WordNumber="2" rowStart="1353" rowEnd="1395" colStart="255" colEnd="455"/>
+            <word unicode="ಮೈಸೂರು" WordNumber="3" rowStart="1353" rowEnd="1395" colStart="503" colEnd="653"/>
+            <word unicode=".." WordNumber="4" rowStart="1362" rowEnd="1376" colStart="952" colEnd="995"/>
+            <word unicode="230" WordNumber="5" rowStart="1357" rowEnd="1379" colStart="1247" colEnd="1300"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="5" rowStart="1403" rowEnd="1502" colStart="106" colEnd="259">
+        <line LineNumber="26" rowStart="1404" rowEnd="1435">
+            <word unicode="ಕುಲಬರ್ಗಿ" WordNumber="1" rowStart="1404" rowEnd="1435" colStart="111" colEnd="250"/>
+        </line>
+        <line LineNumber="27" rowStart="1452" rowEnd="1499">
+            <word unicode="(ಗುಲ್ಬರ್ಗ)" WordNumber="1" rowStart="1452" rowEnd="1499" colStart="111" colEnd="250"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="6" rowStart="1423" rowEnd="1480" colStart="498" colEnd="1307">
+        <line LineNumber="28" rowStart="1428" rowEnd="1474">
+            <word unicode="ಗುಲ್ಬರ್ಗ" WordNumber="1" rowStart="1428" rowEnd="1474" colStart="505" colEnd="625"/>
+            <word unicode=".." WordNumber="2" rowStart="1436" rowEnd="1453" colStart="953" colEnd="993"/>
+            <word unicode="23" WordNumber="3" rowStart="1428" rowEnd="1474" colStart="1266" colEnd="1298"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="7" rowStart="1502" rowEnd="2155" colStart="104" colEnd="1309">
+        <line LineNumber="29" rowStart="1503" rowEnd="1546">
+            <word unicode="ಕುಲವಳ್ಳಿ" WordNumber="1" rowStart="1503" rowEnd="1546" colStart="111" colEnd="234"/>
+            <word unicode="ಬೆಳಗಾಂ" WordNumber="2" rowStart="1505" rowEnd="1538" colStart="499" colEnd="623"/>
+            <word unicode=".." WordNumber="3" rowStart="1513" rowEnd="1529" colStart="954" colEnd="998"/>
+            <word unicode="166" WordNumber="4" rowStart="1506" rowEnd="1529" colStart="1250" colEnd="1300"/>
+        </line>
+        <line LineNumber="30" rowStart="1552" rowEnd="1594">
+            <word unicode="ಕುಲ್ಲಿ" WordNumber="1" rowStart="1553" rowEnd="1594" colStart="111" colEnd="171"/>
+            <word unicode="ದಕ್ಷಿಣ" WordNumber="2" rowStart="1553" rowEnd="1594" colStart="498" colEnd="598"/>
+            <word unicode="ಕನ್ನಡ" WordNumber="3" rowStart="1552" rowEnd="1594" colStart="609" colEnd="700"/>
+            <word unicode=".." WordNumber="4" rowStart="1562" rowEnd="1575" colStart="955" colEnd="996"/>
+            <word unicode="64" WordNumber="5" rowStart="1558" rowEnd="1579" colStart="1250" colEnd="1300"/>
+        </line>
+        <line LineNumber="31" rowStart="1601" rowEnd="1644">
+            <word unicode="ಕುಲ್ಗಿ" WordNumber="1" rowStart="1601" rowEnd="1642" colStart="111" colEnd="184"/>
+            <word unicode="ಉತ್ತರ" WordNumber="2" rowStart="1601" rowEnd="1644" colStart="501" colEnd="607"/>
+            <word unicode="ಕನ್ನಡ" WordNumber="3" rowStart="1601" rowEnd="1644" colStart="610" colEnd="696"/>
+            <word unicode=".." WordNumber="4" rowStart="1611" rowEnd="1625" colStart="957" colEnd="994"/>
+            <word unicode="153" WordNumber="5" rowStart="1606" rowEnd="1628" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="32" rowStart="1649" rowEnd="1694">
+            <word unicode="ಕುಷ್ಟಗಿ" WordNumber="1" rowStart="1652" rowEnd="1694" colStart="111" colEnd="212"/>
+            <word unicode="ರಾಯಚೂರು" WordNumber="2" rowStart="1649" rowEnd="1685" colStart="501" colEnd="697"/>
+            <word unicode=".." WordNumber="3" rowStart="1671" rowEnd="1686" colStart="955" colEnd="996"/>
+            <word unicode="166" WordNumber="4" rowStart="1656" rowEnd="1678" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="33" rowStart="1700" rowEnd="1746">
+            <word unicode="ಕೃಷ್ಣರಾಜಪೇಟೆ" WordNumber="1" rowStart="1700" rowEnd="1744" colStart="111" colEnd="326"/>
+            <word unicode="ಮಂಡ್ಯ" WordNumber="2" rowStart="1700" rowEnd="1746" colStart="501" colEnd="599"/>
+            <word unicode=".." WordNumber="3" rowStart="1710" rowEnd="1726" colStart="954" colEnd="996"/>
+            <word unicode="21," WordNumber="4" rowStart="1700" rowEnd="1736" colStart="1124" colEnd="1168"/>
+            <word unicode="22," WordNumber="5" rowStart="1700" rowEnd="1736" colStart="1187" colEnd="1232"/>
+            <word unicode="236" WordNumber="6" rowStart="1706" rowEnd="1729" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="34" rowStart="1751" rowEnd="1787">
+            <word unicode="ಕೆಂಪಿನಕೋಟೆ" WordNumber="1" rowStart="1753" rowEnd="1787" colStart="113" colEnd="306"/>
+            <word unicode="ಹಾಸನ" WordNumber="2" rowStart="1751" rowEnd="1781" colStart="501" colEnd="599"/>
+            <word unicode="41," WordNumber="3" rowStart="1756" rowEnd="1786" colStart="962" colEnd="1020"/>
+            <word unicode="46," WordNumber="4" rowStart="1756" rowEnd="1786" colStart="1023" colEnd="1070"/>
+            <word unicode="135," WordNumber="5" rowStart="1756" rowEnd="1786" colStart="1092" colEnd="1151"/>
+            <word unicode="267," WordNumber="6" rowStart="1756" rowEnd="1786" colStart="1170" colEnd="1232"/>
+            <word unicode="270" WordNumber="7" rowStart="1757" rowEnd="1780" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="35" rowStart="1801" rowEnd="1845">
+            <word unicode="ಕೆಮ್ಮಣ್ಣುಗುಂಡಿ" WordNumber="1" rowStart="1801" rowEnd="1844" colStart="111" colEnd="326"/>
+            <word unicode="ಚಿಕ್ಕಮಗಳೂರು" WordNumber="2" rowStart="1801" rowEnd="1845" colStart="501" colEnd="729"/>
+            <word unicode="57," WordNumber="3" rowStart="1806" rowEnd="1836" colStart="980" colEnd="1023"/>
+            <word unicode="59," WordNumber="4" rowStart="1806" rowEnd="1838" colStart="1044" colEnd="1088"/>
+            <word unicode="60," WordNumber="5" rowStart="1807" rowEnd="1838" colStart="1108" colEnd="1151"/>
+            <word unicode="169," WordNumber="6" rowStart="1807" rowEnd="1838" colStart="1172" colEnd="1231"/>
+            <word unicode="186" WordNumber="7" rowStart="1807" rowEnd="1830" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="36" rowStart="1851" rowEnd="1882">
+            <word unicode="ಕೆಲಿಲಿ" WordNumber="1" rowStart="1853" rowEnd="1882" colStart="111" colEnd="192"/>
+            <word unicode="ಬೆಳಗಾಂ" WordNumber="2" rowStart="1851" rowEnd="1881" colStart="501" colEnd="613"/>
+            <word unicode=".." WordNumber="3" rowStart="1864" rowEnd="1875" colStart="955" colEnd="991"/>
+            <word unicode="153" WordNumber="4" rowStart="1858" rowEnd="1881" colStart="1251" colEnd="1300"/>
+        </line>
+        <line LineNumber="37" rowStart="1902" rowEnd="1946">
+            <word unicode="ಕೈದಾಳ" WordNumber="1" rowStart="1903" rowEnd="1946" colStart="111" colEnd="214"/>
+            <word unicode="ಚಿತ್ರದುರ್ಗ" WordNumber="2" rowStart="1902" rowEnd="1944" colStart="501" colEnd="670"/>
+            <word unicode=".." WordNumber="3" rowStart="1912" rowEnd="1929" colStart="955" colEnd="993"/>
+            <word unicode="75," WordNumber="4" rowStart="1902" rowEnd="1939" colStart="1204" colEnd="1246"/>
+            <word unicode="95" WordNumber="5" rowStart="1902" rowEnd="1939" colStart="1268" colEnd="1300"/>
+        </line>
+        <line LineNumber="38" rowStart="1951" rowEnd="1995">
+            <word unicode="ಕೊಂಡ್ಲಿ" WordNumber="1" rowStart="1953" rowEnd="1995" colStart="111" colEnd="214"/>
+            <word unicode="ತುಮಕೂರು" WordNumber="2" rowStart="1951" rowEnd="1979" colStart="501" colEnd="670"/>
+            <word unicode=".." WordNumber="3" rowStart="1962" rowEnd="1975" colStart="953" colEnd="995"/>
+            <word unicode="138," WordNumber="4" rowStart="1956" rowEnd="1986" colStart="1009" colEnd="1068"/>
+            <word unicode="142," WordNumber="5" rowStart="1957" rowEnd="1988" colStart="1090" colEnd="1149"/>
+            <word unicode="143," WordNumber="6" rowStart="1958" rowEnd="1988" colStart="1171" colEnd="1229"/>
+            <word unicode="156" WordNumber="7" rowStart="1958" rowEnd="1980" colStart="1250" colEnd="1300"/>
+        </line>
+        <line LineNumber="39" rowStart="2001" rowEnd="2045">
+            <word unicode="ಕೊಂಬಾರ್" WordNumber="1" rowStart="2002" rowEnd="2028" colStart="111" colEnd="267"/>
+            <word unicode="ದಕ್ಷಿಣ" WordNumber="2" rowStart="2001" rowEnd="2045" colStart="501" colEnd="594"/>
+            <word unicode="ಕನ್ನಡ" WordNumber="3" rowStart="2001" rowEnd="2045" colStart="618" colEnd="699"/>
+            <word unicode=".." WordNumber="4" rowStart="2013" rowEnd="2027" colStart="958" colEnd="998"/>
+            <word unicode="216" WordNumber="5" rowStart="2007" rowEnd="2029" colStart="1248" colEnd="1300"/>
+        </line>
+        <line LineNumber="40" rowStart="2051" rowEnd="2095">
+            <word unicode="ಕೊಡಚಾದ್ರಿ" WordNumber="1" rowStart="2052" rowEnd="2092" colStart="111" colEnd="267"/>
+            <word unicode="ಶಿವಮೊಗ್ಗ" WordNumber="2" rowStart="2051" rowEnd="2095" colStart="501" colEnd="635"/>
+            <word unicode=".." WordNumber="3" rowStart="2061" rowEnd="2075" colStart="952" colEnd="993"/>
+            <word unicode="21" WordNumber="4" rowStart="2057" rowEnd="2078" colStart="1248" colEnd="1300"/>
+        </line>
+        <line LineNumber="41" rowStart="2100" rowEnd="2147">
+            <word unicode="ಕೊರಗುವಳ್ಳಿ" WordNumber="1" rowStart="2100" rowEnd="2144" colStart="111" colEnd="275"/>
+            <word unicode="ಶಿವಮೊಗ್ಗ" WordNumber="2" rowStart="2100" rowEnd="2147" colStart="501" colEnd="642"/>
+            <word unicode=".." WordNumber="3" rowStart="2112" rowEnd="2125" colStart="950" colEnd="994"/>
+            <word unicode="101" WordNumber="4" rowStart="2106" rowEnd="2129" colStart="1249" colEnd="1300"/>
+        </line>
+    </block>
+</page>

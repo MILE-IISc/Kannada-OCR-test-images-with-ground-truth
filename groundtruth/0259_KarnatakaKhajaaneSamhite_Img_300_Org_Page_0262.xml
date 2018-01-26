@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" BookCode="0259" PageNumber="262" ImageLoc="0259_KarnatakaKhajaaneSamhite_Img_300_Original/0259_KarnatakaKhajaaneSamhite_Img_300_Org_Page_0262.tif">
+    <block type="Text" BlockNumber="1" rowStart="89" rowEnd="116" colStart="610" colEnd="679">
+        <line LineNumber="1" rowStart="89" rowEnd="116">
+            <word unicode="262" WordNumber="1" rowStart="89" rowEnd="116" colStart="610" colEnd="679"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="2" rowStart="183" rowEnd="2033" colStart="29" colEnd="1238">
+        <line LineNumber="2" rowStart="183" rowEnd="217">
+            <word unicode="ಪ" WordNumber="1" rowStart="183" rowEnd="215" colStart="1150" colEnd="1173"/>
+            <word unicode="1" WordNumber="2" rowStart="191" rowEnd="217" colStart="1208" colEnd="1218"/>
+        </line>
+        <line LineNumber="3" rowStart="233" rowEnd="292">
+            <word unicode="ವೇತನ" WordNumber="1" rowStart="233" rowEnd="276" colStart="35" colEnd="124"/>
+            <word unicode="ಮತ್ತು" WordNumber="2" rowStart="240" rowEnd="285" colStart="146" colEnd="244"/>
+            <word unicode="ಭತ್ಯಗಳು--" WordNumber="3" rowStart="240" rowEnd="292" colStart="265" colEnd="451"/>
+        </line>
+        <line LineNumber="4" rowStart="298" rowEnd="345">
+            <word unicode="ಗೆಜೆಟೆಡ್" WordNumber="1" rowStart="298" rowEnd="334" colStart="136" colEnd="265"/>
+            <word unicode="ಸರಕಾರಿ" WordNumber="2" rowStart="302" rowEnd="335" colStart="286" colEnd="398"/>
+            <word unicode="ನೌಕರರು" WordNumber="3" rowStart="306" rowEnd="341" colStart="421" colEnd="555"/>
+            <word unicode="ನೋಡಿ" WordNumber="4" rowStart="306" rowEnd="345" colStart="583" colEnd="682"/>
+        </line>
+        <line LineNumber="5" rowStart="355" rowEnd="397">
+            <word unicode="ಸಂದಾಯಾದೇಶಗಳು--" WordNumber="1" rowStart="355" rowEnd="397" colStart="135" colEnd="481"/>
+        </line>
+        <line LineNumber="6" rowStart="416" rowEnd="483">
+            <word unicode="ಬ್ಯಾಂಕಿಗೆ" WordNumber="1" rowStart="416" rowEnd="479" colStart="134" colEnd="269"/>
+            <word unicode="ಕೊಟ್ಟ--ಗಳ" WordNumber="2" rowStart="426" rowEnd="483" colStart="289" colEnd="486"/>
+            <word unicode="ಪ್ರಚಲನ" WordNumber="3" rowStart="430" rowEnd="476" colStart="505" colEnd="635"/>
+            <word unicode="99" WordNumber="4" rowStart="438" rowEnd="464" colStart="975" colEnd="1026"/>
+        </line>
+        <line LineNumber="7" rowStart="495" rowEnd="537">
+            <word unicode="ಸಂದಾಯಗಳು--" WordNumber="1" rowStart="495" rowEnd="537" colStart="29" colEnd="295"/>
+        </line>
+        <line LineNumber="8" rowStart="566" rowEnd="621">
+            <word unicode="ಪ್ರತ್ಯಯ" WordNumber="1" rowStart="567" rowEnd="621" colStart="137" colEnd="268"/>
+            <word unicode="ಪತ್ರಗಳಿಗೆ" WordNumber="2" rowStart="566" rowEnd="613" colStart="287" colEnd="429"/>
+            <word unicode="ಅಥವಾ" WordNumber="3" rowStart="572" rowEnd="610" colStart="450" colEnd="550"/>
+            <word unicode="ಹಸ್ತಾಂತರಣಗಳಿಗೆ" WordNumber="4" rowStart="567" rowEnd="615" colStart="572" colEnd="836"/>
+        </line>
+        <line LineNumber="9" rowStart="634" rowEnd="679">
+            <word unicode="ಪ್ರತಿಯಾಗಿ--ಗಳು" WordNumber="1" rowStart="634" rowEnd="679" colStart="136" colEnd="416"/>
+            <word unicode="72" WordNumber="2" rowStart="640" rowEnd="667" colStart="985" colEnd="1029"/>
+        </line>
+        <line LineNumber="10" rowStart="694" rowEnd="746">
+            <word unicode="ಚೆಕ್ಕುಗಳ" WordNumber="1" rowStart="694" rowEnd="746" colStart="137" colEnd="276"/>
+            <word unicode="ಮೂಲಕ-ಗಳು" WordNumber="2" rowStart="696" rowEnd="732" colStart="294" colEnd="510"/>
+        </line>
+        <line LineNumber="11" rowStart="752" rowEnd="809">
+            <word unicode="ಖಜಾನೆಯಲ್ಲಿಯ" WordNumber="1" rowStart="752" rowEnd="802" colStart="137" colEnd="377"/>
+            <word unicode="ಸಾಮಾನ್ಯ" WordNumber="2" rowStart="757" rowEnd="809" colStart="400" colEnd="548"/>
+            <word unicode="ಕಾರ್ಯವಿಧಾನ" WordNumber="3" rowStart="756" rowEnd="797" colStart="569" colEnd="785"/>
+            <word unicode="70-71" WordNumber="4" rowStart="761" rowEnd="789" colStart="1109" colEnd="1224"/>
+        </line>
+        <line LineNumber="12" rowStart="818" rowEnd="863">
+            <word unicode="ಅಂಚೆ" WordNumber="1" rowStart="818" rowEnd="852" colStart="138" colEnd="217"/>
+            <word unicode="ಮನಿಆರ್ಡರುಗಳ" WordNumber="2" rowStart="819" rowEnd="863" colStart="238" colEnd="479"/>
+            <word unicode="ಮೂಲ--ಗಳು" WordNumber="3" rowStart="821" rowEnd="852" colStart="498" colEnd="715"/>
+        </line>
+        <line LineNumber="13" rowStart="882" rowEnd="939">
+            <word unicode="ಸಾಮಾನ್ಯ" WordNumber="1" rowStart="884" rowEnd="938" colStart="138" colEnd="287"/>
+            <word unicode="ನಿಯಮಗಳು" WordNumber="2" rowStart="882" rowEnd="939" colStart="308" colEnd="492"/>
+            <word unicode="74" WordNumber="3" rowStart="887" rowEnd="914" colStart="1018" colEnd="1063"/>
+            <word unicode="(ಡಿ)" WordNumber="4" rowStart="883" rowEnd="928" colStart="1085" colEnd="1144"/>
+        </line>
+        <line LineNumber="14" rowStart="943" rowEnd="1000">
+            <word unicode="ಬ್ಯಾಂಕು" WordNumber="1" rowStart="949" rowEnd="1000" colStart="137" colEnd="270"/>
+            <word unicode="ಖಜಾನೆಗಳಲ್ಲಿ-ಗಳ" WordNumber="2" rowStart="943" rowEnd="998" colStart="290" colEnd="554"/>
+            <word unicode="ಸಾಮನ್ಯ" WordNumber="3" rowStart="943" rowEnd="997" colStart="576" colEnd="742"/>
+            <word unicode="ಕಾರ್ಯವಿಧಾನ" WordNumber="4" rowStart="944" rowEnd="985" colStart="754" colEnd="975"/>
+            <word unicode="67," WordNumber="5" rowStart="949" rowEnd="985" colStart="1029" colEnd="1088"/>
+            <word unicode="87-99" WordNumber="6" rowStart="949" rowEnd="976" colStart="1110" colEnd="1227"/>
+        </line>
+        <line LineNumber="15" rowStart="1009" rowEnd="1065">
+            <word unicode="ಬ್ಯಾಂಕೇತರ" WordNumber="1" rowStart="1010" rowEnd="1065" colStart="139" colEnd="310"/>
+            <word unicode="ಉಪಖಜಾನೆಗಳಲ್ಲಿ--ಗಳ" WordNumber="2" rowStart="1009" rowEnd="1056" colStart="348" colEnd="686"/>
+            <word unicode="ಸಾಮಾನ್ಯ" WordNumber="3" rowStart="1010" rowEnd="1065" colStart="714" colEnd="858"/>
+        </line>
+        <line LineNumber="16" rowStart="1073" rowEnd="1114">
+            <word unicode="ಕಾರ್ಯವಿಧಾನ" WordNumber="1" rowStart="1073" rowEnd="1114" colStart="140" colEnd="359"/>
+            <word unicode="67-76" WordNumber="2" rowStart="1073" rowEnd="1107" colStart="1104" colEnd="1229"/>
+        </line>
+        <line LineNumber="17" rowStart="1134" rowEnd="1185">
+            <word unicode="ಗೆಜೆಟೆಡ್" WordNumber="1" rowStart="1137" rowEnd="1171" colStart="140" colEnd="266"/>
+            <word unicode="ಸರಕಾರಿ" WordNumber="2" rowStart="1136" rowEnd="1168" colStart="301" colEnd="414"/>
+            <word unicode="ನೌಕರರ" WordNumber="3" rowStart="1136" rowEnd="1172" colStart="436" colEnd="553"/>
+            <word unicode="ವೇತನ" WordNumber="4" rowStart="1134" rowEnd="1179" colStart="589" colEnd="686"/>
+            <word unicode="ಅಥವಾ" WordNumber="5" rowStart="1137" rowEnd="1176" colStart="701" colEnd="801"/>
+            <word unicode="ಭತ್ಯ" WordNumber="6" rowStart="1134" rowEnd="1185" colStart="838" colEnd="903"/>
+        </line>
+        <line LineNumber="18" rowStart="1198" rowEnd="1259">
+            <word unicode="ಇತ್ಯಾದಿಗಳ--" WordNumber="1" rowStart="1203" rowEnd="1259" colStart="136" colEnd="336"/>
+            <word unicode="93" WordNumber="2" rowStart="1201" rowEnd="1230" colStart="1104" colEnd="1146"/>
+            <word unicode="(3)" WordNumber="3" rowStart="1198" rowEnd="1243" colStart="1170" colEnd="1229"/>
+        </line>
+        <line LineNumber="19" rowStart="1262" rowEnd="1318">
+            <word unicode="ಸರಕಾರಿ" WordNumber="1" rowStart="1269" rowEnd="1302" colStart="140" colEnd="265"/>
+            <word unicode="ನೇವೇಯಲ್ಲಿರದ" WordNumber="2" rowStart="1264" rowEnd="1315" colStart="287" colEnd="482"/>
+            <word unicode="ವ್ಯಕ್ತಿಗಳಿಗೆ" WordNumber="3" rowStart="1262" rowEnd="1318" colStart="516" colEnd="672"/>
+            <word unicode="96" WordNumber="4" rowStart="1267" rowEnd="1297" colStart="1087" colEnd="1134"/>
+        </line>
+        <line LineNumber="20" rowStart="1353" rowEnd="1405">
+            <word unicode="ಖಜಾನೆಯಲ್ಲಿ" WordNumber="1" rowStart="1358" rowEnd="1405" colStart="43" colEnd="230"/>
+            <word unicode="ಸಂದಾಯ-" WordNumber="2" rowStart="1353" rowEnd="1387" colStart="272" colEnd="442"/>
+        </line>
+        <line LineNumber="21" rowStart="1406" rowEnd="1468">
+            <word unicode="ಬ್ಯಾಂಕುಗಳಿಗೆ" WordNumber="1" rowStart="1411" rowEnd="1468" colStart="144" colEnd="344"/>
+            <word unicode="ಬರೆದ" WordNumber="2" rowStart="1406" rowEnd="1448" colStart="377" colEnd="455"/>
+            <word unicode="ಚೆಕ್ಕುಗಳ" WordNumber="3" rowStart="1410" rowEnd="1464" colStart="475" colEnd="612"/>
+            <word unicode="ಮೂಲಕ" WordNumber="4" rowStart="1413" rowEnd="1445" colStart="645" colEnd="764"/>
+            <word unicode="88" WordNumber="5" rowStart="1413" rowEnd="1443" colStart="1089" colEnd="1133"/>
+        </line>
+        <line LineNumber="22" rowStart="1472" rowEnd="1528">
+            <word unicode="--ದ" WordNumber="1" rowStart="1476" rowEnd="1509" colStart="145" colEnd="200"/>
+            <word unicode="ಬಗ್ಗೆ" WordNumber="2" rowStart="1473" rowEnd="1526" colStart="236" colEnd="301"/>
+            <word unicode="ಸವಿಸ್ತರ" WordNumber="3" rowStart="1474" rowEnd="1521" colStart="339" colEnd="451"/>
+            <word unicode="ಕಾರ್ಯವಿಧಾನ" WordNumber="4" rowStart="1475" rowEnd="1515" colStart="470" colEnd="689"/>
+            <word unicode="ಬ್ಯಾಂಕೇತರ" WordNumber="5" rowStart="1472" rowEnd="1528" colStart="709" colEnd="881"/>
+        </line>
+        <line LineNumber="23" rowStart="1536" rowEnd="1584">
+            <word unicode="ಖಜಾನೆಗಳಲ್ಲಿ" WordNumber="1" rowStart="1536" rowEnd="1584" colStart="145" colEnd="333"/>
+            <word unicode="65," WordNumber="2" rowStart="1536" rowEnd="1573" colStart="1106" colEnd="1165"/>
+            <word unicode="66" WordNumber="3" rowStart="1537" rowEnd="1564" colStart="1186" colEnd="1233"/>
+        </line>
+        <line LineNumber="24" rowStart="1597" rowEnd="1655">
+            <word unicode="ಬ್ಯಾಂಕು" WordNumber="1" rowStart="1602" rowEnd="1655" colStart="145" colEnd="270"/>
+            <word unicode="ಖಜಾನೆಗಳಲ್ಲಿ" WordNumber="2" rowStart="1597" rowEnd="1645" colStart="289" colEnd="476"/>
+            <word unicode="80," WordNumber="3" rowStart="1602" rowEnd="1637" colStart="1100" colEnd="1158"/>
+            <word unicode="86" WordNumber="4" rowStart="1603" rowEnd="1629" colStart="1188" colEnd="1234"/>
+        </line>
+        <line LineNumber="25" rowStart="1677" rowEnd="1732">
+            <word unicode="ನಿವೃತ್ತಿ" WordNumber="1" rowStart="1679" rowEnd="1732" colStart="47" colEnd="152"/>
+            <word unicode="ವೇತನಗಳು--" WordNumber="2" rowStart="1677" rowEnd="1725" colStart="188" colEnd="373"/>
+        </line>
+        <line LineNumber="26" rowStart="1738" rowEnd="1795">
+            <word unicode="--ಗಳನ್ನು" WordNumber="1" rowStart="1741" rowEnd="1792" colStart="146" colEnd="285"/>
+            <word unicode="ತೆಗೆಯುವ" WordNumber="2" rowStart="1738" rowEnd="1774" colStart="300" colEnd="442"/>
+            <word unicode="ಬಗ್ಗೆ" WordNumber="3" rowStart="1738" rowEnd="1791" colStart="462" colEnd="528"/>
+            <word unicode="ನಷ್ಟಭರ್ತಿಯ" WordNumber="4" rowStart="1740" rowEnd="1795" colStart="546" colEnd="749"/>
+            <word unicode="ಬಂಧಪತ್ರ" WordNumber="5" rowStart="1739" rowEnd="1785" colStart="760" colEnd="897"/>
+            <word unicode="182," WordNumber="6" rowStart="1743" rowEnd="1780" colStart="1057" colEnd="1136"/>
+            <word unicode="183" WordNumber="7" rowStart="1744" rowEnd="1772" colStart="1170" colEnd="1236"/>
+        </line>
+        <line LineNumber="27" rowStart="1801" rowEnd="1859">
+            <word unicode="--ನ" WordNumber="1" rowStart="1805" rowEnd="1844" colStart="146" colEnd="198"/>
+            <word unicode="ತೆಗೆಯುವುದಕ್ಕೆ" WordNumber="2" rowStart="1802" rowEnd="1856" colStart="219" colEnd="435"/>
+            <word unicode="ಬೇಕಾದ" WordNumber="3" rowStart="1801" rowEnd="1835" colStart="471" colEnd="585"/>
+            <word unicode="ಅ--ನಿಯೋಜನೆಯ" WordNumber="4" rowStart="1802" rowEnd="1859" colStart="607" colEnd="874"/>
+        </line>
+        <line LineNumber="28" rowStart="1866" rowEnd="1915">
+            <word unicode="ಪ್ರಮಾಣಪತ್ರ" WordNumber="1" rowStart="1866" rowEnd="1915" colStart="144" colEnd="350"/>
+            <word unicode="191" WordNumber="2" rowStart="1871" rowEnd="1899" colStart="1077" colEnd="1138"/>
+            <word unicode="(1)" WordNumber="3" rowStart="1868" rowEnd="1914" colStart="1178" colEnd="1238"/>
+        </line>
+        <line LineNumber="29" rowStart="1930" rowEnd="1983">
+            <word unicode="--ಪ" WordNumber="1" rowStart="1930" rowEnd="1965" colStart="145" colEnd="199"/>
+            <word unicode="ಪರಿವರ್ತಿತ" WordNumber="2" rowStart="1931" rowEnd="1964" colStart="217" colEnd="365"/>
+            <word unicode="ಮೌಲ್ಯ" WordNumber="3" rowStart="1931" rowEnd="1983" colStart="413" colEnd="519"/>
+            <word unicode="202" WordNumber="4" rowStart="1933" rowEnd="1962" colStart="1166" colEnd="1236"/>
+        </line>
+        <line LineNumber="30" rowStart="1990" rowEnd="2033">
+            <word unicode="--ಸಂದಾಯದ" WordNumber="1" rowStart="1992" rowEnd="2026" colStart="147" colEnd="348"/>
+            <word unicode="ನಿಗದಿಯಾದ" WordNumber="2" rowStart="1992" rowEnd="2033" colStart="364" colEnd="538"/>
+            <word unicode="ದಿನಾಂಕ" WordNumber="3" rowStart="1990" rowEnd="2029" colStart="575" colEnd="695"/>
+            <word unicode="176," WordNumber="4" rowStart="1997" rowEnd="2032" colStart="1068" colEnd="1147"/>
+            <word unicode="177" WordNumber="5" rowStart="1998" rowEnd="2025" colStart="1172" colEnd="1238"/>
+        </line>
+    </block>
+</page>

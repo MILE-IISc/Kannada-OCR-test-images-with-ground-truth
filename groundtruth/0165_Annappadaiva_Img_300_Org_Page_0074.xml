@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" BookCode="0165" PageNumber="74" ImageLoc="0165_Annappadaiva_Img_300_Original/0165_Annappadaiva_Img_300_Org_Page_0074.tif">
+    <block type="Image" BlockNumber="1" rowStart="962" rowEnd="994" colStart="1281" colEnd="1314"/>
+    <block type="Text" BlockNumber="2" rowStart="75" rowEnd="122" colStart="94" colEnd="1309">
+        <line LineNumber="1" rowStart="75" rowEnd="122">
+            <word unicode="74" WordNumber="1" rowStart="75" rowEnd="101" colStart="94" colEnd="130"/>
+            <word unicode="ಅಣ್ಣಪ್ಪದೈವ" WordNumber="2" rowStart="78" rowEnd="122" colStart="1163" colEnd="1309"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="3" rowStart="193" rowEnd="669" colStart="87" colEnd="1316">
+        <line LineNumber="2" rowStart="193" rowEnd="240">
+            <word unicode="ಜೋಗ;" WordNumber="1" rowStart="193" rowEnd="228" colStart="88" colEnd="198"/>
+            <word unicode="ಎರಡು" WordNumber="2" rowStart="193" rowEnd="223" colStart="216" colEnd="312"/>
+            <word unicode="ಒಂದಾಗುವುದು" WordNumber="3" rowStart="194" rowEnd="230" colStart="330" colEnd="542"/>
+            <word unicode="ಮಾಯ." WordNumber="4" rowStart="195" rowEnd="225" colStart="561" colEnd="681"/>
+            <word unicode="ಜೋಗದಲ್ಲಿ" WordNumber="5" rowStart="195" rowEnd="239" colStart="699" colEnd="867"/>
+            <word unicode="ಮಾಯ;" WordNumber="6" rowStart="196" rowEnd="232" colStart="879" colEnd="997"/>
+            <word unicode="ಮಾಯದಲ್ಲಿ" WordNumber="7" rowStart="197" rowEnd="240" colStart="1014" colEnd="1190"/>
+            <word unicode="ಜೋಗ." WordNumber="8" rowStart="197" rowEnd="228" colStart="1202" colEnd="1313"/>
+        </line>
+        <line LineNumber="3" rowStart="256" rowEnd="305">
+            <word unicode="ಜೋಗ-ಮಾಯಗಳೆರಡೂ" WordNumber="1" rowStart="256" rowEnd="287" colStart="88" colEnd="452"/>
+            <word unicode="ಕೂಡಿಕೊಂಡಾಗಲೇ" WordNumber="2" rowStart="258" rowEnd="288" colStart="493" colEnd="762"/>
+            <word unicode="ಕಾರಣಿಕ." WordNumber="3" rowStart="257" rowEnd="289" colStart="804" colEnd="928"/>
+            <word unicode="ಕಾರಣಿಕವು" WordNumber="4" rowStart="258" rowEnd="295" colStart="969" colEnd="1117"/>
+            <word unicode="ಜೋಗಕ್ಕೂ" WordNumber="5" rowStart="260" rowEnd="305" colStart="1159" colEnd="1316"/>
+        </line>
+        <line LineNumber="4" rowStart="319" rowEnd="370">
+            <word unicode="ಇಳಿಯುತ್ತದೆ," WordNumber="1" rowStart="319" rowEnd="363" colStart="88" colEnd="272"/>
+            <word unicode="ಮಾಯಕ್ಕೂ" WordNumber="2" rowStart="320" rowEnd="365" colStart="308" colEnd="472"/>
+            <word unicode="ಇಳಿಯುತ್ತದೆ." WordNumber="3" rowStart="320" rowEnd="366" colStart="505" colEnd="687"/>
+            <word unicode="ಕುಡುಮದ" WordNumber="4" rowStart="322" rowEnd="352" colStart="723" colEnd="871"/>
+            <word unicode="ಕಾಡಿನಲ್ಲಿ" WordNumber="5" rowStart="322" rowEnd="365" colStart="906" colEnd="1034"/>
+            <word unicode="ಕಾರಣಿಕವುಳ್ಳ" WordNumber="6" rowStart="321" rowEnd="370" colStart="1062" colEnd="1241"/>
+            <word unicode="ಈ" WordNumber="7" rowStart="324" rowEnd="354" colStart="1274" colEnd="1312"/>
+        </line>
+        <line LineNumber="5" rowStart="382" rowEnd="430">
+            <word unicode="ಕೋಡುಗಲ್ಲು" WordNumber="1" rowStart="382" rowEnd="427" colStart="87" colEnd="270"/>
+            <word unicode="ನೆಲೆಗೊಂಡರೆ," WordNumber="2" rowStart="383" rowEnd="421" colStart="297" colEnd="498"/>
+            <word unicode="ಬೀಡು" WordNumber="3" rowStart="386" rowEnd="414" colStart="532" colEnd="618"/>
+            <word unicode="ನೆಮ್ಮದಿಯಿಂದ" WordNumber="4" rowStart="385" rowEnd="430" colStart="653" colEnd="865"/>
+            <word unicode="ನಿಂತೀತು;" WordNumber="5" rowStart="386" rowEnd="421" colStart="900" colEnd="1035"/>
+            <word unicode="ಬೀಡಿನ" WordNumber="6" rowStart="387" rowEnd="418" colStart="1068" colEnd="1168"/>
+            <word unicode="ಒಡೆತನ" WordNumber="7" rowStart="387" rowEnd="419" colStart="1203" colEnd="1313"/>
+        </line>
+        <line LineNumber="6" rowStart="447" rowEnd="494">
+            <word unicode="ಮಾಡುವ" WordNumber="1" rowStart="448" rowEnd="477" colStart="88" colEnd="219"/>
+            <word unicode="ಪೆರ್ಗಡೆಗೆ" WordNumber="2" rowStart="447" rowEnd="478" colStart="251" colEnd="382"/>
+            <word unicode="ನೀತಿಯ" WordNumber="3" rowStart="449" rowEnd="479" colStart="413" colEnd="525"/>
+            <word unicode="ನೆಲಗಟ್ಟು" WordNumber="4" rowStart="448" rowEnd="493" colStart="556" colEnd="682"/>
+            <word unicode="ಗಟ್ಟಿಯಾದೀತು." WordNumber="5" rowStart="450" rowEnd="494" colStart="711" colEnd="928"/>
+            <word unicode="ಪೆರ್ಗಡೆಯ" WordNumber="6" rowStart="450" rowEnd="481" colStart="959" colEnd="1115"/>
+            <word unicode="ನೆರವಿಗೆಂದು" WordNumber="7" rowStart="450" rowEnd="482" colStart="1146" colEnd="1312"/>
+        </line>
+        <line LineNumber="7" rowStart="511" rowEnd="561">
+            <word unicode="ನಿಂತಿರುವ" WordNumber="1" rowStart="512" rowEnd="542" colStart="88" colEnd="225"/>
+            <word unicode="ದೈವಗಳ" WordNumber="2" rowStart="511" rowEnd="559" colStart="247" colEnd="358"/>
+            <word unicode="ಕೈಬಲ" WordNumber="3" rowStart="512" rowEnd="559" colStart="380" colEnd="464"/>
+            <word unicode="ಇನ್ನಷ್ಟು" WordNumber="4" rowStart="512" rowEnd="557" colStart="485" colEnd="588"/>
+            <word unicode="ಬಲಗೊಂಡೀತು;" WordNumber="5" rowStart="512" rowEnd="549" colStart="607" colEnd="839"/>
+            <word unicode="ದೈವಗಳ" WordNumber="6" rowStart="514" rowEnd="561" colStart="860" colEnd="972"/>
+            <word unicode="ಬಂಟನಾಗಿ" WordNumber="7" rowStart="518" rowEnd="546" colStart="994" colEnd="1142"/>
+            <word unicode="ಬಂದಿರುವ" WordNumber="8" rowStart="516" rowEnd="546" colStart="1163" colEnd="1313"/>
+        </line>
+        <line LineNumber="8" rowStart="574" rowEnd="620">
+            <word unicode="ತನಗೆ" WordNumber="1" rowStart="575" rowEnd="606" colStart="88" colEnd="159"/>
+            <word unicode="ಈ" WordNumber="2" rowStart="575" rowEnd="604" colStart="177" colEnd="215"/>
+            <word unicode="ಕಾರಣಿಕದ" WordNumber="3" rowStart="574" rowEnd="605" colStart="233" colEnd="376"/>
+            <word unicode="ಕೋಡುಗಲ್ಲನ್ನು" WordNumber="4" rowStart="576" rowEnd="620" colStart="393" colEnd="601"/>
+            <word unicode="ಮುಡಿಯ" WordNumber="5" rowStart="578" rowEnd="607" colStart="614" colEnd="748"/>
+            <word unicode="ಮೇಲೇರಿಸಿಕೊಂಡು" WordNumber="6" rowStart="577" rowEnd="608" colStart="767" colEnd="1036"/>
+            <word unicode="ಕೊಂಡುಹೋಗುವ" WordNumber="7" rowStart="578" rowEnd="609" colStart="1054" colEnd="1313"/>
+        </line>
+        <line LineNumber="9" rowStart="639" rowEnd="669">
+            <word unicode="ಕಾಯಕ" WordNumber="1" rowStart="639" rowEnd="669" colStart="88" colEnd="191"/>
+            <word unicode="ಸಂದೀತು." WordNumber="2" rowStart="640" rowEnd="669" colStart="221" colEnd="360"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="4" rowStart="703" rowEnd="939" colStart="88" colEnd="1317">
+        <line LineNumber="10" rowStart="703" rowEnd="753">
+            <word unicode="ಹೀಗೆಂದುಕೊಂಡು" WordNumber="1" rowStart="703" rowEnd="734" colStart="187" colEnd="435"/>
+            <word unicode="ಅಣ್ಣಪ್ಪ," WordNumber="2" rowStart="704" rowEnd="753" colStart="457" colEnd="557"/>
+            <word unicode="ಕಾರಣಿಕದ" WordNumber="3" rowStart="703" rowEnd="735" colStart="576" colEnd="719"/>
+            <word unicode="ಕೋಡುಗಲ್ಲನ್ನು" WordNumber="4" rowStart="705" rowEnd="750" colStart="740" colEnd="949"/>
+            <word unicode="ತಲೆಯ" WordNumber="5" rowStart="705" rowEnd="737" colStart="965" colEnd="1067"/>
+            <word unicode="ಮೇಲೆ" WordNumber="6" rowStart="706" rowEnd="737" colStart="1089" colEnd="1176"/>
+            <word unicode="ಹೊತ್ತು," WordNumber="7" rowStart="707" rowEnd="752" colStart="1199" colEnd="1312"/>
+        </line>
+        <line LineNumber="11" rowStart="766" rowEnd="817">
+            <word unicode="ಕೋಡುಗಲ್ಲಿನ" WordNumber="1" rowStart="766" rowEnd="810" colStart="89" colEnd="276"/>
+            <word unicode="ಕಾರಣಿಕವನ್ನು" WordNumber="2" rowStart="767" rowEnd="812" colStart="293" colEnd="482"/>
+            <word unicode="ಒಡಲಲ್ಲಿ" WordNumber="3" rowStart="768" rowEnd="812" colStart="494" colEnd="621"/>
+            <word unicode="ಹೊತ್ತು," WordNumber="4" rowStart="768" rowEnd="813" colStart="630" colEnd="745"/>
+            <word unicode="ಕುಡುಮದ" WordNumber="5" rowStart="770" rowEnd="799" colStart="762" colEnd="909"/>
+            <word unicode="ಕಡೆ" WordNumber="6" rowStart="770" rowEnd="800" colStart="926" colEnd="973"/>
+            <word unicode="ಮೈಮರೆತು" WordNumber="7" rowStart="769" rowEnd="817" colStart="990" colEnd="1143"/>
+            <word unicode="ಕುಣಿಯುತ್ತ" WordNumber="8" rowStart="770" rowEnd="816" colStart="1160" colEnd="1317"/>
+        </line>
+        <line LineNumber="12" rowStart="831" rowEnd="880">
+            <word unicode="ಅಡಿಯಿಟ್ಟಿತು." WordNumber="1" rowStart="832" rowEnd="876" colStart="88" colEnd="278"/>
+            <word unicode="ಆಗ" WordNumber="2" rowStart="833" rowEnd="862" colStart="321" colEnd="371"/>
+            <word unicode="ಜೋಗದೊಳಗೆ" WordNumber="3" rowStart="831" rowEnd="863" colStart="413" colEnd="624"/>
+            <word unicode="ಮಾಯ" WordNumber="4" rowStart="833" rowEnd="864" colStart="667" colEnd="775"/>
+            <word unicode="ತಲೆಯಿಕ್ಕಿತು;" WordNumber="5" rowStart="834" rowEnd="879" colStart="818" colEnd="995"/>
+            <word unicode="ಮಾಯಕ್ಕೆ" WordNumber="6" rowStart="835" rowEnd="880" colStart="1037" colEnd="1171"/>
+            <word unicode="ಜೊಗ" WordNumber="7" rowStart="836" rowEnd="866" colStart="1212" colEnd="1313"/>
+        </line>
+        <line LineNumber="13" rowStart="895" rowEnd="939">
+            <word unicode="ತಲೆಯೆತ್ತಿತು." WordNumber="1" rowStart="895" rowEnd="939" colStart="89" colEnd="268"/>
+        </line>
+    </block>
+</page>

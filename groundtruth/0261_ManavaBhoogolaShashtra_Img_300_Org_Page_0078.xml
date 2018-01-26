@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" BookCode="0261" PageNumber="78" ImageLoc="0261_ManavaBhoogolaShashtra_Img_300_Original/0261_ManavaBhoogolaShashtra_Img_300_Org_Page_0078.tif">
+    <block type="Image" BlockNumber="1" rowStart="1178" rowEnd="2044" colStart="278" colEnd="1048"/>
+    <block type="Text" BlockNumber="2" rowStart="78" rowEnd="128" colStart="624" colEnd="699">
+        <line LineNumber="1" rowStart="85" rowEnd="113">
+            <word unicode="78" WordNumber="1" rowStart="85" rowEnd="113" colStart="635" colEnd="682"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="3" rowStart="160" rowEnd="231" colStart="231" colEnd="1084">
+        <line LineNumber="2" rowStart="170" rowEnd="225">
+            <word unicode="ಭಾರತದ" WordNumber="1" rowStart="171" rowEnd="212" colStart="246" colEnd="378"/>
+            <word unicode="ಜನಸಂಖ್ಯೆಯ" WordNumber="2" rowStart="170" rowEnd="225" colStart="396" colEnd="618"/>
+            <word unicode="ಬೆಳವಣಿಗೆ," WordNumber="3" rowStart="170" rowEnd="214" colStart="636" colEnd="807"/>
+            <word unicode="೧೯೦೧-೧೯೮೧" WordNumber="4" rowStart="177" rowEnd="206" colStart="828" colEnd="1068"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="4" rowStart="241" rowEnd="375" colStart="50" colEnd="1264">
+        <line LineNumber="3" rowStart="248" rowEnd="290">
+            <word unicode="ಜನಗಣತಿಯ" WordNumber="1" rowStart="251" rowEnd="289" colStart="62" colEnd="249"/>
+            <word unicode="ಹಿಂದಿನ" WordNumber="2" rowStart="252" rowEnd="290" colStart="842" colEnd="944"/>
+            <word unicode="ಜನಗಣತಿಯ" WordNumber="3" rowStart="250" rowEnd="289" colStart="963" colEnd="1151"/>
+            <word unicode="ಮೇಲೆ" WordNumber="4" rowStart="248" rowEnd="282" colStart="1170" colEnd="1253"/>
+        </line>
+        <line LineNumber="4" rowStart="309" rowEnd="368">
+            <word unicode="ವರ್ಷ" WordNumber="1" rowStart="312" rowEnd="345" colStart="113" colEnd="192"/>
+            <word unicode="ಜನಸಂಖ್ಯೆ" WordNumber="2" rowStart="314" rowEnd="368" colStart="493" colEnd="640"/>
+            <word unicode="ಶೇಕಡಾ" WordNumber="3" rowStart="314" rowEnd="346" colStart="871" colEnd="979"/>
+            <word unicode="ವಾರು" WordNumber="4" rowStart="312" rowEnd="345" colStart="999" colEnd="1085"/>
+            <word unicode="ವ್ಯತ್ಯಾಸ" WordNumber="5" rowStart="309" rowEnd="365" colStart="1105" colEnd="1229"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="5" rowStart="388" rowEnd="930" colStart="90" colEnd="1183">
+        <line LineNumber="5" rowStart="403" rowEnd="438">
+            <word unicode="೧೯೦೧" WordNumber="1" rowStart="403" rowEnd="428" colStart="112" colEnd="213"/>
+            <word unicode="೨೩೮,೩೬೯,೩೨೭" WordNumber="2" rowStart="405" rowEnd="438" colStart="461" colEnd="717"/>
+        </line>
+        <line LineNumber="6" rowStart="453" rowEnd="489">
+            <word unicode="೧೯೧೧" WordNumber="1" rowStart="453" rowEnd="478" colStart="113" colEnd="212"/>
+            <word unicode="೨೫೨,೦೯೩,೩೯೦" WordNumber="2" rowStart="455" rowEnd="489" colStart="459" colEnd="716"/>
+            <word unicode="+" WordNumber="3" rowStart="453" rowEnd="486" colStart="1033" colEnd="1063"/>
+            <word unicode="೫.೭" WordNumber="4" rowStart="453" rowEnd="478" colStart="1091" colEnd="1154"/>
+        </line>
+        <line LineNumber="7" rowStart="516" rowEnd="552">
+            <word unicode="೧೯೨೧" WordNumber="1" rowStart="516" rowEnd="542" colStart="113" colEnd="212"/>
+            <word unicode="೨೫೧,೩೨೧,೨೧೩" WordNumber="2" rowStart="518" rowEnd="552" colStart="462" colEnd="718"/>
+            <word unicode="-" WordNumber="3" rowStart="520" rowEnd="542" colStart="1021" colEnd="1074"/>
+            <word unicode="೨೩" WordNumber="4" rowStart="516" rowEnd="541" colStart="1093" colEnd="1156"/>
+        </line>
+        <line LineNumber="8" rowStart="579" rowEnd="614">
+            <word unicode="೧೯೩೧" WordNumber="1" rowStart="580" rowEnd="605" colStart="113" colEnd="212"/>
+            <word unicode="೨೭೮,೯೭೭,೨೩೮" WordNumber="2" rowStart="581" rowEnd="614" colStart="462" colEnd="719"/>
+            <word unicode="+" WordNumber="3" rowStart="579" rowEnd="612" colStart="1006" colEnd="1038"/>
+            <word unicode="೧೧.೦" WordNumber="4" rowStart="579" rowEnd="603" colStart="1067" colEnd="1154"/>
+        </line>
+        <line LineNumber="9" rowStart="628" rowEnd="665">
+            <word unicode="೧೯೪೧" WordNumber="1" rowStart="631" rowEnd="655" colStart="113" colEnd="212"/>
+            <word unicode="೩೧೮,೬೬೦,೫೮೦" WordNumber="2" rowStart="631" rowEnd="665" colStart="462" colEnd="718"/>
+            <word unicode="+" WordNumber="3" rowStart="628" rowEnd="661" colStart="1007" colEnd="1038"/>
+            <word unicode="೧೪.೨" WordNumber="4" rowStart="628" rowEnd="653" colStart="1067" colEnd="1156"/>
+        </line>
+        <line LineNumber="10" rowStart="690" rowEnd="727">
+            <word unicode="೧೯೫೧" WordNumber="1" rowStart="694" rowEnd="719" colStart="113" colEnd="212"/>
+            <word unicode="೩೬೧,೦೮೮,೦೯೦" WordNumber="2" rowStart="694" rowEnd="727" colStart="463" colEnd="716"/>
+            <word unicode="+" WordNumber="3" rowStart="690" rowEnd="726" colStart="1006" colEnd="1037"/>
+            <word unicode="೧೩.೩" WordNumber="4" rowStart="691" rowEnd="716" colStart="1066" colEnd="1154"/>
+        </line>
+        <line LineNumber="11" rowStart="755" rowEnd="791">
+            <word unicode="೧೯೬೧" WordNumber="1" rowStart="757" rowEnd="782" colStart="113" colEnd="212"/>
+            <word unicode="೪೩೯,೨೩೪,೭೭೧" WordNumber="2" rowStart="757" rowEnd="791" colStart="462" colEnd="718"/>
+            <word unicode="+" WordNumber="3" rowStart="755" rowEnd="788" colStart="1006" colEnd="1037"/>
+            <word unicode="೨೧.೫" WordNumber="4" rowStart="755" rowEnd="779" colStart="1065" colEnd="1154"/>
+        </line>
+        <line LineNumber="12" rowStart="816" rowEnd="854">
+            <word unicode="೧೯೭೧" WordNumber="1" rowStart="821" rowEnd="846" colStart="113" colEnd="212"/>
+            <word unicode="೫೪೮,೧೫೯,೬೫೨" WordNumber="2" rowStart="821" rowEnd="854" colStart="462" colEnd="719"/>
+            <word unicode="+" WordNumber="3" rowStart="816" rowEnd="852" colStart="1005" colEnd="1040"/>
+            <word unicode="೨೪.೮" WordNumber="4" rowStart="818" rowEnd="842" colStart="1065" colEnd="1154"/>
+        </line>
+        <line LineNumber="13" rowStart="880" rowEnd="917">
+            <word unicode="೧೯೮೧" WordNumber="1" rowStart="884" rowEnd="909" colStart="113" colEnd="212"/>
+            <word unicode="೬೮೫,೧೮೪,೬೯೨" WordNumber="2" rowStart="883" rowEnd="917" colStart="464" colEnd="719"/>
+            <word unicode="+" WordNumber="3" rowStart="884" rowEnd="913" colStart="1007" colEnd="1036"/>
+            <word unicode="೨೫.೧" WordNumber="4" rowStart="880" rowEnd="906" colStart="1065" colEnd="1155"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="6" rowStart="944" rowEnd="1145" colStart="53" colEnd="1269">
+        <line LineNumber="14" rowStart="954" rowEnd="1010">
+            <word unicode="ಮೇಲ್ಕಂಡ" WordNumber="1" rowStart="957" rowEnd="1009" colStart="164" colEnd="311"/>
+            <word unicode="ಅಂಕಿಸಂಖ್ಯೆಗಳನ್ನು" WordNumber="2" rowStart="956" rowEnd="1010" colStart="331" colEnd="604"/>
+            <word unicode="ಗಮನಿಸಿದರೆ" WordNumber="3" rowStart="955" rowEnd="997" colStart="620" colEnd="788"/>
+            <word unicode="ದೇಶದ" WordNumber="4" rowStart="954" rowEnd="990" colStart="806" colEnd="893"/>
+            <word unicode="ಜನಸಂಖ್ಯೆ" WordNumber="5" rowStart="954" rowEnd="1007" colStart="908" colEnd="1057"/>
+            <word unicode="ಕಳೆದ" WordNumber="6" rowStart="954" rowEnd="989" colStart="1071" colEnd="1145"/>
+            <word unicode="ಎಂಟು" WordNumber="7" rowStart="954" rowEnd="988" colStart="1164" colEnd="1253"/>
+        </line>
+        <line LineNumber="15" rowStart="1016" rowEnd="1071">
+            <word unicode="ದಶಕಗಳಲ್ಲಿ" WordNumber="1" rowStart="1021" rowEnd="1070" colStart="65" colEnd="215"/>
+            <word unicode="೨೩.೮" WordNumber="2" rowStart="1030" rowEnd="1055" colStart="232" colEnd="322"/>
+            <word unicode="ಕೋಟಿಯಿಂದ" WordNumber="3" rowStart="1018" rowEnd="1055" colStart="352" colEnd="545"/>
+            <word unicode="೬೮.೩೮" WordNumber="4" rowStart="1029" rowEnd="1054" colStart="605" colEnd="719"/>
+            <word unicode="ಕೋಟಿಗೆ" WordNumber="5" rowStart="1016" rowEnd="1052" colStart="762" colEnd="883"/>
+            <word unicode="ಮುಟ್ಟಿರುವುದು" WordNumber="6" rowStart="1016" rowEnd="1071" colStart="927" colEnd="1148"/>
+            <word unicode="ಕಂಡು" WordNumber="7" rowStart="1017" rowEnd="1051" colStart="1167" colEnd="1254"/>
+        </line>
+        <line LineNumber="16" rowStart="1078" rowEnd="1135">
+            <word unicode="ಬರುತ್ತದೆ." WordNumber="1" rowStart="1084" rowEnd="1133" colStart="61" colEnd="206"/>
+            <word unicode="ಮೊದಲಿನ" WordNumber="2" rowStart="1083" rowEnd="1124" colStart="225" colEnd="361"/>
+            <word unicode="ಎರಡು" WordNumber="3" rowStart="1082" rowEnd="1117" colStart="379" colEnd="472"/>
+            <word unicode="ದಶಕಗಳಲ್ಲಿ" WordNumber="4" rowStart="1083" rowEnd="1131" colStart="491" colEnd="641"/>
+            <word unicode="ಜನಸಂಖ್ಯೆಯ" WordNumber="5" rowStart="1081" rowEnd="1135" colStart="661" colEnd="859"/>
+            <word unicode="ಬೆಳವಣಿಗೆಯ" WordNumber="6" rowStart="1078" rowEnd="1114" colStart="874" colEnd="1064"/>
+            <word unicode="ಪ್ರಮಾಣವು" WordNumber="7" rowStart="1080" rowEnd="1128" colStart="1078" colEnd="1251"/>
+        </line>
+    </block>
+    <block type="Text" BlockNumber="7" rowStart="2077" rowEnd="2149" colStart="306" colEnd="1022">
+        <line LineNumber="17" rowStart="2085" rowEnd="2142">
+            <word unicode="ಆಕೃತಿ" WordNumber="1" rowStart="2089" rowEnd="2142" colStart="315" colEnd="406"/>
+            <word unicode="೪." WordNumber="2" rowStart="2097" rowEnd="2123" colStart="425" colEnd="462"/>
+            <word unicode="ಭಾರತದ" WordNumber="3" rowStart="2087" rowEnd="2130" colStart="499" colEnd="621"/>
+            <word unicode="ಜನಸಂಖ್ಯೆಯ" WordNumber="4" rowStart="2086" rowEnd="2141" colStart="641" colEnd="838"/>
+            <word unicode="ಬೆಳವಣಿಗೆ" WordNumber="5" rowStart="2085" rowEnd="2121" colStart="870" colEnd="1008"/>
+        </line>
+    </block>
+</page>
