@@ -125,7 +125,7 @@
     </block>
     <block type="Text" BlockNumber="3" rowStart="940" rowEnd="1118" colStart="106" colEnd="1316">
         <line LineNumber="14" rowStart="940" rowEnd="992" colStart="204" colEnd="1316">
-            <word unicode="&quot;ನಾನು" WordNumber="1" rowStart="940" rowEnd="976" colStart="204" colEnd="300"/>
+            <word unicode="“ನಾನು" WordNumber="1" rowStart="940" rowEnd="976" colStart="204" colEnd="300"/>
             <word unicode="ವಾ.ಯಾಮ" WordNumber="2" rowStart="946" rowEnd="990" colStart="319" colEnd="477"/>
             <word unicode="ಕಲಿತದ್ದು" WordNumber="3" rowStart="944" rowEnd="991" colStart="496" colEnd="615"/>
             <word unicode="ಒಳ್ಳೆಯದಾಯಿತು." WordNumber="4" rowStart="945" rowEnd="991" colStart="628" colEnd="878"/>
@@ -148,7 +148,7 @@
             <word unicode="ಬೇಗ" WordNumber="3" rowStart="1073" rowEnd="1102" colStart="472" colEnd="540"/>
             <word unicode="ವಾಸಿಯಾಗುತ್ತದೆ." WordNumber="4" rowStart="1073" rowEnd="1116" colStart="570" colEnd="809"/>
             <word unicode="ಬರೀ" WordNumber="5" rowStart="1077" rowEnd="1102" colStart="841" colEnd="909"/>
-            <word unicode="ತರಚುಗಾಯವಷ್ಟೇ.&quot;" WordNumber="6" rowStart="1069" rowEnd="1118" colStart="940" colEnd="1230"/>
+            <word unicode="ತರಚುಗಾಯವಷ್ಟೇ.”" WordNumber="6" rowStart="1069" rowEnd="1118" colStart="940" colEnd="1230"/>
         </line>
     </block>
     <block type="Text" BlockNumber="4" rowStart="1136" rowEnd="1895" colStart="108" colEnd="1322">

@@ -18,7 +18,7 @@
             <word unicode="ರಾವುಲ್ಗೆ" WordNumber="1" rowStart="172" rowEnd="213" colStart="88" colEnd="217"/>
             <word unicode="ಹೇಳಿದರು" WordNumber="2" rowStart="171" rowEnd="201" colStart="248" colEnd="374"/>
             <word unicode=":" WordNumber="3" rowStart="182" rowEnd="201" colStart="388" colEnd="392"/>
-            <word unicode="&quot;ಅವರು" WordNumber="4" rowStart="171" rowEnd="201" colStart="426" colEnd="537"/>
+            <word unicode="“ಅವರು" WordNumber="4" rowStart="171" rowEnd="201" colStart="426" colEnd="537"/>
             <word unicode="ಇತರರಂತಲ್ಲವೆಂದು" WordNumber="5" rowStart="171" rowEnd="215" colStart="565" colEnd="816"/>
             <word unicode="ಕಾಣಿಸುತ್ತದೆ." WordNumber="6" rowStart="171" rowEnd="217" colStart="846" colEnd="998"/>
             <word unicode="ಅವರಾದರೂ" WordNumber="7" rowStart="171" rowEnd="202" colStart="1033" colEnd="1202"/>
@@ -28,7 +28,7 @@
             <word unicode="ಮಾತನಾಡಿದ್ದಾರೆ" WordNumber="1" rowStart="227" rowEnd="275" colStart="87" colEnd="290"/>
             <word unicode="ಮತ್ತು" WordNumber="2" rowStart="228" rowEnd="274" colStart="303" colEnd="381"/>
             <word unicode="ಖಚಿತವಾದ" WordNumber="3" rowStart="228" rowEnd="259" colStart="386" colEnd="531"/>
-            <word unicode="ವಿಚಾರವಂತರಿದ್ದಾರೆ.&quot;" WordNumber="4" rowStart="228" rowEnd="275" colStart="546" colEnd="826"/>
+            <word unicode="ವಿಚಾರವಂತರಿದ್ದಾರೆ.”" WordNumber="4" rowStart="228" rowEnd="275" colStart="546" colEnd="826"/>
         </line>
     </block>
     <block type="Text" BlockNumber="2" rowStart="279" rowEnd="558" colStart="67" colEnd="1335">
@@ -105,7 +105,7 @@
             <word unicode="ಮಾತನಾಡುತ್ತಾ" WordNumber="2" rowStart="685" rowEnd="734" colStart="316" colEnd="511"/>
             <word unicode="ಫಿಡೆಲ್" WordNumber="3" rowStart="687" rowEnd="723" colStart="525" colEnd="614"/>
             <word unicode="ಹೇಳಿದರು:" WordNumber="4" rowStart="686" rowEnd="717" colStart="638" colEnd="774"/>
-            <word unicode="&quot;1956ರಲ್ಲಿ" WordNumber="5" rowStart="688" rowEnd="717" colStart="799" colEnd="953"/>
+            <word unicode="“1956ರಲ್ಲಿ" WordNumber="5" rowStart="688" rowEnd="717" colStart="799" colEnd="953"/>
             <word unicode="ನಾವು" WordNumber="6" rowStart="686" rowEnd="724" colStart="966" colEnd="1035"/>
             <word unicode="ಸ್ವಾತಂತ್ರ್ಯಗಳಿಸುತ್ತೇವೆ" WordNumber="7" rowStart="686" rowEnd="735" colStart="1057" colEnd="1318"/>
         </line>
@@ -115,7 +115,7 @@
             <word unicode="ಎಂದು" WordNumber="3" rowStart="743" rowEnd="774" colStart="438" colEnd="521"/>
             <word unicode="ನಾನು" WordNumber="4" rowStart="743" rowEnd="776" colStart="535" colEnd="606"/>
             <word unicode="ನಿಮಗೆ" WordNumber="5" rowStart="744" rowEnd="776" colStart="620" colEnd="702"/>
-            <word unicode="ಹೇಳಬಲ್ಲೆ.&quot;" WordNumber="6" rowStart="743" rowEnd="788" colStart="716" colEnd="867"/>
+            <word unicode="ಹೇಳಬಲ್ಲೆ.”" WordNumber="6" rowStart="743" rowEnd="788" colStart="716" colEnd="867"/>
         </line>
     </block>
     <block type="Text" BlockNumber="4" rowStart="799" rowEnd="1141" colStart="67" colEnd="1335">
@@ -324,10 +324,10 @@
         </line>
         <line LineNumber="32" rowStart="1895" rowEnd="1945">
             <word unicode="ನೀಡಿದ" WordNumber="1" rowStart="1895" rowEnd="1928" colStart="81" colEnd="173"/>
-            <word unicode="&quot;ಚರಿತ್ರೆ" WordNumber="2" rowStart="1896" rowEnd="1940" colStart="201" colEnd="298"/>
+            <word unicode="“ಚರಿತ್ರೆ" WordNumber="2" rowStart="1896" rowEnd="1940" colStart="201" colEnd="298"/>
             <word unicode="ನನ್ನನ್ನು" WordNumber="3" rowStart="1896" rowEnd="1945" colStart="327" colEnd="414"/>
             <word unicode="ನಿರ್ದೋಷಿಯನ್ನಾಗಿ" WordNumber="4" rowStart="1898" rowEnd="1945" colStart="437" colEnd="689"/>
-            <word unicode="ಮಾಡುತ್ತದೆ&quot;" WordNumber="5" rowStart="1896" rowEnd="1943" colStart="718" colEnd="880"/>
+            <word unicode="ಮಾಡುತ್ತದೆ”" WordNumber="5" rowStart="1896" rowEnd="1943" colStart="718" colEnd="880"/>
             <word unicode="ಎಂಬ" WordNumber="6" rowStart="1904" rowEnd="1926" colStart="912" colEnd="983"/>
             <word unicode="ಹೇಳಿಕೆಯಲ್ಲಿ" WordNumber="7" rowStart="1897" rowEnd="1939" colStart="1010" colEnd="1175"/>
             <word unicode="ದೃಢವಾಗಿ" WordNumber="8" rowStart="1895" rowEnd="1941" colStart="1196" colEnd="1317"/>

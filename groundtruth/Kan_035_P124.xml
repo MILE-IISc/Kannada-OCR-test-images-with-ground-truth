@@ -11,8 +11,8 @@
             <word unicode="ಕ್ರಾಂತಿಯನ್ನ" WordNumber="7" rowStart="117" rowEnd="162" colStart="1155" colEnd="1306"/>
         </line>
         <line LineNumber="2" rowStart="171" rowEnd="217">
-            <word unicode="ಬಚ್ಚಿಡಲಿಕ್ಕಾಗದು.'" WordNumber="1" rowStart="171" rowEnd="217" colStart="69" colEnd="294"/>
-            <word unicode="&quot;" WordNumber="2" rowStart="175" rowEnd="182" colStart="315" colEnd="330"/>
+            <word unicode="ಬಚ್ಚಿಡಲಿಕ್ಕಾಗದು.’" WordNumber="1" rowStart="171" rowEnd="217" colStart="69" colEnd="294"/>
+            <word unicode="”" WordNumber="2" rowStart="175" rowEnd="182" colStart="315" colEnd="330"/>
         </line>
     </block>
     <block type="Text" BlockNumber="2" rowStart="228" rowEnd="673" colStart="67" colEnd="1306">
@@ -110,7 +110,7 @@
             <word unicode="ಕಟುವಾದ" WordNumber="8" rowStart="685" rowEnd="715" colStart="891" colEnd="1012"/>
             <word unicode="ಪತ್ರ" WordNumber="9" rowStart="685" rowEnd="728" colStart="1028" colEnd="1075"/>
             <word unicode="ಬರೆದರು:" WordNumber="10" rowStart="685" rowEnd="714" colStart="1093" colEnd="1208"/>
-            <word unicode="&quot;ಎಲ್ಲ" WordNumber="11" rowStart="687" rowEnd="729" colStart="1229" colEnd="1308"/>
+            <word unicode="“ಎಲ್ಲ" WordNumber="11" rowStart="687" rowEnd="729" colStart="1229" colEnd="1308"/>
         </line>
         <line LineNumber="12" rowStart="742" rowEnd="791">
             <word unicode="ಭೂಮಿ" WordNumber="1" rowStart="742" rowEnd="779" colStart="68" colEnd="159"/>
@@ -224,7 +224,7 @@
         </line>
         <line LineNumber="22" rowStart="1319" rowEnd="1365">
             <word unicode="ಬಗೆಯುತ್ತಲೇ" WordNumber="1" rowStart="1319" rowEnd="1365" colStart="68" colEnd="240"/>
-            <word unicode="ಇದ್ದಾರೆ.&quot;" WordNumber="2" rowStart="1320" rowEnd="1365" colStart="251" colEnd="370"/>
+            <word unicode="ಇದ್ದಾರೆ.”" WordNumber="2" rowStart="1320" rowEnd="1365" colStart="251" colEnd="370"/>
         </line>
     </block>
     <block type="Text" BlockNumber="4" rowStart="1376" rowEnd="1657" colStart="67" colEnd="1306">
@@ -277,7 +277,7 @@
     </block>
     <block type="Text" BlockNumber="5" rowStart="1665" rowEnd="2058" colStart="67" colEnd="1308">
         <line LineNumber="28" rowStart="1665" rowEnd="1714">
-            <word unicode="&quot;ನಮ್ಮ" WordNumber="1" rowStart="1665" rowEnd="1714" colStart="127" colEnd="216"/>
+            <word unicode="“ನಮ್ಮ" WordNumber="1" rowStart="1665" rowEnd="1714" colStart="127" colEnd="216"/>
             <word unicode="ಮತ್ತು" WordNumber="2" rowStart="1666" rowEnd="1712" colStart="226" colEnd="302"/>
             <word unicode="ತಧಾಕಥಿತ" WordNumber="3" rowStart="1666" rowEnd="1703" colStart="310" colEnd="436"/>
             <word unicode="ಸೆಕೆಂಡ್" WordNumber="4" rowStart="1667" rowEnd="1696" colStart="451" colEnd="548"/>
@@ -343,7 +343,7 @@
         </line>
         <line LineNumber="34" rowStart="2012" rowEnd="2058">
             <word unicode="ಬರುವುದು" WordNumber="1" rowStart="2012" rowEnd="2049" colStart="69" colEnd="202"/>
-            <word unicode="ಅಸಾಧ್ಯವಾಗುತ್ತದೆ.&quot;" WordNumber="2" rowStart="2012" rowEnd="2058" colStart="218" colEnd="467"/>
+            <word unicode="ಅಸಾಧ್ಯವಾಗುತ್ತದೆ.”" WordNumber="2" rowStart="2012" rowEnd="2058" colStart="218" colEnd="467"/>
         </line>
     </block>
     <block type="Text" BlockNumber="6" rowStart="2069" rowEnd="2231" colStart="68" colEnd="1308">
@@ -353,7 +353,7 @@
             <word unicode="ಚೆ" WordNumber="3" rowStart="2071" rowEnd="2099" colStart="358" colEnd="381"/>
             <word unicode="ಹೀಗೆ" WordNumber="4" rowStart="2071" rowEnd="2099" colStart="404" colEnd="466"/>
             <word unicode="ಹೇಳಿದ್ದರು:" WordNumber="5" rowStart="2070" rowEnd="2116" colStart="488" colEnd="625"/>
-            <word unicode="&quot;ಪಾರ್ಟಿಡೊ" WordNumber="6" rowStart="2070" rowEnd="2099" colStart="652" colEnd="823"/>
+            <word unicode="“ಪಾರ್ಟಿಡೊ" WordNumber="6" rowStart="2070" rowEnd="2099" colStart="652" colEnd="823"/>
             <word unicode="ಸೀಷಿಯಲಿಸ್ಟಾ" WordNumber="7" rowStart="2070" rowEnd="2113" colStart="845" colEnd="1051"/>
             <word unicode="ಪಾ೩ಲಲ್" WordNumber="8" rowStart="2069" rowEnd="2115" colStart="1067" colEnd="1205"/>
             <word unicode="ಪಕ್ಷದ" WordNumber="9" rowStart="2069" rowEnd="2116" colStart="1228" colEnd="1299"/>

@@ -9,7 +9,7 @@
     </block>
     <block type="Text" BlockNumber="2" rowStart="206" rowEnd="316" colStart="107" colEnd="1318">
         <line LineNumber="2" rowStart="206" rowEnd="254" colStart="207" colEnd="1318">
-            <word unicode="&quot;ಏಕ್ತೆ" WordNumber="1" rowStart="206" rowEnd="246" colStart="207" colEnd="291"/>
+            <word unicode="“ಏಕ್ತೆ" WordNumber="1" rowStart="206" rowEnd="246" colStart="207" colEnd="291"/>
             <word unicode="ಇನ್ನೇನು" WordNumber="2" rowStart="210" rowEnd="253" colStart="326" colEnd="450"/>
             <word unicode="ಇಲ್ಲ." WordNumber="3" rowStart="218" rowEnd="253" colStart="485" colEnd="553"/>
             <word unicode="ಎಲ್ಲ" WordNumber="4" rowStart="217" rowEnd="253" colStart="587" colEnd="651"/>
@@ -20,7 +20,7 @@
             <word unicode="ಕಟ್ಪಿ/" WordNumber="9" rowStart="209" rowEnd="254" colStart="1247" colEnd="1318"/>
         </line>
         <line LineNumber="3" rowStart="267" rowEnd="316" colStart="107" colEnd="352">
-            <word unicode="ಒಡೆಯಬೇಕಷ್ಟ..&quot;" WordNumber="1" rowStart="267" rowEnd="316" colStart="107" colEnd="352"/>
+            <word unicode="ಒಡೆಯಬೇಕಷ್ಟ..”" WordNumber="1" rowStart="267" rowEnd="316" colStart="107" colEnd="352"/>
         </line>
     </block>
     <block type="Text" BlockNumber="3" rowStart="328" rowEnd="378" colStart="207" colEnd="1116">
@@ -35,8 +35,8 @@
     </block>
     <block type="Text" BlockNumber="4" rowStart="390" rowEnd="424" colStart="207" colEnd="424">
         <line LineNumber="5" rowStart="390" rowEnd="424" colStart="207" colEnd="424">
-            <word unicode="&quot;ಆಗಲಿ" WordNumber="1" rowStart="390" rowEnd="424" colStart="207" colEnd="308"/>
-            <word unicode="ಸರ್&quot;" WordNumber="2" rowStart="391" rowEnd="423" colStart="340" colEnd="424"/>
+            <word unicode="“ಆಗಲಿ" WordNumber="1" rowStart="390" rowEnd="424" colStart="207" colEnd="308"/>
+            <word unicode="ಸರ್”" WordNumber="2" rowStart="391" rowEnd="423" colStart="340" colEnd="424"/>
         </line>
     </block>
     <block type="Text" BlockNumber="5" rowStart="456" rowEnd="563" colStart="108" colEnd="1327">
@@ -59,22 +59,22 @@
     </block>
     <block type="Text" BlockNumber="6" rowStart="576" rowEnd="624" colStart="208" colEnd="792">
         <line LineNumber="8" rowStart="576" rowEnd="624" colStart="208" colEnd="792">
-            <word unicode="&quot;ಸೌದೆ" WordNumber="1" rowStart="576" rowEnd="610" colStart="208" colEnd="299"/>
+            <word unicode="“ಸೌದೆ" WordNumber="1" rowStart="576" rowEnd="610" colStart="208" colEnd="299"/>
             <word unicode="ಒಡೆಯುವುದು" WordNumber="2" rowStart="581" rowEnd="616" colStart="330" colEnd="527"/>
             <word unicode="ಹೇಗೆ" WordNumber="3" rowStart="580" rowEnd="610" colStart="559" colEnd="627"/>
-            <word unicode="ಮಾಡ್ತಿ?&quot;" WordNumber="4" rowStart="577" rowEnd="624" colStart="658" colEnd="792"/>
+            <word unicode="ಮಾಡ್ತಿ?”" WordNumber="4" rowStart="577" rowEnd="624" colStart="658" colEnd="792"/>
         </line>
     </block>
     <block type="Text" BlockNumber="7" rowStart="638" rowEnd="691" colStart="208" colEnd="1321">
         <line LineNumber="9" rowStart="638" rowEnd="691" colStart="208" colEnd="1321">
-            <word unicode="&quot;ಅದರ" WordNumber="1" rowStart="639" rowEnd="673" colStart="208" colEnd="309"/>
+            <word unicode="“ಅದರ" WordNumber="1" rowStart="639" rowEnd="673" colStart="208" colEnd="309"/>
             <word unicode="ಬಗ್ಗೆ" WordNumber="2" rowStart="643" rowEnd="691" colStart="324" colEnd="384"/>
             <word unicode="ನೀವು" WordNumber="3" rowStart="644" rowEnd="678" colStart="392" colEnd="462"/>
             <word unicode="ತಲೆಕೆಡಸಿಕುಳ್ಳಬೇಡಿ" WordNumber="4" rowStart="643" rowEnd="690" colStart="478" colEnd="753"/>
             <word unicode="ಸರ್" WordNumber="5" rowStart="644" rowEnd="673" colStart="769" colEnd="842"/>
             <word unicode="ಇನ್ನು" WordNumber="6" rowStart="645" rowEnd="686" colStart="858" colEnd="944"/>
             <word unicode="ಬೇಕಾದಷ್ಪು" WordNumber="7" rowStart="643" rowEnd="687" colStart="956" colEnd="1107"/>
-            <word unicode="ಸಮಯವಿದೆ.&quot;" WordNumber="8" rowStart="638" rowEnd="672" colStart="1121" colEnd="1321"/>
+            <word unicode="ಸಮಯವಿದೆ.”" WordNumber="8" rowStart="638" rowEnd="672" colStart="1121" colEnd="1321"/>
         </line>
     </block>
     <block type="Text" BlockNumber="8" rowStart="705" rowEnd="933" colStart="108" colEnd="1320">

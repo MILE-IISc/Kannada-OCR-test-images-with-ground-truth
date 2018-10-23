@@ -182,9 +182,9 @@
             <word unicode="ಜೀವಕ್ಕೆ" WordNumber="8" rowStart="1355" rowEnd="1401" colStart="1025" colEnd="1129"/>
         </line>
         <line LineNumber="22" rowStart="1414" rowEnd="1461">
-            <word unicode="&quot;ಈವತ್ತು" WordNumber="1" rowStart="1415" rowEnd="1459" colStart="95" colEnd="228"/>
+            <word unicode="“ಈವತ್ತು" WordNumber="1" rowStart="1415" rowEnd="1459" colStart="95" colEnd="228"/>
             <word unicode="ಮನೇಲಿ" WordNumber="2" rowStart="1414" rowEnd="1447" colStart="241" colEnd="349"/>
-            <word unicode="ಹೀಗಾಯ್ತು!&quot;" WordNumber="3" rowStart="1416" rowEnd="1460" colStart="362" colEnd="552"/>
+            <word unicode="ಹೀಗಾಯ್ತು!”" WordNumber="3" rowStart="1416" rowEnd="1460" colStart="362" colEnd="552"/>
             <word unicode="ಎಂದು" WordNumber="4" rowStart="1416" rowEnd="1447" colStart="566" colEnd="654"/>
             <word unicode="ನಿಮ್ಮ" WordNumber="5" rowStart="1416" rowEnd="1461" colStart="667" colEnd="748"/>
             <word unicode="ಸಂಕಟವನ್ನು" WordNumber="6" rowStart="1415" rowEnd="1461" colStart="762" colEnd="926"/>
@@ -226,11 +226,11 @@
         </line>
         <line LineNumber="27" rowStart="1713" rowEnd="1759">
             <word unicode="ಇಲ್ಲದೆ" WordNumber="1" rowStart="1714" rowEnd="1758" colStart="93" colEnd="195"/>
-            <word unicode="&quot;ವಾಕಿಂಗ್" WordNumber="2" rowStart="1715" rowEnd="1746" colStart="207" colEnd="354"/>
+            <word unicode="“ವಾಕಿಂಗ್" WordNumber="2" rowStart="1715" rowEnd="1746" colStart="207" colEnd="354"/>
             <word unicode="ಹೋಗಿ" WordNumber="3" rowStart="1713" rowEnd="1746" colStart="369" colEnd="471"/>
             <word unicode="ಬರೋಣ," WordNumber="4" rowStart="1714" rowEnd="1752" colStart="486" colEnd="629"/>
             <word unicode="ಬರ್ತೀರಾ" WordNumber="5" rowStart="1719" rowEnd="1759" colStart="648" colEnd="766"/>
-            <word unicode="?&quot;" WordNumber="6" rowStart="1715" rowEnd="1746" colStart="779" colEnd="814"/>
+            <word unicode="?”" WordNumber="6" rowStart="1715" rowEnd="1746" colStart="779" colEnd="814"/>
             <word unicode="ಎಂದು" WordNumber="7" rowStart="1715" rowEnd="1746" colStart="830" colEnd="921"/>
             <word unicode="ಕೇಳಬಹುದು." WordNumber="8" rowStart="1714" rowEnd="1746" colStart="936" colEnd="1123"/>
         </line>
@@ -245,7 +245,7 @@
     </block>
     <block type="Text" BlockNumber="8" rowStart="1832" rowEnd="1879" colStart="157" colEnd="1128">
         <line LineNumber="29" rowStart="1832" rowEnd="1879">
-            <word unicode="'ಇಡೀ" WordNumber="1" rowStart="1835" rowEnd="1865" colStart="157" colEnd="241"/>
+            <word unicode="‘ಇಡೀ" WordNumber="1" rowStart="1835" rowEnd="1865" colStart="157" colEnd="241"/>
             <word unicode="ದಿನ" WordNumber="2" rowStart="1835" rowEnd="1866" colStart="264" colEnd="316"/>
             <word unicode="ಕತ್ತೆಹಾಗೆ" WordNumber="3" rowStart="1832" rowEnd="1878" colStart="338" colEnd="464"/>
             <word unicode="ಕೆಲಸ" WordNumber="4" rowStart="1833" rowEnd="1866" colStart="486" colEnd="560"/>

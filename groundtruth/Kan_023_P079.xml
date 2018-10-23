@@ -66,8 +66,8 @@
     </block>
     <block type="Text" BlockNumber="4" rowStart="572" rowEnd="678" colStart="81" colEnd="1114">
         <line LineNumber="9" rowStart="572" rowEnd="619">
-            <word unicode="&quot;ಇನ್ನೂ" WordNumber="1" rowStart="573" rowEnd="619" colStart="143" colEnd="256"/>
-            <word unicode="ಹುಡುಗಿ!&quot;" WordNumber="2" rowStart="573" rowEnd="605" colStart="280" colEnd="429"/>
+            <word unicode="“ಇನ್ನೂ" WordNumber="1" rowStart="573" rowEnd="619" colStart="143" colEnd="256"/>
+            <word unicode="ಹುಡುಗಿ!”" WordNumber="2" rowStart="573" rowEnd="605" colStart="280" colEnd="429"/>
             <word unicode="ಎಂದು" WordNumber="3" rowStart="574" rowEnd="605" colStart="456" colEnd="548"/>
             <word unicode="ನಿಮ್ಮನ್ನು" WordNumber="4" rowStart="573" rowEnd="619" colStart="572" colEnd="708"/>
             <word unicode="ಯಾರೂ" WordNumber="5" rowStart="574" rowEnd="605" colStart="732" colEnd="849"/>
@@ -158,9 +158,9 @@
     </block>
     <block type="Text" BlockNumber="8" rowStart="1287" rowEnd="1393" colStart="80" colEnd="1114">
         <line LineNumber="21" rowStart="1287" rowEnd="1335">
-            <word unicode="&quot;ನೀವು" WordNumber="1" rowStart="1288" rowEnd="1327" colStart="142" colEnd="237"/>
+            <word unicode="“ನೀವು" WordNumber="1" rowStart="1288" rowEnd="1327" colStart="142" colEnd="237"/>
             <word unicode="ಬಂದೇ" WordNumber="2" rowStart="1288" rowEnd="1321" colStart="260" colEnd="353"/>
-            <word unicode="ಬರಬೇಕು&quot;" WordNumber="3" rowStart="1287" rowEnd="1321" colStart="378" colEnd="536"/>
+            <word unicode="ಬರಬೇಕು”" WordNumber="3" rowStart="1287" rowEnd="1321" colStart="378" colEnd="536"/>
             <word unicode="ಎಂದು" WordNumber="4" rowStart="1289" rowEnd="1321" colStart="560" colEnd="652"/>
             <word unicode="ಅವರೆಲ್ಲ" WordNumber="5" rowStart="1287" rowEnd="1333" colStart="676" colEnd="801"/>
             <word unicode="ನಿಮ್ಮನ್ನು" WordNumber="6" rowStart="1289" rowEnd="1335" colStart="824" colEnd="957"/>
@@ -196,10 +196,10 @@
     </block>
     <block type="Text" BlockNumber="10" rowStart="1588" rowEnd="1694" colStart="79" colEnd="1113">
         <line LineNumber="26" rowStart="1588" rowEnd="1634">
-            <word unicode="&quot;ಮದುವೆಯಾದಮೇಲೆ" WordNumber="1" rowStart="1588" rowEnd="1621" colStart="141" colEnd="457"/>
+            <word unicode="“ಮದುವೆಯಾದಮೇಲೆ" WordNumber="1" rowStart="1588" rowEnd="1621" colStart="141" colEnd="457"/>
             <word unicode="ನೀವು" WordNumber="2" rowStart="1589" rowEnd="1628" colStart="471" colEnd="543"/>
             <word unicode="ತುಂಬಾ" WordNumber="3" rowStart="1588" rowEnd="1621" colStart="556" colEnd="657"/>
-            <word unicode="ಬದಲಾಗಿಬಿಟ್ಟಿರಿ&quot;" WordNumber="4" rowStart="1589" rowEnd="1634" colStart="671" colEnd="913"/>
+            <word unicode="ಬದಲಾಗಿಬಿಟ್ಟಿರಿ”" WordNumber="4" rowStart="1589" rowEnd="1634" colStart="671" colEnd="913"/>
             <word unicode="ಎಂದು" WordNumber="5" rowStart="1589" rowEnd="1620" colStart="928" colEnd="1016"/>
             <word unicode="ನಿಮ್ಮ" WordNumber="6" rowStart="1589" rowEnd="1633" colStart="1031" colEnd="1113"/>
         </line>
