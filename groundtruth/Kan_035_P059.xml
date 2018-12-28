@@ -61,14 +61,14 @@
             <word unicode="ಅಮೆರಿಕಾದ" WordNumber="8" rowStart="387" rowEnd="416" colStart="1160" colEnd="1302"/>
         </line>
         <line LineNumber="7" rowStart="443" rowEnd="492">
-            <word unicode="ಸಾಮ್ರಾಜ್ಯಶಾಹಿ" WordNumber="1" rowStart="443" rowEnd="490" colStart="73" colEnd="263"/>
-            <word unicode="ಎಂಬುದಕ್ಕೆ," WordNumber="2" rowStart="444" rowEnd="492" colStart="285" colEnd="424"/>
-            <word unicode="ಅದು" WordNumber="3" rowStart="444" rowEnd="474" colStart="453" colEnd="516"/>
-            <word unicode="ತನ್ನದೇ" WordNumber="4" rowStart="444" rowEnd="492" colStart="539" colEnd="626"/>
-            <word unicode="ಆದ" WordNumber="5" rowStart="444" rowEnd="473" colStart="649" colEnd="700"/>
-            <word unicode="ದುಷ್ತ್ರಯತ್ನಗಳನ್ನು" WordNumber="6" rowStart="444" rowEnd="492" colStart="725" colEnd="945"/>
-            <word unicode="ಮರೆಮಾಚಲು" WordNumber="7" rowStart="444" rowEnd="474" colStart="962" colEnd="1141"/>
-            <word unicode="ಕಮ್ಯುನಿಸಂ" WordNumber="8" rowStart="443" rowEnd="491" colStart="1165" colEnd="1302"/>
+            <word unicode="ಸಾಮ್ರಾಜ್ಯಶಾಹಿ" WordNumber="1" colStart="73" colEnd="0"/>
+            <word unicode="ಎಂಬುದಕ್ಕೆ," WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅದು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ತನ್ನದೇ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಆದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ದುಷ್ಪ್ರಯತ್ನಗಳನ್ನು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಮರೆಮಾಚಲು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಕಮ್ಯುನಿಸಂ" WordNumber="8" colStart="0" colEnd="1302"/>
         </line>
         <line LineNumber="8" rowStart="500" rowEnd="549">
             <word unicode="ಮತ್ತು" WordNumber="1" rowStart="500" rowEnd="546" colStart="74" colEnd="152"/>
