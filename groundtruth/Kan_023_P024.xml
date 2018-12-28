@@ -196,12 +196,13 @@
             <word unicode="ಹೇಳಿಕೊಂಡಿರೆಂದರೆ" WordNumber="6" rowStart="1441" rowEnd="1475" colStart="858" colEnd="1130"/>
         </line>
         <line LineNumber="24" rowStart="1500" rowEnd="1548">
-            <word unicode="ಆತ" WordNumber="1" rowStart="1502" rowEnd="1534" colStart="97" colEnd="148"/>
-            <word unicode="ತಾಯಿಯನ್ನು" WordNumber="2" rowStart="1503" rowEnd="1548" colStart="176" colEnd="363"/>
-            <word unicode="“ಯಾಕಮ್ಮ," WordNumber="3" rowStart="1502" rowEnd="1547" colStart="397" colEnd="579"/>
-            <word unicode="ಅವಳನ್ನು" WordNumber="4" rowStart="1502" rowEnd="1548" colStart="610" colEnd="749"/>
-            <word unicode="ಬಯ್ದೆಯಂತೆ?”" WordNumber="5" rowStart="1500" rowEnd="1547" colStart="776" colEnd="1007"/>
-            <word unicode="ಎಂದು" WordNumber="6" rowStart="1502" rowEnd="1534" colStart="1036" colEnd="1131"/>
+            <word unicode="ಆತ" WordNumber="1" colStart="97" colEnd="0"/>
+            <word unicode="ತಾಯಿಯನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="“ಯಾಕಮ್ಮ," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅವಳನ್ನು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಬಯ್ದೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಯಂತೆ?”" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಎಂದು" WordNumber="7" colStart="0" colEnd="1131"/>
         </line>
         <line LineNumber="25" rowStart="1561" rowEnd="1607">
             <word unicode="ಕೇಳಬಹುದು." WordNumber="1" rowStart="1563" rowEnd="1594" colStart="97" colEnd="288"/>

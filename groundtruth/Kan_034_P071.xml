@@ -72,14 +72,14 @@
     </block>
     <block type="Text" BlockNumber="5" rowStart="717" rowEnd="839" colStart="87" colEnd="1322">
         <line LineNumber="10" rowStart="717" rowEnd="770">
-            <word unicode="“ಆ" WordNumber="1" rowStart="717" rowEnd="752" colStart="186" colEnd="236"/>
-            <word unicode="ಮಾರಗಾತಿ" WordNumber="2" rowStart="722" rowEnd="752" colStart="274" colEnd="435"/>
-            <word unicode="ಅಲ್ಲಾ" WordNumber="3" rowStart="729" rowEnd="766" colStart="475" colEnd="561"/>
-            <word unicode="ಅವಳನ್ನು" WordNumber="4" rowStart="722" rowEnd="767" colStart="592" colEnd="726"/>
-            <word unicode="ಶಿಕ್ಷಿಸಲಿ”" WordNumber="5" rowStart="717" rowEnd="768" colStart="761" colEnd="891"/>
-            <word unicode="ಆ" WordNumber="6" rowStart="729" rowEnd="752" colStart="930" colEnd="957"/>
-            <word unicode="ಮುದುಕಿ" WordNumber="7" rowStart="723" rowEnd="752" colStart="996" colEnd="1117"/>
-            <word unicode="ದ್ವೇಷದಿಂದ" WordNumber="8" rowStart="722" rowEnd="770" colStart="1158" colEnd="1322"/>
+            <word unicode="“ಆ" WordNumber="1" colStart="186" colEnd="0"/>
+            <word unicode="ಮಾಟಗಾತಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅಲ್ಲಾ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅವಳನ್ನು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಶಿಕ್ಷಿಸಲಿ”" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಆ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಮುದುಕಿ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ದ್ವೇಷದಿಂದ" WordNumber="8" colStart="0" colEnd="1322"/>
         </line>
         <line LineNumber="11" rowStart="792" rowEnd="839">
             <word unicode="ಉರಿಯುತ್ತಿದ್ದಳು." WordNumber="1" rowStart="792" rowEnd="839" colStart="87" colEnd="334"/>

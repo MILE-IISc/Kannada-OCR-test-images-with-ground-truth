@@ -42,15 +42,16 @@
             <word unicode="ಚೆ" WordNumber="8" rowStart="283" rowEnd="312" colStart="1285" colEnd="1308"/>
         </line>
         <line LineNumber="5" rowStart="338" rowEnd="385">
-            <word unicode="ಸೇರಿದಂತೆ" WordNumber="1" rowStart="338" rowEnd="367" colStart="78" colEnd="204"/>
-            <word unicode="ನಮ್ಮಲ್ಲಿ" WordNumber="2" rowStart="338" rowEnd="385" colStart="219" colEnd="313"/>
-            <word unicode="ಯಾರೂ" WordNumber="3" rowStart="339" rowEnd="367" colStart="320" colEnd="426"/>
-            <word unicode="ಊಹಿಸಿರಲಿಲ್ಲ." WordNumber="4" rowStart="338" rowEnd="381" colStart="442" colEnd="623"/>
-            <word unicode="ಅಂದರೆ" WordNumber="5" rowStart="338" rowEnd="367" colStart="641" colEnd="735"/>
-            <word unicode="ನಾವು" WordNumber="6" rowStart="339" rowEnd="375" colStart="749" colEnd="816"/>
-            <word unicode="ರಾಜಕೀಯ" WordNumber="7" rowStart="341" rowEnd="367" colStart="832" colEnd="972"/>
-            <word unicode="ಹೋರಾಟದಿಂದ" WordNumber="8" rowStart="339" rowEnd="368" colStart="985" colEnd="1195"/>
-            <word unicode="ಹೊರಗೆ" WordNumber="9" rowStart="340" rowEnd="369" colStart="1210" colEnd="1308"/>
+            <word unicode="ಸೇರಿದಂತೆ" WordNumber="1" colStart="78" colEnd="0"/>
+            <word unicode="ನಮ್ಮಲ್ಲಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಯಾರೂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಊಹಿಸಿರಲಿಲ್ಲ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಅಂದರೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನಾವು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಜಕೀಯ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಹೋ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಟದಿಂದ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಹೊರಗೆ" WordNumber="10" colStart="0" colEnd="1308"/>
         </line>
         <line LineNumber="6" rowStart="394" rowEnd="443">
             <word unicode="ಉಳಿದೆವೆಂದು" WordNumber="1" rowStart="394" rowEnd="424" colStart="80" colEnd="250"/>

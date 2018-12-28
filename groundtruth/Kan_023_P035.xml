@@ -149,12 +149,12 @@
             <word unicode="ಮರೆತು" WordNumber="6" rowStart="1115" rowEnd="1147" colStart="1019" colEnd="1128"/>
         </line>
         <line LineNumber="18" rowStart="1174" rowEnd="1222">
-            <word unicode="ಹೋಗುತ್ತದೆ." WordNumber="1" rowStart="1175" rowEnd="1220" colStart="94" colEnd="281"/>
-            <word unicode="ಮನೆಯಲೆ" WordNumber="2" rowStart="1175" rowEnd="1219" colStart="299" colEnd="456"/>
-            <word unicode="ತನ್ನನ್ನು" WordNumber="3" rowStart="1176" rowEnd="1222" colStart="469" colEnd="573"/>
-            <word unicode="ಪ್ರೀತಿಸುವ" WordNumber="4" rowStart="1177" rowEnd="1221" colStart="586" colEnd="728"/>
-            <word unicode="ಪೋಷಿಸುವ" WordNumber="5" rowStart="1176" rowEnd="1216" colStart="742" colEnd="900"/>
-            <word unicode="ಜೀವವೊಂದಿದೆ," WordNumber="6" rowStart="1174" rowEnd="1215" colStart="914" colEnd="1124"/>
+            <word unicode="ಹೋಗುತ್ತದೆ." WordNumber="1" colStart="94" colEnd="0"/>
+            <word unicode="ಮನೆಯಲ್ಲಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತನ್ನನ್ನು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರೀತಿಸುವ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಪೋಷಿಸುವ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಜೀವವೊಂದಿದೆ," WordNumber="6" colStart="0" colEnd="1124"/>
         </line>
         <line LineNumber="19" rowStart="1233" rowEnd="1281">
             <word unicode="ಅದಕ್ಕಾಗಿ" WordNumber="1" rowStart="1235" rowEnd="1281" colStart="95" colEnd="225"/>

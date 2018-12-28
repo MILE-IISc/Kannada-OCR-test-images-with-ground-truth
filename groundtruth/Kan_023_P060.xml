@@ -82,10 +82,10 @@
     </block>
     <block type="Text" BlockNumber="5" rowStart="699" rowEnd="1044" colStart="109" colEnd="1144">
         <line LineNumber="11" rowStart="699" rowEnd="747">
-            <word unicode="“ಹೆಣ್ಣು" WordNumber="1" rowStart="699" rowEnd="747" colStart="173" colEnd="285"/>
-            <word unicode="ಮೃದುಸ್ವಭವದವಳಾದುದರಿಂದ" WordNumber="2" rowStart="700" rowEnd="746" colStart="312" colEnd="776"/>
-            <word unicode="ಮೆಲುನುಡಿಗಳಿಂದ" WordNumber="3" rowStart="700" rowEnd="733" colStart="804" colEnd="1065"/>
-            <word unicode="ವರ" WordNumber="4" rowStart="701" rowEnd="732" colStart="1092" colEnd="1144"/>
+            <word unicode="“ಹೆಣ್ಣು" WordNumber="1" colStart="173" colEnd="0"/>
+            <word unicode="ಮೃದುಸ್ವಭಾವದವಳಾದುದರಿಂದ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮೆಲುನುಡಿಗಳಿಂದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ವರ" WordNumber="4" colStart="0" colEnd="1144"/>
         </line>
         <line LineNumber="12" rowStart="759" rowEnd="805">
             <word unicode="ಅವಳನ್ನು" WordNumber="1" rowStart="759" rowEnd="805" colStart="110" colEnd="244"/>

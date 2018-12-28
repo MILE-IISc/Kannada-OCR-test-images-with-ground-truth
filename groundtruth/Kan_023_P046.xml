@@ -93,13 +93,13 @@
             <word unicode="ಯಾರಾ" WordNumber="6" rowStart="1028" rowEnd="1059" colStart="1037" colEnd="1141"/>
         </line>
         <line LineNumber="12" rowStart="1084" rowEnd="1131">
-            <word unicode="ದರೂ" WordNumber="1" rowStart="1085" rowEnd="1117" colStart="108" colEnd="190"/>
-            <word unicode="ಒಬ್ಬರು" WordNumber="2" rowStart="1085" rowEnd="1131" colStart="217" colEnd="327"/>
-            <word unicode="ಸಹನೆಯಿಂದ" WordNumber="3" rowStart="1084" rowEnd="1117" colStart="353" colEnd="537"/>
-            <word unicode="ವರ್ತಿಸಿದ್ದರೆ" WordNumber="4" rowStart="1084" rowEnd="1117" colStart="564" colEnd="721"/>
-            <word unicode="ಕಲಹದ" WordNumber="5" rowStart="1085" rowEnd="1117" colStart="748" colEnd="859"/>
-            <word unicode="ಬೆಂಕಿ" WordNumber="6" rowStart="1084" rowEnd="1117" colStart="887" colEnd="957"/>
-            <word unicode="ವಿಕೋಪಕ್ಕೆ" WordNumber="7" rowStart="1085" rowEnd="1131" colStart="984" colEnd="1142"/>
+            <word unicode="ದರೂ" WordNumber="1" colStart="108" colEnd="0"/>
+            <word unicode="ಒಬ್ಬರು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸಹನೆಯಿಂದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ವರ್ತಿಸಿದರೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕಲಹದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಬೆಂಕಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಕೋಪಕ್ಕೆ" WordNumber="7" colStart="0" colEnd="1142"/>
         </line>
         <line LineNumber="13" rowStart="1144" rowEnd="1191">
             <word unicode="ಹೋಗುವುದನ್ನು" WordNumber="1" rowStart="1144" rowEnd="1191" colStart="108" colEnd="338"/>

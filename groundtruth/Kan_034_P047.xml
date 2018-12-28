@@ -54,13 +54,13 @@
             <word unicode="ಎದೆ" WordNumber="7" rowStart="503" rowEnd="532" colStart="1272" colEnd="1331"/>
         </line>
         <line LineNumber="7" rowStart="568" rowEnd="615">
-            <word unicode="ಹಾಲಿನಿಂದ" WordNumber="1" rowStart="569" rowEnd="600" colStart="96" colEnd="256"/>
-            <word unicode="ಬಿಗಿದು" WordNumber="2" rowStart="570" rowEnd="599" colStart="289" colEnd="389"/>
-            <word unicode="ನೋಯುತ್ತಿತ್ತು." WordNumber="3" rowStart="568" rowEnd="614" colStart="423" colEnd="640"/>
-            <word unicode="ಮಗುವನ್ನು" WordNumber="4" rowStart="569" rowEnd="613" colStart="674" colEnd="836"/>
-            <word unicode="ಗಾಲು" WordNumber="5" rowStart="575" rowEnd="599" colStart="865" colEnd="958"/>
-            <word unicode="ಬಿಡಿಸಿ" WordNumber="6" rowStart="572" rowEnd="599" colStart="993" colEnd="1080"/>
-            <word unicode="ಒಯ್ಯಲಾಗಿತು." WordNumber="7" rowStart="570" rowEnd="615" colStart="1115" colEnd="1331"/>
+            <word unicode="ಹಾಲಿನಿಂದ" WordNumber="1" colStart="96" colEnd="0"/>
+            <word unicode="ಬಿಗಿದು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನೋಯುತ್ತಿತ್ತು." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಗುವನ್ನು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಹಾಲು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಬಿಡಿಸಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಒಯ್ಯಲಾಗಿತ್ತು." WordNumber="7" colStart="0" colEnd="1331"/>
         </line>
         <line LineNumber="8" rowStart="635" rowEnd="673">
             <word unicode="ಅವಳ" WordNumber="1" rowStart="637" rowEnd="666" colStart="96" colEnd="182"/>
@@ -73,11 +73,11 @@
             <word unicode="ಮಗುವಿನ" WordNumber="8" rowStart="637" rowEnd="668" colStart="1194" colEnd="1332"/>
         </line>
         <line LineNumber="9" rowStart="701" rowEnd="750">
-            <word unicode="ತುಟಿಗಳಿಗೂ" WordNumber="1" rowStart="703" rowEnd="732" colStart="96" colEnd="271"/>
-            <word unicode="ನಡುವೆ" WordNumber="2" rowStart="702" rowEnd="733" colStart="303" colEnd="401"/>
-            <word unicode="ಆಳವಾದ" WordNumber="3" rowStart="703" rowEnd="732" colStart="434" colEnd="568"/>
-            <word unicode="ಕಂಡಕ" WordNumber="4" rowStart="703" rowEnd="732" colStart="600" colEnd="690"/>
-            <word unicode="ಬಾಯ್ದೆರೆದಿತ್ತು." WordNumber="5" rowStart="701" rowEnd="750" colStart="723" colEnd="935"/>
+            <word unicode="ತುಟಿಗಳಿಗೂ" WordNumber="1" colStart="96" colEnd="0"/>
+            <word unicode="ನಡುವೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಆಳವಾದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕಂದಕ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಬಾಯ್ದೆರೆದಿತ್ತು." WordNumber="5" colStart="0" colEnd="935"/>
         </line>
     </block>
     <block type="Text" BlockNumber="5" rowStart="765" rowEnd="818" colStart="197" colEnd="1303">
@@ -171,8 +171,8 @@
             <word unicode="ಮಗು" WordNumber="8" rowStart="1367" rowEnd="1397" colStart="1249" colEnd="1328"/>
         </line>
         <line LineNumber="20" rowStart="1428" rowEnd="1481">
-            <word unicode="ಮೊದಲಿದಂತೆ" WordNumber="1" rowStart="1432" rowEnd="1481" colStart="94" colEnd="296"/>
-            <word unicode="ಇಲ್ಲ.”" WordNumber="2" rowStart="1428" rowEnd="1478" colStart="329" colEnd="423"/>
+            <word unicode="ಮೊದಲಿದ್ದಂತೆ" WordNumber="1" colStart="94" colEnd="0"/>
+            <word unicode="ಇಲ್ಲ.”" WordNumber="2" colStart="0" colEnd="423"/>
         </line>
     </block>
     <block type="Text" BlockNumber="11" rowStart="1495" rowEnd="1615" colStart="93" colEnd="1327">
