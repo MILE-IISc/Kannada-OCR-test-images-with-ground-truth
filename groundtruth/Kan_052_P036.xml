@@ -14,10 +14,10 @@
             <word unicode="ಎನ್ನದಿರಿ" WordNumber="4" rowStart="200" rowEnd="253" colStart="706" colEnd="829"/>
         </line>
         <line LineNumber="3" rowStart="266" rowEnd="322">
-            <word unicode="ನಿಮ್ಮ" WordNumber="1" rowStart="269" rowEnd="322" colStart="241" colEnd="322"/>
-            <word unicode="ಪ್ರೇಮವ" WordNumber="2" rowStart="267" rowEnd="317" colStart="341" colEnd="477"/>
-            <word unicode="ನೀವೆ" WordNumber="3" rowStart="266" rowEnd="302" colStart="499" colEnd="575"/>
-            <word unicode="ಒರೆಯನಿಟ್ಟು" WordNumber="4" rowStart="267" rowEnd="321" colStart="599" colEnd="805"/>
+            <word unicode="ನಿಮ್ಮ" WordNumber="1" colStart="241" colEnd="0"/>
+            <word unicode="ಪ್ರೇಮವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನೀವೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಒರೆಯನಿಟ್ಟು," WordNumber="4" colStart="0" colEnd="805"/>
         </line>
         <line LineNumber="4" rowStart="335" rowEnd="392">
             <word unicode="ನಿಮ್ಮ" WordNumber="1" rowStart="338" rowEnd="392" colStart="182" colEnd="263"/>
@@ -40,11 +40,11 @@
             <word unicode="ಕುಂಕುಮವನಿಡುವಾಗ" WordNumber="3" rowStart="499" rowEnd="534" colStart="529" colEnd="867"/>
         </line>
         <line LineNumber="7" rowStart="568" rowEnd="621">
-            <word unicode="ಕಾಣುವುವು" WordNumber="1" rowStart="569" rowEnd="609" colStart="241" colEnd="411"/>
-            <word unicode="ಶ್ರೀತುಲಸಿ" WordNumber="2" rowStart="568" rowEnd="616" colStart="433" colEnd="585"/>
-            <word unicode="ಕೃಷ್ಣ" WordNumber="3" rowStart="568" rowEnd="621" colStart="607" colEnd="672"/>
-            <word unicode="ತುಲಸಿ" WordNumber="4" rowStart="568" rowEnd="601" colStart="689" colEnd="786"/>
-            <word unicode=";" WordNumber="5" rowStart="578" rowEnd="606" colStart="808" colEnd="813"/>
+            <word unicode="ಕಾಣುವುವು" WordNumber="1" colStart="241" colEnd="0"/>
+            <word unicode="ಶ್ರೀತುಲಸಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕೃಷ್ಣ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ತುಲಸಿ;" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode=";" WordNumber="5" colStart="0" colEnd="813"/>
         </line>
         <line LineNumber="8" rowStart="634" rowEnd="671">
             <word unicode="ನೀಲಾಂಬರದ" WordNumber="1" rowStart="637" rowEnd="671" colStart="182" colEnd="396"/>
@@ -122,13 +122,13 @@
             <word unicode="ಬಲ್ಲೆ." WordNumber="4" rowStart="1461" rowEnd="1511" colStart="711" colEnd="786"/>
         </line>
         <line LineNumber="20" rowStart="1530" rowEnd="1570">
-            <word unicode="ನಾಳೆ" WordNumber="1" rowStart="1531" rowEnd="1566" colStart="182" colEnd="251"/>
-            <word unicode="ಮಂಗಳವಾರ" WordNumber="2" rowStart="1532" rowEnd="1564" colStart="274" colEnd="475"/>
-            <word unicode=";" WordNumber="3" rowStart="1543" rowEnd="1570" colStart="496" colEnd="500"/>
-            <word unicode="ಮಾರನೆಯ" WordNumber="4" rowStart="1530" rowEnd="1566" colStart="529" colEnd="703"/>
-            <word unicode="ದಿನ" WordNumber="5" rowStart="1531" rowEnd="1565" colStart="728" colEnd="785"/>
-            <word unicode="ನವಮಿ" WordNumber="6" rowStart="1531" rowEnd="1565" colStart="806" colEnd="910"/>
-            <word unicode=";" WordNumber="7" rowStart="1542" rowEnd="1570" colStart="933" colEnd="938"/>
+            <word unicode="ನಾಳೆ" WordNumber="1" colStart="182" colEnd="0"/>
+            <word unicode="ಮಂಗಳವಾರ;" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode=";" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾರನೆಯ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ದಿನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನವಮಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode=";" WordNumber="7" colStart="0" colEnd="938"/>
         </line>
         <line LineNumber="21" rowStart="1598" rowEnd="1649">
             <word unicode="ಆಮೇಲೆ" WordNumber="1" rowStart="1598" rowEnd="1633" colStart="242" colEnd="371"/>

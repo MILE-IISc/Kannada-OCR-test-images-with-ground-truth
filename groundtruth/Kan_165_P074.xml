@@ -78,13 +78,13 @@
     </block>
     <block type="Text" BlockNumber="4" rowStart="703" rowEnd="939" colStart="88" colEnd="1317">
         <line LineNumber="10" rowStart="703" rowEnd="753">
-            <word unicode="ಹೀಗೆಂದುಕೊಂಡು" WordNumber="1" rowStart="703" rowEnd="734" colStart="187" colEnd="435"/>
-            <word unicode="ಅಣ್ಣಪ್ಪ," WordNumber="2" rowStart="704" rowEnd="753" colStart="457" colEnd="557"/>
-            <word unicode="ಕಾರಣಿಕದ" WordNumber="3" rowStart="703" rowEnd="735" colStart="576" colEnd="719"/>
-            <word unicode="ಕೋಡುಗಲ್ಲನ್ನು" WordNumber="4" rowStart="705" rowEnd="750" colStart="740" colEnd="949"/>
-            <word unicode="ತಲೆಯ" WordNumber="5" rowStart="705" rowEnd="737" colStart="965" colEnd="1067"/>
-            <word unicode="ಮೇಲೆ" WordNumber="6" rowStart="706" rowEnd="737" colStart="1089" colEnd="1176"/>
-            <word unicode="ಹೊತ್ತು," WordNumber="7" rowStart="707" rowEnd="752" colStart="1199" colEnd="1312"/>
+            <word unicode="ಹೀಗೆಂದುಕೊಂಡು" WordNumber="1" colStart="187" colEnd="0"/>
+            <word unicode="ಅಣ್ಣಪ್ಪು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕಾರಣಿಕದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕೋಡುಗಲ್ಲನ್ನು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ತಲೆಯ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮೇಲೆ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಹೊತ್ತು," WordNumber="7" colStart="0" colEnd="1312"/>
         </line>
         <line LineNumber="11" rowStart="766" rowEnd="817">
             <word unicode="ಕೋಡುಗಲ್ಲಿನ" WordNumber="1" rowStart="766" rowEnd="810" colStart="89" colEnd="276"/>

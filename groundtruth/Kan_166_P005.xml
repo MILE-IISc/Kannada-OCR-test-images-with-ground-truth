@@ -50,13 +50,14 @@
             <word unicode="ವೃದ್ಧಾಃ" WordNumber="7" rowStart="526" rowEnd="577" colStart="612" colEnd="705"/>
         </line>
         <line LineNumber="7" rowStart="588" rowEnd="640">
-            <word unicode="ವೃದ್ಧಾ" WordNumber="1" rowStart="588" rowEnd="640" colStart="169" colEnd="259"/>
-            <word unicode="ನ" WordNumber="2" rowStart="588" rowEnd="622" colStart="293" colEnd="318"/>
-            <word unicode="ತೇ" WordNumber="3" rowStart="588" rowEnd="621" colStart="359" colEnd="399"/>
-            <word unicode="ಯೇ" WordNumber="4" rowStart="588" rowEnd="621" colStart="441" colEnd="507"/>
-            <word unicode="ನ" WordNumber="5" rowStart="588" rowEnd="622" colStart="549" colEnd="573"/>
-            <word unicode="ವದಂತಿ" WordNumber="6" rowStart="589" rowEnd="621" colStart="615" colEnd="720"/>
-            <word unicode="ಧರ್ಮಮ್|" WordNumber="7" rowStart="588" rowEnd="629" colStart="763" colEnd="942"/>
+            <word unicode="ವೃದ್ಧಾ" WordNumber="1" colStart="169" colEnd="0"/>
+            <word unicode="ನ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತೇ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಯೇ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ವದಂತಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಧರ್ಮಮ್|||||" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="|" WordNumber="8" colStart="0" colEnd="942"/>
         </line>
         <line LineNumber="8" rowStart="651" rowEnd="703">
             <word unicode="ಧರ್ಮೋ" WordNumber="1" rowStart="651" rowEnd="691" colStart="68" colEnd="202"/>
@@ -68,15 +69,16 @@
             <word unicode="ಸತ್ಯಂ" WordNumber="7" rowStart="652" rowEnd="698" colStart="692" colEnd="764"/>
         </line>
         <line LineNumber="9" rowStart="714" rowEnd="761">
-            <word unicode="ಸತ್ಯಂ" WordNumber="1" rowStart="714" rowEnd="761" colStart="169" colEnd="240"/>
-            <word unicode="ನ" WordNumber="2" rowStart="715" rowEnd="748" colStart="283" colEnd="307"/>
-            <word unicode="ಯತ್" WordNumber="3" rowStart="715" rowEnd="747" colStart="349" colEnd="438"/>
-            <word unicode="ಸರ್ವಹಿತಂ" WordNumber="4" rowStart="714" rowEnd="747" colStart="481" colEnd="636"/>
-            <word unicode="ನ" WordNumber="5" rowStart="714" rowEnd="747" colStart="679" colEnd="702"/>
-            <word unicode="ಲಕ್ಷ್ಯೇ" WordNumber="6" rowStart="714" rowEnd="760" colStart="745" colEnd="830"/>
-            <word unicode="||" WordNumber="7" rowStart="715" rowEnd="746" colStart="844" colEnd="856"/>
-            <word unicode="(ಮ." WordNumber="8" rowStart="718" rowEnd="755" colStart="1160" colEnd="1220"/>
-            <word unicode="ಭಾ)" WordNumber="9" rowStart="718" rowEnd="754" colStart="1238" colEnd="1307"/>
+            <word unicode="ಸತ್ಯಂ" WordNumber="1" colStart="169" colEnd="0"/>
+            <word unicode="ನ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಯತ್" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸರ್ವಹಿತಂ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಲಕ್ಷ್ಯೇ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="|" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="‖||" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="(ಮ." WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾ)" WordNumber="10" colStart="0" colEnd="1307"/>
         </line>
     </block>
     <block type="Text" BlockNumber="5" rowStart="806" rowEnd="980" colStart="68" colEnd="1306">
@@ -120,13 +122,13 @@
             <word unicode="ಕರ್ಮಾನುಸಾರಿಣೀ|" WordNumber="4" rowStart="1159" rowEnd="1194" colStart="586" colEnd="870"/>
         </line>
         <line LineNumber="15" rowStart="1221" rowEnd="1269">
-            <word unicode="ಉದ್ಯೋಗಾನುಗತಾ" WordNumber="1" rowStart="1223" rowEnd="1269" colStart="66" colEnd="348"/>
-            <word unicode="ಸಂಸತ್" WordNumber="2" rowStart="1224" rowEnd="1255" colStart="391" colEnd="497"/>
-            <word unicode="ಫಲಂ" WordNumber="3" rowStart="1223" rowEnd="1263" colStart="537" colEnd="616"/>
-            <word unicode="ಭಾಗ್ಯಾನುಸಾರಿಣೀ||" WordNumber="4" rowStart="1221" rowEnd="1269" colStart="659" colEnd="937"/>
-            <word unicode="(ಸು." WordNumber="5" rowStart="1228" rowEnd="1264" colStart="1095" colEnd="1151"/>
-            <word unicode="ರ." WordNumber="6" rowStart="1228" rowEnd="1255" colStart="1169" colEnd="1201"/>
-            <word unicode="ಭಾಂ)" WordNumber="7" rowStart="1228" rowEnd="1264" colStart="1218" colEnd="1306"/>
+            <word unicode="ಉದ್ಯೋಗಾನುಗತಾ" WordNumber="1" colStart="66" colEnd="0"/>
+            <word unicode="ಸಂಸತ್" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಫಲಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾಗ್ಯಾನುಸಾರಿಣೀ||||" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="(ಸು." WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ರ." WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾಂ)" WordNumber="7" colStart="0" colEnd="1306"/>
         </line>
     </block>
     <block type="Text" BlockNumber="8" rowStart="1315" rowEnd="1426" colStart="66" colEnd="1305">

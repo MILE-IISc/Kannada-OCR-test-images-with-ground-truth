@@ -2,8 +2,8 @@
 <page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" BookCode="0165" PageNumber="49" ImageLoc="0165_Annappadaiva_Img_300_Original/0165_Annappadaiva_Img_300_Org_Page_0049.tif">
     <block type="Text" BlockNumber="1" rowStart="73" rowEnd="145" colStart="64" colEnd="1321">
         <line LineNumber="1" rowStart="89" rowEnd="133">
-            <word unicode="ಅಣ್ಣಪ್ಪದೈವ" WordNumber="1" rowStart="89" rowEnd="133" colStart="77" colEnd="227"/>
-            <word unicode="೪೯" WordNumber="2" rowStart="90" rowEnd="116" colStart="1266" colEnd="1306"/>
+            <word unicode="ಅಣ್ಣಪ್ಪದೈವ" WordNumber="1" colStart="77" colEnd="0"/>
+            <word unicode="49" WordNumber="2" colStart="0" colEnd="1306"/>
         </line>
     </block>
     <block type="Text" BlockNumber="2" rowStart="190" rowEnd="718" colStart="58" colEnd="1326">

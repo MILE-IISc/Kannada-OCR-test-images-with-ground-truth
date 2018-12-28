@@ -70,13 +70,13 @@
     </block>
     <block type="Text" BlockNumber="3" rowStart="619" rowEnd="1063" colStart="66" colEnd="1323">
         <line LineNumber="9" rowStart="626" rowEnd="677">
-            <word unicode="ಭೂತಗಳಿಗೂ" WordNumber="1" rowStart="627" rowEnd="664" colStart="182" colEnd="366"/>
-            <word unicode="ನಾಗಗಳಿಗು" WordNumber="2" rowStart="626" rowEnd="658" colStart="381" colEnd="547"/>
-            <word unicode="ಹತ್ತಿರದ" WordNumber="3" rowStart="627" rowEnd="671" colStart="563" colEnd="673"/>
-            <word unicode="ನಂಟು." WordNumber="4" rowStart="627" rowEnd="658" colStart="688" colEnd="786"/>
-            <word unicode="ಭೂತಸ್ಥಾನದ" WordNumber="5" rowStart="628" rowEnd="677" colStart="802" colEnd="980"/>
-            <word unicode="ಬಳಿಯೇ" WordNumber="6" rowStart="627" rowEnd="657" colStart="996" colEnd="1114"/>
-            <word unicode="ಅರಳಿಮರ," WordNumber="7" rowStart="628" rowEnd="664" colStart="1129" colEnd="1302"/>
+            <word unicode="ಭೂತಗಳಿಗೂ" WordNumber="1" colStart="182" colEnd="0"/>
+            <word unicode="ನಾಗಗಳಿಗೂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹತ್ತಿರದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಂಟು." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಭೂತಸ್ಥಾನದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಬಳಿಯೇ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಅರಳಿಮರ," WordNumber="7" colStart="0" colEnd="1302"/>
         </line>
         <line LineNumber="10" rowStart="690" rowEnd="735">
             <word unicode="ಹಾವಿನ" WordNumber="1" rowStart="691" rowEnd="722" colStart="81" colEnd="184"/>

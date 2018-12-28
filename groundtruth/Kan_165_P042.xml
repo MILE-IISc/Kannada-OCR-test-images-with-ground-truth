@@ -48,14 +48,14 @@
             <word unicode="ಮೈಯೊಳಗೆ" WordNumber="8" rowStart="1911" rowEnd="1960" colStart="1149" colEnd="1311"/>
         </line>
         <line LineNumber="6" rowStart="1974" rowEnd="2023">
-            <word unicode="ಕಾವು" WordNumber="1" rowStart="1977" rowEnd="2012" colStart="90" colEnd="159"/>
-            <word unicode="ಇನ್ನಷ್ಟು" WordNumber="2" rowStart="1976" rowEnd="2020" colStart="179" colEnd="281"/>
-            <word unicode="ಏರುವುದು." WordNumber="3" rowStart="1976" rowEnd="2011" colStart="299" colEnd="455"/>
-            <word unicode="ಮರುಳಾಗಿ" WordNumber="4" rowStart="1976" rowEnd="2013" colStart="475" colEnd="638"/>
-            <word unicode="ಮತ್ತಷ್ಟು" WordNumber="5" rowStart="1976" rowEnd="2021" colStart="659" colEnd="774"/>
-            <word unicode="ಮೈಮರೆತು," WordNumber="6" rowStart="1975" rowEnd="2023" colStart="791" colEnd="959"/>
-            <word unicode="ಕುಣಿದು" WordNumber="7" rowStart="1974" rowEnd="2006" colStart="979" colEnd="1085"/>
-            <word unicode="ಕುಪ್ಪಳಿಸುವನು." WordNumber="8" rowStart="1976" rowEnd="2020" colStart="1106" colEnd="1312"/>
+            <word unicode="ಕಾವು" WordNumber="1" colStart="90" colEnd="0"/>
+            <word unicode="ಇನ್ನಷ್ಟು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಏರುವುದು." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮರುಳಾಗಿ," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮತ್ತಷ್ಟು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮೈಮರೆತು," WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಕುಣಿದು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಕುಪ್ಪಳಿಸುವನು." WordNumber="8" colStart="0" colEnd="1312"/>
         </line>
         <line LineNumber="7" rowStart="2039" rowEnd="2085">
             <word unicode="ಉಟ್ಟ" WordNumber="1" rowStart="2045" rowEnd="2085" colStart="92" colEnd="167"/>

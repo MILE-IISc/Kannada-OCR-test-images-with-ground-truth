@@ -14,9 +14,9 @@
             <word unicode="ತೌರಿನಲಿ," WordNumber="4" rowStart="197" rowEnd="236" colStart="744" colEnd="893"/>
         </line>
         <line LineNumber="3" rowStart="266" rowEnd="321">
-            <word unicode="ಹೊಸ" WordNumber="1" rowStart="267" rowEnd="301" colStart="240" colEnd="331"/>
-            <word unicode="ಸೀರೆ," WordNumber="2" rowStart="266" rowEnd="306" colStart="353" colEnd="432"/>
-            <word unicode="ರತ್ನದಾಭರಣ;" WordNumber="3" rowStart="267" rowEnd="321" colStart="461" colEnd="674"/>
+            <word unicode="ಹೊಸ" WordNumber="1" colStart="240" colEnd="0"/>
+            <word unicode="ಸೀರೆ," WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ರತ್ನದಾಭರಣ;;" WordNumber="3" colStart="0" colEnd="674"/>
         </line>
         <line LineNumber="4" rowStart="335" rowEnd="386">
             <word unicode="ತಾಯಿ" WordNumber="1" rowStart="341" rowEnd="370" colStart="167" colEnd="263"/>
@@ -57,13 +57,12 @@
     </block>
     <block type="Text" BlockNumber="4" rowStart="819" rowEnd="1081" colStart="169" colEnd="995">
         <line LineNumber="10" rowStart="819" rowEnd="858">
-            <word unicode="ಮುನಿಸು" WordNumber="1" rowStart="821" rowEnd="856" colStart="169" colEnd="300"/>
-            <word unicode="ಮಾವನ" WordNumber="2" rowStart="821" rowEnd="855" colStart="323" colEnd="445"/>
-            <word unicode="ಮೇಲೆ" WordNumber="3" rowStart="819" rowEnd="853" colStart="466" colEnd="563"/>
-            <word unicode=";" WordNumber="4" rowStart="831" rowEnd="858" colStart="584" colEnd="589"/>
-            <word unicode="ಮಗಳೇನ" WordNumber="5" rowStart="820" rowEnd="855" colStart="616" colEnd="763"/>
-            <word unicode="ಮಾಡಿದಳು" WordNumber="6" rowStart="820" rowEnd="852" colStart="784" colEnd="954"/>
-            <word unicode="?" WordNumber="7" rowStart="822" rowEnd="857" colStart="977" colEnd="995"/>
+            <word unicode="ಮುನಿಸು" WordNumber="1" colStart="169" colEnd="0"/>
+            <word unicode="ಮಾವನ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮೇಲೆ;" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಗಳೇನ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಡಿದಳು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="?" WordNumber="6" colStart="0" colEnd="995"/>
         </line>
         <line LineNumber="11" rowStart="888" rowEnd="937">
             <word unicode="ನಿಮಗೇತಕೀ" WordNumber="1" rowStart="888" rowEnd="925" colStart="243" colEnd="430"/>
@@ -71,14 +70,14 @@
             <word unicode="?" WordNumber="3" rowStart="892" rowEnd="927" colStart="668" colEnd="686"/>
         </line>
         <line LineNumber="12" rowStart="956" rowEnd="1012">
-            <word unicode="ಹೋಗಿ" WordNumber="1" rowStart="957" rowEnd="992" colStart="171" colEnd="283"/>
-            <word unicode="ಬನ್ನಿರಿ" WordNumber="2" rowStart="962" rowEnd="1012" colStart="306" colEnd="396"/>
-            <word unicode="ಒಮ್ಮೆ" WordNumber="3" rowStart="957" rowEnd="1012" colStart="419" colEnd="504"/>
-            <word unicode=";" WordNumber="4" rowStart="969" rowEnd="996" colStart="522" colEnd="527"/>
-            <word unicode="ಕೈ" WordNumber="5" rowStart="956" rowEnd="1012" colStart="555" colEnd="579"/>
-            <word unicode="ಮುಗಿದ" WordNumber="6" rowStart="959" rowEnd="991" colStart="599" colEnd="737"/>
-            <word unicode="ಬೇಡುವೆನು" WordNumber="7" rowStart="956" rowEnd="992" colStart="761" colEnd="935"/>
-            <word unicode=";" WordNumber="8" rowStart="968" rowEnd="995" colStart="958" colEnd="963"/>
+            <word unicode="ಹೋಗಿ" WordNumber="1" colStart="171" colEnd="0"/>
+            <word unicode="ಬನ್ನಿರಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಒಮ್ಮೆ;" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode=";" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕೈ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮುಗಿದು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಬೇಡುವೆನು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode=";" WordNumber="8" colStart="0" colEnd="963"/>
         </line>
         <line LineNumber="13" rowStart="1025" rowEnd="1081">
             <word unicode="ಅಮ್ಮನಿಗೆ" WordNumber="1" rowStart="1025" rowEnd="1081" colStart="244" colEnd="382"/>
