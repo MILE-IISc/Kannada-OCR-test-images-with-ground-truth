@@ -16,8 +16,8 @@
             <word unicode="ಸೇರ್ಪಡೆಯಾಗುವ" WordNumber="7" rowStart="179" rowEnd="228" colStart="996" colEnd="1256"/>
         </line>
         <line LineNumber="3" rowStart="247" rowEnd="303">
-            <word unicode="ವರೆಗೆ" WordNumber="1" rowStart="248" rowEnd="282" colStart="67" colEnd="142"/>
-            <word unicode="ತೆರೆದಿಟ್ಟೀರಾಬೇಕು." WordNumber="2" rowStart="247" rowEnd="303" colStart="163" colEnd="399"/>
+            <word unicode="ವರೆಗೆ" WordNumber="1" colStart="67" colEnd="0"/>
+            <word unicode="ತೆರೆದಿಟ್ಟಿರಬೇಕು." WordNumber="2" colStart="0" colEnd="399"/>
         </line>
     </block>
     <block type="Text" BlockNumber="3" rowStart="332" rowEnd="743" colStart="67" colEnd="1262">
@@ -58,13 +58,13 @@
             <word unicode="ಮುಂದಿನ" WordNumber="6" rowStart="519" rowEnd="557" colStart="1134" colEnd="1262"/>
         </line>
         <line LineNumber="8" rowStart="581" rowEnd="642">
-            <word unicode="ತಿಂಗಳಿನ" WordNumber="1" rowStart="584" rowEnd="622" colStart="69" colEnd="185"/>
-            <word unicode="ಲೆಕ್ಕಗಳಲ್ಲಿ" WordNumber="2" rowStart="583" rowEnd="640" colStart="200" colEnd="344"/>
-            <word unicode="ಸೇರಿಸುವುದಕ್ಕಾಗಿ" WordNumber="3" rowStart="583" rowEnd="638" colStart="364" colEnd="613"/>
-            <word unicode="ಬಿಟ್ಟೂಬಿಡಬಹುದು." WordNumber="4" rowStart="581" rowEnd="642" colStart="635" colEnd="885"/>
-            <word unicode="ಅದರ" WordNumber="5" rowStart="584" rowEnd="617" colStart="910" colEnd="984"/>
-            <word unicode="ಸಲುವಾಗಿ" WordNumber="6" rowStart="583" rowEnd="626" colStart="1001" colEnd="1141"/>
-            <word unicode="ಜಿಲ್ಲಾ" WordNumber="7" rowStart="582" rowEnd="631" colStart="1170" colEnd="1262"/>
+            <word unicode="ತಿಂಗಳಿನ" WordNumber="1" colStart="69" colEnd="0"/>
+            <word unicode="ಲೆಕ್ಕಗಳಲ್ಲಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸೇರಿಸುವುದಕ್ಕಾಗಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಬಿಟ್ಟೂಬಿಡಹುದು." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಅದರ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸಲುವಾಗಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಜಿಲ್ಲಾ" WordNumber="7" colStart="0" colEnd="1262"/>
         </line>
         <line LineNumber="9" rowStart="644" rowEnd="701">
             <word unicode="ಖಜಾನೆಯ" WordNumber="1" rowStart="646" rowEnd="694" colStart="69" colEnd="226"/>

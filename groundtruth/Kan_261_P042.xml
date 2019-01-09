@@ -27,15 +27,15 @@
             <word unicode="ವಿವರಿಸಿರಿ." WordNumber="8" rowStart="331" rowEnd="362" colStart="809" colEnd="939"/>
         </line>
         <line LineNumber="5" rowStart="384" rowEnd="446">
-            <word unicode="೨." WordNumber="1" rowStart="401" rowEnd="424" colStart="71" colEnd="106"/>
-            <word unicode="ಮನವ" WordNumber="2" rowStart="391" rowEnd="430" colStart="146" colEnd="259"/>
-            <word unicode="ಜೀವನ" WordNumber="3" rowStart="392" rowEnd="430" colStart="278" colEnd="373"/>
-            <word unicode="ಮತ್ತು" WordNumber="4" rowStart="394" rowEnd="438" colStart="392" colEnd="488"/>
-            <word unicode="ಅವನ" WordNumber="5" rowStart="393" rowEnd="431" colStart="509" colEnd="588"/>
-            <word unicode="ಚಟುವಟಿಕೆಗಳ" WordNumber="6" rowStart="391" rowEnd="426" colStart="608" colEnd="817"/>
-            <word unicode="ಮೇಲೆ" WordNumber="7" rowStart="391" rowEnd="424" colStart="837" colEnd="918"/>
-            <word unicode="ನೈಸರ್ಗಿಕ" WordNumber="8" rowStart="389" rowEnd="446" colStart="938" colEnd="1075"/>
-            <word unicode="ಪರಿಸರದ" WordNumber="9" rowStart="384" rowEnd="420" colStart="1120" colEnd="1239"/>
+            <word unicode="೨." WordNumber="1" colStart="71" colEnd="0"/>
+            <word unicode="ಮಾನವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಜೀವನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮತ್ತು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಅವನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಚಟುವಟಿಕೆಗಳ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಮೇಲೆ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ನೈಸರ್ಗಿಕ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಪರಿಸರದ" WordNumber="9" colStart="0" colEnd="1239"/>
         </line>
         <line LineNumber="6" rowStart="454" rowEnd="506">
             <word unicode="ಪ್ರಭಾವವನ್ನು" WordNumber="1" rowStart="454" rowEnd="506" colStart="148" colEnd="355"/>

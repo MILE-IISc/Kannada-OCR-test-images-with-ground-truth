@@ -63,8 +63,8 @@
             <word unicode="ಎನ್ನುವ" WordNumber="5" rowStart="652" rowEnd="702" colStart="771" colEnd="880"/>
         </line>
         <line LineNumber="10" rowStart="714" rowEnd="766">
-            <word unicode="ಮನೋದರ್ಢ್ಯ" WordNumber="1" rowStart="714" rowEnd="766" colStart="82" colEnd="310"/>
-            <word unicode="ಉದಯವಾಗಬೇಕು." WordNumber="2" rowStart="715" rowEnd="747" colStart="332" colEnd="620"/>
+            <word unicode="ಮನೋದಾರ್ಢ್ಯ" WordNumber="1" colStart="82" colEnd="0"/>
+            <word unicode="ಉದಯವಾಗಬೇಕು." WordNumber="2" colStart="0" colEnd="620"/>
         </line>
     </block>
     <block type="Text" BlockNumber="5" rowStart="778" rowEnd="1024" colStart="72" colEnd="878">
@@ -154,9 +154,9 @@
             <word unicode="ಬಲವಾಗಿರದಿದ್ದರೆ" WordNumber="5" rowStart="1626" rowEnd="1678" colStart="627" colEnd="876"/>
         </line>
         <line LineNumber="24" rowStart="1689" rowEnd="1743">
-            <word unicode="ಮೂರನೆಯ" WordNumber="1" rowStart="1689" rowEnd="1721" colStart="78" colEnd="295"/>
-            <word unicode="ಸಹಜವಾಗಿರಲು" WordNumber="2" rowStart="1689" rowEnd="1721" colStart="316" colEnd="537"/>
-            <word unicode="ಅಸಾಧ್ಯ." WordNumber="3" rowStart="1692" rowEnd="1743" colStart="559" colEnd="684"/>
+            <word unicode="ಮೂರನೆಯದು" WordNumber="1" colStart="78" colEnd="0"/>
+            <word unicode="ಸಹಜವಾಗಿರಲು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅಸಾಧ್ಯ." WordNumber="3" colStart="0" colEnd="684"/>
         </line>
     </block>
     <block type="Text" BlockNumber="8" rowStart="1752" rowEnd="2481" colStart="65" colEnd="876">
@@ -187,18 +187,18 @@
             <word unicode="ವಾಮಮಾರ್ಗದಲ್ಲಿ" WordNumber="3" rowStart="1942" rowEnd="1987" colStart="614" colEnd="876"/>
         </line>
         <line LineNumber="29" rowStart="2003" rowEnd="2057">
-            <word unicode="ಪಡೆಯುವುದಕ್ಕೆ" WordNumber="1" rowStart="2004" rowEnd="2057" colStart="76" colEnd="297"/>
-            <word unicode="ಮೊದಲು" WordNumber="2" rowStart="2003" rowEnd="2036" colStart="318" colEnd="450"/>
-            <word unicode="ತಾವೇ" WordNumber="3" rowStart="2004" rowEnd="2036" colStart="472" colEnd="556"/>
-            <word unicode="ಧೂಮಪಾನ," WordNumber="4" rowStart="2005" rowEnd="2041" colStart="577" colEnd="764"/>
-            <word unicode="ಮಧ್ಯ" WordNumber="5" rowStart="2005" rowEnd="2057" colStart="788" colEnd="873"/>
+            <word unicode="ಪಡೆಯುವುದಕ್ಕೆ" WordNumber="1" colStart="76" colEnd="0"/>
+            <word unicode="ಮೊದಲು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತಾವೇ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಧೂಮಪಾನ," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮದ್ಯ" WordNumber="5" colStart="0" colEnd="873"/>
         </line>
         <line LineNumber="30" rowStart="2067" rowEnd="2120">
-            <word unicode="ಪಾನ," WordNumber="1" rowStart="2068" rowEnd="2102" colStart="75" colEnd="157"/>
-            <word unicode="ಔಷಧಗಳ" WordNumber="2" rowStart="2067" rowEnd="2106" colStart="179" colEnd="317"/>
-            <word unicode="ದುರುಪಯ್‌ಓಗ," WordNumber="3" rowStart="2067" rowEnd="2103" colStart="336" colEnd="569"/>
-            <word unicode="ಜೂಜು," WordNumber="4" rowStart="2075" rowEnd="2103" colStart="590" colEnd="707"/>
-            <word unicode="ಲೈಂಗಿಕತೆ," WordNumber="5" rowStart="2068" rowEnd="2120" colStart="730" colEnd="872"/>
+            <word unicode="ಪಾನ," WordNumber="1" colStart="75" colEnd="0"/>
+            <word unicode="ಔಷಧಗಳ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ದುರುಪಯೋಗ," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಜೂಜು," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಲೈಂಗಿಕತೆ," WordNumber="5" colStart="0" colEnd="872"/>
         </line>
         <line LineNumber="31" rowStart="2128" rowEnd="2182">
             <word unicode="ಲೈಂಗಿಕ" WordNumber="1" rowStart="2128" rowEnd="2182" colStart="67" colEnd="180"/>
