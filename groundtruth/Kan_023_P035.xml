@@ -225,14 +225,14 @@
             <word unicode="ಅರಿವು" WordNumber="7" rowStart="1655" rowEnd="1694" colStart="1042" colEnd="1128"/>
         </line>
         <line LineNumber="27" rowStart="1713" rowEnd="1759">
-            <word unicode="ಇಲ್ಲದೆ" WordNumber="1" rowStart="1714" rowEnd="1758" colStart="93" colEnd="195"/>
-            <word unicode="“ವಾಕಿಂಗ್" WordNumber="2" rowStart="1715" rowEnd="1746" colStart="207" colEnd="354"/>
-            <word unicode="ಹೋಗಿ" WordNumber="3" rowStart="1713" rowEnd="1746" colStart="369" colEnd="471"/>
-            <word unicode="ಬರೋಣ," WordNumber="4" rowStart="1714" rowEnd="1752" colStart="486" colEnd="629"/>
-            <word unicode="ಬರ್ತೀರಾ" WordNumber="5" rowStart="1719" rowEnd="1759" colStart="648" colEnd="766"/>
-            <word unicode="?”" WordNumber="6" rowStart="1715" rowEnd="1746" colStart="779" colEnd="814"/>
-            <word unicode="ಎಂದು" WordNumber="7" rowStart="1715" rowEnd="1746" colStart="830" colEnd="921"/>
-            <word unicode="ಕೇಳಬಹುದು." WordNumber="8" rowStart="1714" rowEnd="1746" colStart="936" colEnd="1123"/>
+            <word unicode="ಇಲ್ಲದೆ" WordNumber="1" colStart="93" colEnd="0"/>
+            <word unicode="“ವಾಕಿಂಗ್" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹೋಗಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಬರೋಣ," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಬರ್ತೀರಾ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="?”" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಎಂದು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಕೇಳಬಹುದು." WordNumber="8" colStart="0" colEnd="1123"/>
         </line>
     </block>
     <block type="Text" BlockNumber="7" rowStart="1774" rowEnd="1808" colStart="154" colEnd="596">

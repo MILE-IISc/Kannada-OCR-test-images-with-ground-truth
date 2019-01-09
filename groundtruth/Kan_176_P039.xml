@@ -164,19 +164,19 @@
             <word unicode="ಗಿಳಿಗಳು" WordNumber="10" rowStart="1064" rowEnd="1096" colStart="1123" colEnd="1232"/>
         </line>
         <line LineNumber="17" rowStart="1122" rowEnd="1174">
-            <word unicode="(ಕವನ" WordNumber="1" rowStart="1122" rowEnd="1173" colStart="61" colEnd="152"/>
-            <word unicode="ಸಂಕಲನಗಳು);" WordNumber="2" rowStart="1122" rowEnd="1174" colStart="167" colEnd="380"/>
-            <word unicode="ಒಥೆಲೊ," WordNumber="3" rowStart="1124" rowEnd="1162" colStart="400" colEnd="525"/>
-            <word unicode="ಮಿಡ್ಸಮ್ಮಿರ್" WordNumber="4" rowStart="1124" rowEnd="1174" colStart="545" colEnd="735"/>
-            <word unicode="ನೈಟ್ಸ್ಡ್ರೀಮ್" WordNumber="5" rowStart="1123" rowEnd="1173" colStart="762" colEnd="941"/>
-            <word unicode="(ಭಾಷಾಂತರ)." WordNumber="6" rowStart="1124" rowEnd="1174" colStart="956" colEnd="1163"/>
+            <word unicode="(ಕವನ" WordNumber="1" colStart="61" colEnd="0"/>
+            <word unicode="ಸಂಕಲನಗಳು);" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಒಥೆಲೊ," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಿಡ್‌ಸಮ್ಮಿರ್" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನೈಟ್ಸ್‌ಡ್ರೀಮ್" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="(ಭಾಷಾಂತರ)." WordNumber="6" colStart="0" colEnd="1163"/>
         </line>
     </block>
     <block type="Text" BlockNumber="5" rowStart="1210" rowEnd="1276" colStart="60" colEnd="403">
         <line LineNumber="18" rowStart="1219" rowEnd="1269">
-            <word unicode="ನಮ್ಮ" WordNumber="1" rowStart="1219" rowEnd="1269" colStart="72" colEnd="139"/>
-            <word unicode="ಬಡಾವಣೆಯ" WordNumber="2" rowStart="1220" rowEnd="1251" colStart="151" colEnd="336"/>
-            <word unicode="ಕಥೆ" WordNumber="3" rowStart="1219" rowEnd="1251" colStart="348" colEnd="394"/>
+            <word unicode="ನಮ್ಮ" WordNumber="1" colStart="72" colEnd="0"/>
+            <word unicode="ಬಡಾವಣೆಯ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕತೆ" WordNumber="3" colStart="0" colEnd="394"/>
         </line>
     </block>
     <block type="Text" BlockNumber="6" rowStart="1278" rowEnd="1691" colStart="44" colEnd="1255">

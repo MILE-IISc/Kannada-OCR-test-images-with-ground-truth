@@ -151,14 +151,15 @@
     </block>
     <block type="Text" BlockNumber="10" rowStart="956" rowEnd="1017" colStart="107" colEnd="1210">
         <line LineNumber="16" rowStart="962" rowEnd="1012">
-            <word unicode="ಆಂದ್ರಿಯಾ" WordNumber="1" rowStart="962" rowEnd="1012" colStart="115" colEnd="262"/>
-            <word unicode=":" WordNumber="2" rowStart="967" rowEnd="1000" colStart="274" colEnd="284"/>
-            <word unicode="ಇದನ್ನಹೇಗೆ" WordNumber="3" rowStart="962" rowEnd="1012" colStart="295" colEnd="457"/>
-            <word unicode="ನೋಡ್ಕೊಬೇಕೂಂತ" WordNumber="4" rowStart="962" rowEnd="1012" colStart="470" colEnd="744"/>
-            <word unicode="ನಿನಗೆ" WordNumber="5" rowStart="962" rowEnd="1012" colStart="756" colEnd="828"/>
-            <word unicode="ಗೊತ್ತಿಲ್ಲ." WordNumber="6" rowStart="962" rowEnd="1012" colStart="842" colEnd="954"/>
-            <word unicode="ಕೈಬಿಡು" WordNumber="7" rowStart="962" rowEnd="1012" colStart="969" colEnd="1063"/>
-            <word unicode="ಹೇಳ್ತೀನಿ." WordNumber="8" rowStart="962" rowEnd="1012" colStart="1076" colEnd="1200"/>
+            <word unicode="ಆಂದ್ರಿಯಾ" WordNumber="1" colStart="115" colEnd="0"/>
+            <word unicode=":" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಇದನ್ನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಹೇಗೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನೋಡ್ಕೊಬೇಕೂಂತ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನಿನಗೆ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಗೊತ್ತಿಲ್ಲ." WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಕೈಬಿಡು" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಹೇಳ್ತೀನಿ." WordNumber="9" colStart="0" colEnd="1200"/>
         </line>
     </block>
     <block type="Text" BlockNumber="11" rowStart="1018" rowEnd="1076" colStart="104" colEnd="1169">
@@ -273,12 +274,12 @@
     </block>
     <block type="Text" BlockNumber="17" rowStart="1658" rowEnd="1715" colStart="102" colEnd="1000">
         <line LineNumber="28" rowStart="1660" rowEnd="1711">
-            <word unicode="ದೇವತಾಶಾಸ್ತ್ರಜ್ಞ" WordNumber="1" rowStart="1660" rowEnd="1711" colStart="115" colEnd="331"/>
-            <word unicode=":" WordNumber="2" rowStart="1665" rowEnd="1696" colStart="335" colEnd="347"/>
-            <word unicode="ಗಾಬರಿಯಾಗೋ" WordNumber="3" rowStart="1660" rowEnd="1711" colStart="364" colEnd="592"/>
-            <word unicode="ಅಂಥದೇನು" WordNumber="4" rowStart="1660" rowEnd="1711" colStart="611" colEnd="788"/>
-            <word unicode="ಇಲ್ಲ" WordNumber="5" rowStart="1660" rowEnd="1711" colStart="806" colEnd="955"/>
-            <word unicode="ತಾನೇ?" WordNumber="6" rowStart="1660" rowEnd="1711" colStart="974" colEnd="991"/>
+            <word unicode="ದೇವತಾಶಾಸ್ತ್ರಜ್ಞ" WordNumber="1" colStart="115" colEnd="0"/>
+            <word unicode=":" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಗಾಬರಿಯಾಗೋ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅಂಥದೇನೂ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಇಲ್ಲ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ತಾನೇ?" WordNumber="6" colStart="0" colEnd="991"/>
         </line>
     </block>
     <block type="Text" BlockNumber="18" rowStart="1715" rowEnd="1772" colStart="104" colEnd="519">

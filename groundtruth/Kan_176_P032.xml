@@ -75,14 +75,15 @@
             <word unicode="ಚಿಗರಿಗಂಗಳ" WordNumber="8" rowStart="566" rowEnd="598" colStart="1073" colEnd="1248"/>
         </line>
         <line LineNumber="9" rowStart="627" rowEnd="677">
-            <word unicode="ಚೆಲುವಿ" WordNumber="1" rowStart="628" rowEnd="658" colStart="81" colEnd="178"/>
-            <word unicode="ಎಂದು" WordNumber="2" rowStart="628" rowEnd="658" colStart="190" colEnd="279"/>
-            <word unicode="ಕರೆಯಲಾಗಿದೆ." WordNumber="3" rowStart="627" rowEnd="658" colStart="290" colEnd="491"/>
-            <word unicode="ಈ" WordNumber="4" rowStart="631" rowEnd="658" colStart="514" colEnd="548"/>
-            <word unicode="ಚಿಗರಿಗಂಗಳ" WordNumber="5" rowStart="627" rowEnd="658" colStart="560" colEnd="733"/>
-            <word unicode="ಚೆಲುವಿ" WordNumber="6" rowStart="629" rowEnd="659" colStart="746" colEnd="844"/>
-            <word unicode="ತನ್ನದುಃಸ್ವಪ್ನದಂಥ" WordNumber="7" rowStart="627" rowEnd="677" colStart="855" colEnd="1105"/>
-            <word unicode="ಅನುಭವ" WordNumber="8" rowStart="627" rowEnd="666" colStart="1126" colEnd="1249"/>
+            <word unicode="ಚೆಲುವಿ" WordNumber="1" colStart="81" colEnd="0"/>
+            <word unicode="ಎಂದು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕರೆಯಲಾಗಿದೆ." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಈ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಚಿಗರಿಗಂಗಳ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಚೆಲುವಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ತನ್ನ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ದುಃಸ್ವಪ್ನದಂಥ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಅನುಭವ" WordNumber="9" colStart="0" colEnd="1249"/>
         </line>
         <line LineNumber="10" rowStart="687" rowEnd="735">
             <word unicode="ದಿಂದ" WordNumber="1" rowStart="687" rowEnd="718" colStart="82" colEnd="158"/>
@@ -188,12 +189,13 @@
             <word unicode="ತೀರ್ಥಹಳ್ಳಿ" WordNumber="12" rowStart="1348" rowEnd="1395" colStart="1095" colEnd="1250"/>
         </line>
         <line LineNumber="21" rowStart="1408" rowEnd="1458">
-            <word unicode="ತಾಲೂಕು," WordNumber="1" rowStart="1408" rowEnd="1444" colStart="79" colEnd="217"/>
-            <word unicode="ಶಿವಮೊಗ್ಗಜಿಲ್ಲೆ." WordNumber="2" rowStart="1408" rowEnd="1458" colStart="236" colEnd="449"/>
-            <word unicode="ಮೈಸೂರಿನ" WordNumber="3" rowStart="1409" rowEnd="1457" colStart="474" colEnd="623"/>
-            <word unicode="ಮಹಾರಾಜ" WordNumber="4" rowStart="1408" rowEnd="1440" colStart="637" colEnd="796"/>
-            <word unicode="ಕಾಲೇಜಿನಲ್ಲಿಅಧ್ಯಾಪಕ," WordNumber="5" rowStart="1408" rowEnd="1456" colStart="808" colEnd="1126"/>
-            <word unicode="ಪ್ರಾಂಶು" WordNumber="6" rowStart="1409" rowEnd="1453" colStart="1144" colEnd="1249"/>
+            <word unicode="ತಾಲೂಕು," WordNumber="1" colStart="79" colEnd="0"/>
+            <word unicode="ಶಿವಮೊಗ್ಗಜಿಲ್ಲೆ." WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮೈಸೂರಿನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಹಾರಾಜ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕಾಲೇಜಿನಲ್ಲಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಅಧ್ಯಾಪಕ," WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಾಂಶು" WordNumber="7" colStart="0" colEnd="1249"/>
         </line>
         <line LineNumber="22" rowStart="1467" rowEnd="1517">
             <word unicode="ಪಾಲ," WordNumber="1" rowStart="1478" rowEnd="1505" colStart="80" colEnd="158"/>

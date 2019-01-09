@@ -56,8 +56,8 @@
             <word unicode="ಯೇ" WordNumber="4" colStart="0" colEnd="0"/>
             <word unicode="ನ" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ವದಂತಿ" WordNumber="6" colStart="0" colEnd="0"/>
-            <word unicode="ಧರ್ಮಮ್|||||" WordNumber="7" colStart="0" colEnd="0"/>
-            <word unicode="|" WordNumber="8" colStart="0" colEnd="942"/>
+            <word unicode="ಧರ್ಮಮ್" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="8" colStart="0" colEnd="942"/>
         </line>
         <line LineNumber="8" rowStart="651" rowEnd="703">
             <word unicode="ಧರ್ಮೋ" WordNumber="1" rowStart="651" rowEnd="691" colStart="68" colEnd="202"/>
@@ -75,10 +75,9 @@
             <word unicode="ಸರ್ವಹಿತಂ" WordNumber="4" colStart="0" colEnd="0"/>
             <word unicode="ನ" WordNumber="5" colStart="0" colEnd="0"/>
             <word unicode="ಲಕ್ಷ್ಯೇ" WordNumber="6" colStart="0" colEnd="0"/>
-            <word unicode="|" WordNumber="7" colStart="0" colEnd="0"/>
-            <word unicode="‖||" WordNumber="8" colStart="0" colEnd="0"/>
-            <word unicode="(ಮ." WordNumber="9" colStart="0" colEnd="0"/>
-            <word unicode="ಭಾ)" WordNumber="10" colStart="0" colEnd="1307"/>
+            <word unicode="॥" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="(ಮ." WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾ)" WordNumber="9" colStart="0" colEnd="1307"/>
         </line>
     </block>
     <block type="Text" BlockNumber="5" rowStart="806" rowEnd="980" colStart="68" colEnd="1306">
@@ -116,19 +115,21 @@
     </block>
     <block type="Text" BlockNumber="7" rowStart="1159" rowEnd="1269" colStart="66" colEnd="1306">
         <line LineNumber="14" rowStart="1159" rowEnd="1212">
-            <word unicode="ಅಭ್ಯಾಸಾನುಗತಾ" WordNumber="1" rowStart="1162" rowEnd="1207" colStart="67" colEnd="301"/>
-            <word unicode="ವಿದ್ಯಾ" WordNumber="2" rowStart="1166" rowEnd="1207" colStart="340" colEnd="426"/>
-            <word unicode="ಬುದ್ಧಿಃ" WordNumber="3" rowStart="1165" rowEnd="1212" colStart="458" colEnd="548"/>
-            <word unicode="ಕರ್ಮಾನುಸಾರಿಣೀ|" WordNumber="4" rowStart="1159" rowEnd="1194" colStart="586" colEnd="870"/>
+            <word unicode="ಅಭ್ಯಾಸಾನುಗತಾ" WordNumber="1" colStart="67" colEnd="0"/>
+            <word unicode="ವಿದ್ಯಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಬುದ್ಧಿಃ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕರ್ಮಾನುಸಾರಿಣೀ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="5" colStart="0" colEnd="870"/>
         </line>
         <line LineNumber="15" rowStart="1221" rowEnd="1269">
             <word unicode="ಉದ್ಯೋಗಾನುಗತಾ" WordNumber="1" colStart="66" colEnd="0"/>
             <word unicode="ಸಂಸತ್" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಫಲಂ" WordNumber="3" colStart="0" colEnd="0"/>
-            <word unicode="ಭಾಗ್ಯಾನುಸಾರಿಣೀ||||" WordNumber="4" colStart="0" colEnd="0"/>
-            <word unicode="(ಸು." WordNumber="5" colStart="0" colEnd="0"/>
-            <word unicode="ರ." WordNumber="6" colStart="0" colEnd="0"/>
-            <word unicode="ಭಾಂ)" WordNumber="7" colStart="0" colEnd="1306"/>
+            <word unicode="ಭಾಗ್ಯಾನುಸಾರಿಣೀ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="(ಸು." WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ರ." WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾಂ)" WordNumber="8" colStart="0" colEnd="1306"/>
         </line>
     </block>
     <block type="Text" BlockNumber="8" rowStart="1315" rowEnd="1426" colStart="66" colEnd="1305">
@@ -157,19 +158,21 @@
     </block>
     <block type="Text" BlockNumber="10" rowStart="1608" rowEnd="1718" colStart="65" colEnd="1305">
         <line LineNumber="19" rowStart="1608" rowEnd="1656">
-            <word unicode="ದಾತೃತ್ವಂ" WordNumber="1" rowStart="1608" rowEnd="1656" colStart="65" colEnd="193"/>
-            <word unicode="ಪ್ರಿಯವಕ್ತೃತ್ವಂ" WordNumber="2" rowStart="1608" rowEnd="1656" colStart="236" colEnd="441"/>
-            <word unicode="ಧೀರತ್ವಮುಚಿತಜ್ಞತಾ" WordNumber="3" rowStart="1608" rowEnd="1656" colStart="485" colEnd="795"/>
+            <word unicode="ದಾತೃತ್ವಂ" WordNumber="1" colStart="65" colEnd="0"/>
+            <word unicode="ಪ್ರಿಯವಕ್ತೃತ್ವಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಧೀರತ್ವಮುಚಿತಜ್ಞತಾ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="4" colStart="0" colEnd="795"/>
         </line>
         <line LineNumber="20" rowStart="1670" rowEnd="1718">
-            <word unicode="ಅಭ್ಯಾಸೇನ" WordNumber="1" rowStart="1670" rowEnd="1716" colStart="65" colEnd="216"/>
-            <word unicode="ನ" WordNumber="2" rowStart="1670" rowEnd="1704" colStart="255" colEnd="279"/>
-            <word unicode="ಲಭ್ಯಂತೇ" WordNumber="3" rowStart="1670" rowEnd="1716" colStart="319" colEnd="447"/>
-            <word unicode="ಚತ್ವಾರಸ್ಸಹಜಾ" WordNumber="4" rowStart="1670" rowEnd="1718" colStart="487" colEnd="695"/>
-            <word unicode="ಗುಣಾ:||" WordNumber="5" rowStart="1670" rowEnd="1703" colStart="734" colEnd="862"/>
-            <word unicode="(ಸು." WordNumber="6" rowStart="1674" rowEnd="1712" colStart="1094" colEnd="1151"/>
-            <word unicode="ರ." WordNumber="7" rowStart="1674" rowEnd="1701" colStart="1168" colEnd="1200"/>
-            <word unicode="ಭಾಂ." WordNumber="8" rowStart="1675" rowEnd="1711" colStart="1218" colEnd="1305"/>
+            <word unicode="ಅಭ್ಯಾಸೇನ" WordNumber="1" colStart="65" colEnd="0"/>
+            <word unicode="ನ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಲಭ್ಯಂತೇ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಚತ್ವಾರಸ್ಸಹಜಾ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಗುಣಾ:" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="(ಸು." WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ರ." WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾಂ.)" WordNumber="9" colStart="0" colEnd="1305"/>
         </line>
     </block>
     <block type="Text" BlockNumber="11" rowStart="1763" rowEnd="1937" colStart="64" colEnd="1310">
@@ -191,12 +194,12 @@
             <word unicode="ಬರುವ" WordNumber="6" rowStart="1827" rowEnd="1859" colStart="1202" colEnd="1304"/>
         </line>
         <line LineNumber="23" rowStart="1884" rowEnd="1937">
-            <word unicode="ಗಣಗಳೇ" WordNumber="1" rowStart="1890" rowEnd="1923" colStart="65" colEnd="206"/>
-            <word unicode="ಹೊರತು" WordNumber="2" rowStart="1891" rowEnd="1923" colStart="238" colEnd="367"/>
-            <word unicode="ಕೇವಲ" WordNumber="3" rowStart="1891" rowEnd="1923" colStart="399" colEnd="496"/>
-            <word unicode="ಅನುಕರಣೆ," WordNumber="4" rowStart="1891" rowEnd="1931" colStart="527" colEnd="690"/>
-            <word unicode="ರೂಢಿಗಳಿಂದ" WordNumber="5" rowStart="1891" rowEnd="1930" colStart="723" colEnd="914"/>
-            <word unicode="ಉದಿಸುವುದಿಲ್ಲ." WordNumber="6" rowStart="1884" rowEnd="1937" colStart="947" colEnd="1177"/>
+            <word unicode="ಗುಣಗಳೇ" WordNumber="1" colStart="65" colEnd="0"/>
+            <word unicode="ಹೊರತು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕೇವಲ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅನುಕರಣೆ," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ರೂಢಿಗಳಿಂದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಉದಿಸುವುದಿಲ್ಲ." WordNumber="6" colStart="0" colEnd="1177"/>
         </line>
     </block>
     <block type="Text" BlockNumber="12" rowStart="2014" rowEnd="2053" colStart="596" colEnd="776">
@@ -206,23 +209,25 @@
     </block>
     <block type="Text" BlockNumber="13" rowStart="2123" rowEnd="2243" colStart="64" colEnd="1304">
         <line LineNumber="25" rowStart="2123" rowEnd="2173">
-            <word unicode="ನಿರ್ಧನಸ್ಯ" WordNumber="1" rowStart="2123" rowEnd="2170" colStart="64" colEnd="206"/>
-            <word unicode="ವಿಷಂ" WordNumber="2" rowStart="2124" rowEnd="2158" colStart="243" colEnd="323"/>
-            <word unicode="ಭೋಗೋ" WordNumber="3" rowStart="2123" rowEnd="2164" colStart="367" colEnd="521"/>
-            <word unicode="ನಿಸ್ಸತ್ತ್ವಸ್ಯ" WordNumber="4" rowStart="2124" rowEnd="2173" colStart="562" colEnd="699"/>
-            <word unicode="ವಿಷಂ" WordNumber="5" rowStart="2124" rowEnd="2157" colStart="735" colEnd="816"/>
-            <word unicode="ರಣಮ್|" WordNumber="6" rowStart="2123" rowEnd="2156" colStart="858" colEnd="992"/>
+            <word unicode="ನಿರ್ಧನಸ್ಯ" WordNumber="1" colStart="64" colEnd="0"/>
+            <word unicode="ವಿಷಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಭೋಗೋ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಿಸ್ಸತ್ತ್ವಸ್ಯ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಷಂ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ರಣಮ್" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="7" colStart="0" colEnd="992"/>
         </line>
         <line LineNumber="26" rowStart="2186" rowEnd="2243">
-            <word unicode="ಅನಭ್ಯಾಸೇ" WordNumber="1" rowStart="2186" rowEnd="2233" colStart="64" colEnd="215"/>
-            <word unicode="ವಿಷಂ" WordNumber="2" rowStart="2187" rowEnd="2221" colStart="258" colEnd="339"/>
-            <word unicode="ಶಾಸ್ತ್ರಂ" WordNumber="3" rowStart="2187" rowEnd="2243" colStart="381" colEnd="465"/>
-            <word unicode="ಅಜೀರ್ಣೇ" WordNumber="4" rowStart="2186" rowEnd="2219" colStart="507" colEnd="658"/>
-            <word unicode="ಭೋಜನಂ" WordNumber="5" rowStart="2186" rowEnd="2227" colStart="700" colEnd="858"/>
-            <word unicode="ವಿಷಮ್||" WordNumber="6" rowStart="2186" rowEnd="2220" colStart="901" colEnd="1049"/>
-            <word unicode="(ಸು." WordNumber="7" rowStart="2191" rowEnd="2227" colStart="1094" colEnd="1150"/>
-            <word unicode="ರ." WordNumber="8" rowStart="2191" rowEnd="2218" colStart="1167" colEnd="1199"/>
-            <word unicode="ಭಾಂ)" WordNumber="9" rowStart="2191" rowEnd="2227" colStart="1216" colEnd="1304"/>
+            <word unicode="ಅನಭ್ಯಾಸೇ" WordNumber="1" colStart="64" colEnd="0"/>
+            <word unicode="ವಿಷಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಶಾಸ್ತ್ರಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅಜೀರ್ಣೇ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಭೋಜನಂ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಷಮ್" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="(ಸು." WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ರ." WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾಂ)" WordNumber="10" colStart="0" colEnd="1304"/>
         </line>
     </block>
 </page>

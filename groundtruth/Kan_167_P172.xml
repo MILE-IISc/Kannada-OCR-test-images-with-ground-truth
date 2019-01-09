@@ -8,70 +8,71 @@
     </block>
     <block type="Text" BlockNumber="2" rowStart="149" rowEnd="332" colStart="174" colEnd="1216">
         <line LineNumber="2" rowStart="149" rowEnd="176">
-            <word unicode="ಕುರುರಾಜಂ" WordNumber="1" rowStart="151" rowEnd="176" colStart="174" colEnd="323"/>
-            <word unicode="ತೊಡೆವೇನಗೆ" WordNumber="2" rowStart="149" rowEnd="176" colStart="350" colEnd="513"/>
-            <word unicode="|" WordNumber="3" rowStart="152" rowEnd="175" colStart="543" colEnd="548"/>
+            <word unicode="ಕುರುರಾಜಂ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ತೊಡೆವೇನಗೆ।" WordNumber="2" colStart="0" colEnd="548"/>
         </line>
         <line LineNumber="3" rowStart="198" rowEnd="226">
-            <word unicode="ನರಳನೆ" WordNumber="1" rowStart="199" rowEnd="226" colStart="174" colEnd="259"/>
-            <word unicode="ಕುಱುವಾದ" WordNumber="2" rowStart="199" rowEnd="226" colStart="286" colEnd="428"/>
-            <word unicode="ತೊಡೆಯ" WordNumber="3" rowStart="198" rowEnd="225" colStart="455" colEnd="575"/>
-            <word unicode="ಬೇನೆಗೆ" WordNumber="4" rowStart="198" rowEnd="226" colStart="602" colEnd="689"/>
-            <word unicode="ಕಂಡರ್" WordNumber="5" rowStart="200" rowEnd="226" colStart="715" colEnd="811"/>
-            <word unicode="||" WordNumber="6" rowStart="201" rowEnd="225" colStart="842" colEnd="859"/>
+            <word unicode="ನರಳನೆ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ಕುಱುವಾದ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತೊಡೆಯ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಬೇನೆಗೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕಂಡರ್" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="6" colStart="0" colEnd="859"/>
         </line>
         <line LineNumber="4" rowStart="248" rowEnd="289">
-            <word unicode="ನರಳ್ವಂತೆ" WordNumber="1" rowStart="248" rowEnd="289" colStart="174" colEnd="281"/>
-            <word unicode="ನರಳದರಸಂ" WordNumber="2" rowStart="249" rowEnd="276" colStart="309" colEnd="461"/>
-            <word unicode="|" WordNumber="3" rowStart="251" rowEnd="274" colStart="493" colEnd="497"/>
+            <word unicode="ನರಳ್ವಂತೆ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ನರಳದರಸಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="3" colStart="0" colEnd="497"/>
         </line>
         <line LineNumber="5" rowStart="297" rowEnd="332">
-            <word unicode="ವಿರೋಧಿಯಿಂದಾದ" WordNumber="1" rowStart="297" rowEnd="332" colStart="174" colEnd="411"/>
-            <word unicode="ಮಾನಹಾಣಿಗೆ" WordNumber="2" rowStart="298" rowEnd="326" colStart="439" colEnd="603"/>
-            <word unicode="ನೊಂದಂ" WordNumber="3" rowStart="298" rowEnd="326" colStart="631" colEnd="743"/>
-            <word unicode="||೧೯||" WordNumber="4" rowStart="300" rowEnd="325" colStart="1128" colEnd="1216"/>
+            <word unicode="ವಿರೋಧಿಯಿಂದಾದ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ಮಾನಹಾನಿಗೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನೊಂದಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="॥೧೯" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="5" colStart="0" colEnd="1216"/>
         </line>
     </block>
     <block type="Text" BlockNumber="3" rowStart="366" rowEnd="395" colStart="174" colEnd="970">
         <line LineNumber="6" rowStart="366" rowEnd="395">
-            <word unicode="ಅಂತೆನಿಸಿದ" WordNumber="1" rowStart="366" rowEnd="394" colStart="174" colEnd="312"/>
-            <word unicode="ಕುರುರಾಜನಂದನಂ" WordNumber="2" rowStart="367" rowEnd="394" colStart="339" colEnd="602"/>
-            <word unicode="ಗುರುನಂದನಂ" WordNumber="3" rowStart="367" rowEnd="395" colStart="629" colEnd="810"/>
-            <word unicode="ನೋಡಿ" WordNumber="4" rowStart="366" rowEnd="394" colStart="837" colEnd="927"/>
-            <word unicode="-" WordNumber="5" rowStart="381" rowEnd="385" colStart="955" colEnd="970"/>
+            <word unicode="ಅಂತೆನಿಸಿದ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ಕುರುರಾಜನಂದನನಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಗುರುನಂದನಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನೋಡಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="-" WordNumber="5" colStart="0" colEnd="970"/>
         </line>
     </block>
     <block type="Text" BlockNumber="4" rowStart="429" rowEnd="625" colStart="174" colEnd="1216">
         <line LineNumber="7" rowStart="429" rowEnd="472">
-            <word unicode="ಕುಳಿಕನ" WordNumber="1" rowStart="434" rowEnd="461" colStart="174" colEnd="271"/>
-            <word unicode="ಪಲ್ಗಳಂ" WordNumber="2" rowStart="434" rowEnd="472" colStart="297" colEnd="389"/>
-            <word unicode="ಮುಱಯೆ" WordNumber="3" rowStart="429" rowEnd="461" colStart="416" colEnd="542"/>
-            <word unicode="ಮೋದಿದರಾರ್" WordNumber="4" rowStart="433" rowEnd="461" colStart="569" colEnd="761"/>
-            <word unicode="ಕುಡುಪಿಂದೆ" WordNumber="5" rowStart="433" rowEnd="461" colStart="788" colEnd="934"/>
-            <word unicode="ಸಿಂಹಮಂ" WordNumber="6" rowStart="434" rowEnd="461" colStart="961" colEnd="1086"/>
-            <word unicode="|" WordNumber="7" rowStart="436" rowEnd="460" colStart="1116" colEnd="1121"/>
+            <word unicode="ಕುಳಿಕನ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ಪಲ್ಗಳಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮುಱಯೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮೋದಿದರಾರ್" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕುಡುಪಿಂದೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸಿಂಹಮಂ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="7" colStart="0" colEnd="1121"/>
         </line>
         <line LineNumber="8" rowStart="483" rowEnd="523">
-            <word unicode="ಮುಳಿಯಿಸಿ" WordNumber="1" rowStart="485" rowEnd="511" colStart="174" colEnd="319"/>
-            <word unicode="ದಾಡೆಯಂ" WordNumber="2" rowStart="483" rowEnd="511" colStart="347" colEnd="477"/>
-            <word unicode="ಪಿಡಿದು" WordNumber="3" rowStart="484" rowEnd="511" colStart="503" colEnd="596"/>
-            <word unicode="ಕಿೞ್ತವರಾರ್" WordNumber="4" rowStart="485" rowEnd="523" colStart="623" colEnd="763"/>
-            <word unicode="ಮದಹಸ್ತಿಯಂ" WordNumber="5" rowStart="485" rowEnd="523" colStart="790" colEnd="974"/>
-            <word unicode="ಭಯಂ" WordNumber="6" rowStart="484" rowEnd="518" colStart="1001" colEnd="1089"/>
-            <word unicode="||" WordNumber="7" rowStart="486" rowEnd="510" colStart="1119" colEnd="1135"/>
+            <word unicode="ಮುಳಿಯಿಸಿ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ದಾಡೆಯಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪಿಡಿದು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕಿೞ್ತವರಾರ್" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮದಹಸ್ತಿಯಂ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಭಯಂ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="7" colStart="0" colEnd="1135"/>
         </line>
         <line LineNumber="9" rowStart="533" rowEnd="573">
-            <word unicode="ಗೊಳೆ" WordNumber="1" rowStart="533" rowEnd="561" colStart="174" colEnd="244"/>
-            <word unicode="ನೆಲಕಿಕ್ಕಿ" WordNumber="2" rowStart="534" rowEnd="571" colStart="271" colEnd="365"/>
-            <word unicode="ಕೋಡೆರಡುಮಂ" WordNumber="3" rowStart="534" rowEnd="562" colStart="388" colEnd="597"/>
-            <word unicode="ಕುಸಿಯೊತ್ತಿದರಾರ್" WordNumber="4" rowStart="534" rowEnd="573" colStart="624" colEnd="859"/>
-            <word unicode="ಸುರಾದ್ರಿನಿ" WordNumber="5" rowStart="535" rowEnd="568" colStart="886" colEnd="1007"/>
-            <word unicode="|" WordNumber="6" rowStart="536" rowEnd="560" colStart="1038" colEnd="1042"/>
+            <word unicode="ಗೊಳೆ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ನೆಲಕಿಕ್ಕಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕೋಡೆರಡುಮಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕುಸಿಯೊತ್ತಿದರಾರ್" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸುರಾದ್ರಿನಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="6" colStart="0" colEnd="1042"/>
         </line>
         <line LineNumber="10" rowStart="583" rowEnd="625">
-            <word unicode="ಶ್ಚಳನಿಬಿಡೋರುಮಂಡಮನಾರುಡಿದರ್" WordNumber="1" rowStart="584" rowEnd="625" colStart="174" colEnd="692"/>
-            <word unicode="ಫಣಿರಾಜಕೇತನಾ" WordNumber="2" rowStart="583" rowEnd="619" colStart="721" colEnd="933"/>
-            <word unicode="||೨೦||" WordNumber="3" rowStart="587" rowEnd="611" colStart="1130" colEnd="1216"/>
+            <word unicode="ಶ್ಚಳನಿಬಿಡೋರುಮಂಡಲಮನಾರುಡಿದರ್" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ಫಣಿರಾಜಕೇತನಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="॥೨೦" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="4" colStart="0" colEnd="1216"/>
         </line>
     </block>
     <block type="Text" BlockNumber="5" rowStart="653" rowEnd="692" colStart="174" colEnd="859">
@@ -86,54 +87,56 @@
     </block>
     <block type="Text" BlockNumber="6" rowStart="719" rowEnd="911" colStart="174" colEnd="1217">
         <line LineNumber="12" rowStart="719" rowEnd="749">
-            <word unicode="ಹಾ" WordNumber="1" rowStart="728" rowEnd="748" colStart="174" colEnd="214"/>
-            <word unicode="ಕುರುಕುಲಚೂಡಾಮಣಿ" WordNumber="2" rowStart="719" rowEnd="749" colStart="241" colEnd="539"/>
-            <word unicode="|" WordNumber="3" rowStart="724" rowEnd="748" colStart="570" colEnd="574"/>
+            <word unicode="ಹಾ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ಕುರುಕುಲಚೂಡಾಮಣಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="3" colStart="0" colEnd="574"/>
         </line>
         <line LineNumber="13" rowStart="772" rowEnd="806">
-            <word unicode="ಹಾ" WordNumber="1" rowStart="779" rowEnd="799" colStart="174" colEnd="214"/>
-            <word unicode="ಕೌರವಚಕ್ರವರ್ತಿ" WordNumber="2" rowStart="772" rowEnd="806" colStart="241" colEnd="446"/>
-            <word unicode="ಹಾ" WordNumber="3" rowStart="779" rowEnd="799" colStart="472" colEnd="513"/>
-            <word unicode="ಸಕಲಧರಿ" WordNumber="4" rowStart="773" rowEnd="806" colStart="539" colEnd="653"/>
-            <word unicode="||" WordNumber="5" rowStart="774" rowEnd="798" colStart="684" colEnd="700"/>
+            <word unicode="ಹಾ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ಕೌರವಚಕ್ರವರ್ತಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹಾ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸಕಲಧರಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="5" colStart="0" colEnd="700"/>
         </line>
         <line LineNumber="14" rowStart="823" rowEnd="861">
-            <word unicode="ತ್ರೀಕಾಂತ" WordNumber="1" rowStart="823" rowEnd="856" colStart="174" colEnd="287"/>
-            <word unicode="ನಿನ್ನುಮಂ" WordNumber="2" rowStart="823" rowEnd="861" colStart="313" colEnd="434"/>
-            <word unicode="ಪರ" WordNumber="3" rowStart="823" rowEnd="849" colStart="461" colEnd="505"/>
-            <word unicode="|" WordNumber="4" rowStart="825" rowEnd="849" colStart="535" colEnd="540"/>
+            <word unicode="ತ್ರೀಕಾಂತ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ನಿನ್ನುಮಂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪರ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="4" colStart="0" colEnd="540"/>
         </line>
         <line LineNumber="15" rowStart="872" rowEnd="911">
-            <word unicode="ಲೋಕಕ್ಕಟ್ಟಿದನೆ" WordNumber="1" rowStart="872" rowEnd="910" colStart="174" colEnd="367"/>
-            <word unicode="ಕಾಯ್ದಮಾಯ್ದ" WordNumber="2" rowStart="873" rowEnd="911" colStart="394" colEnd="581"/>
-            <word unicode="ವಿಧಾತ್ರಂ" WordNumber="3" rowStart="873" rowEnd="906" colStart="601" colEnd="711"/>
-            <word unicode="||೨೧||" WordNumber="4" rowStart="875" rowEnd="899" colStart="1129" colEnd="1217"/>
+            <word unicode="ಲೋಕಕ್ಕಟ್ಟಿದನೆ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ಕಾಯ್ದಮಾಯ್ದ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಧಾತ್ರಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="॥೨೧" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="5" colStart="0" colEnd="1217"/>
         </line>
     </block>
     <block type="Text" BlockNumber="7" rowStart="940" rowEnd="1129" colStart="174" colEnd="1218">
         <line LineNumber="16" rowStart="940" rowEnd="973">
-            <word unicode="ಹಾ" WordNumber="1" rowStart="946" rowEnd="966" colStart="174" colEnd="214"/>
-            <word unicode="ಕುರುವಂಶಮಹಾಕಮ" WordNumber="2" rowStart="940" rowEnd="973" colStart="241" colEnd="525"/>
-            <word unicode="|" WordNumber="3" rowStart="942" rowEnd="965" colStart="555" colEnd="559"/>
+            <word unicode="ಹಾ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="ಕುರುವಂಶಮಹಾಕಮ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="3" colStart="0" colEnd="559"/>
         </line>
         <line LineNumber="17" rowStart="990" rowEnd="1023">
-            <word unicode="ಲಾಕರಕಲಹಂಸ" WordNumber="1" rowStart="990" rowEnd="1016" colStart="175" colEnd="371"/>
-            <word unicode="ಹಾ" WordNumber="2" rowStart="996" rowEnd="1016" colStart="397" colEnd="439"/>
-            <word unicode="ಸಮುದ್ರಾಂತಧರಿ" WordNumber="3" rowStart="990" rowEnd="1023" colStart="465" colEnd="677"/>
-            <word unicode="||" WordNumber="4" rowStart="992" rowEnd="1016" colStart="706" colEnd="724"/>
+            <word unicode="ಲಾಕರಕಲಹಂಸ" WordNumber="1" colStart="175" colEnd="0"/>
+            <word unicode="ಹಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸಮುದ್ರಾಂತಧರಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="4" colStart="0" colEnd="724"/>
         </line>
         <line LineNumber="18" rowStart="1037" rowEnd="1073">
-            <word unicode="ತ್ರೀಕಾಂತ" WordNumber="1" rowStart="1040" rowEnd="1072" colStart="175" colEnd="288"/>
-            <word unicode="ಹಾ" WordNumber="2" rowStart="1046" rowEnd="1066" colStart="314" colEnd="355"/>
-            <word unicode="ಫಣೀಂದ್ರಪ" WordNumber="3" rowStart="1037" rowEnd="1073" colStart="381" colEnd="527"/>
-            <word unicode="|" WordNumber="4" rowStart="1042" rowEnd="1065" colStart="556" colEnd="560"/>
+            <word unicode="ತ್ರೀಕಾಂತ" WordNumber="1" colStart="175" colEnd="0"/>
+            <word unicode="ಹಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಫಣೀಂದ್ರಪ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="।" WordNumber="4" colStart="0" colEnd="560"/>
         </line>
         <line LineNumber="19" rowStart="1090" rowEnd="1129">
-            <word unicode="ತಾಕಾ" WordNumber="1" rowStart="1097" rowEnd="1118" colStart="175" colEnd="241"/>
-            <word unicode="ವಿಧಿಶದೆ" WordNumber="2" rowStart="1090" rowEnd="1125" colStart="267" colEnd="396"/>
-            <word unicode="ನಿನಗಮೀ" WordNumber="3" rowStart="1092" rowEnd="1119" colStart="423" colEnd="545"/>
-            <word unicode="ಪರಿಯಾಯ್ತೇ" WordNumber="4" rowStart="1091" rowEnd="1129" colStart="572" colEnd="740"/>
-            <word unicode="||೨೨||" WordNumber="5" rowStart="1093" rowEnd="1117" colStart="1130" colEnd="1218"/>
+            <word unicode="ತಾಕಾ" WordNumber="1" colStart="175" colEnd="0"/>
+            <word unicode="ವಿಧಿವಶದೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನಿನಗಮೀ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಪರಿಯಾಯ್ತೇ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="॥೨೨" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="॥" WordNumber="6" colStart="0" colEnd="1218"/>
         </line>
     </block>
     <block type="Text" BlockNumber="8" rowStart="1202" rowEnd="1362" colStart="57" colEnd="1229">
@@ -160,12 +163,13 @@
     </block>
     <block type="Text" BlockNumber="9" rowStart="1371" rowEnd="1421" colStart="174" colEnd="1039">
         <line LineNumber="23" rowStart="1371" rowEnd="1421">
-            <word unicode="ವ||" WordNumber="1" rowStart="1372" rowEnd="1400" colStart="174" colEnd="226"/>
-            <word unicode="ಹೀಗಿರುವಾಗ" WordNumber="2" rowStart="1372" rowEnd="1401" colStart="248" colEnd="389"/>
-            <word unicode="ದುರ್ಯೋಧನನನ್ನು" WordNumber="3" rowStart="1371" rowEnd="1415" colStart="411" colEnd="685"/>
-            <word unicode="ಅಶ್ವತ್ಥಾಮನು" WordNumber="4" rowStart="1372" rowEnd="1421" colStart="702" colEnd="884"/>
-            <word unicode="ನೋಡಿ" WordNumber="5" rowStart="1371" rowEnd="1402" colStart="905" colEnd="1005"/>
-            <word unicode="-" WordNumber="6" rowStart="1386" rowEnd="1390" colStart="1027" colEnd="1039"/>
+            <word unicode="ವ" WordNumber="1" colStart="174" colEnd="0"/>
+            <word unicode="॥" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹೀಗಿರುವಾಗ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ದುರ್ಯೋಧನನನ್ನು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಅಶ್ವತ್ಥಾಮನು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನೋಡಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="-" WordNumber="7" colStart="0" colEnd="1039"/>
         </line>
     </block>
     <block type="Text" BlockNumber="10" rowStart="1422" rowEnd="1696" colStart="56" colEnd="1234">
@@ -213,13 +217,14 @@
     </block>
     <block type="Text" BlockNumber="11" rowStart="1708" rowEnd="1755" colStart="173" colEnd="826">
         <line LineNumber="29" rowStart="1708" rowEnd="1755">
-            <word unicode="ವ||" WordNumber="1" rowStart="1709" rowEnd="1737" colStart="173" colEnd="226"/>
-            <word unicode="ಎಂದು" WordNumber="2" rowStart="1709" rowEnd="1738" colStart="248" colEnd="341"/>
-            <word unicode="ಕಳವಳಿಸಿ," WordNumber="3" rowStart="1709" rowEnd="1745" colStart="362" colEnd="502"/>
-            <word unicode="ಕಾಲ" WordNumber="4" rowStart="1715" rowEnd="1738" colStart="524" colEnd="588"/>
-            <word unicode="ಮೇಲೆ" WordNumber="5" rowStart="1708" rowEnd="1738" colStart="609" colEnd="697"/>
-            <word unicode="ಬಿದ್ದು" WordNumber="6" rowStart="1710" rowEnd="1755" colStart="719" colEnd="798"/>
-            <word unicode="-" WordNumber="7" rowStart="1724" rowEnd="1728" colStart="814" colEnd="826"/>
+            <word unicode="ವ" WordNumber="1" colStart="173" colEnd="0"/>
+            <word unicode="॥" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಎಂದು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕಳವಳಿಸಿ," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕಾಲ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮೇಲೆ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಬಿದ್ದು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="-" WordNumber="8" colStart="0" colEnd="826"/>
         </line>
     </block>
     <block type="Text" BlockNumber="12" rowStart="1764" rowEnd="1908" colStart="55" colEnd="1233">

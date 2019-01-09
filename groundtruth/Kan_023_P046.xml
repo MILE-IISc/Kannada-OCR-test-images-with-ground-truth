@@ -34,13 +34,13 @@
             <word unicode="ಬದುಕಲು" WordNumber="6" rowStart="611" rowEnd="643" colStart="1003" colEnd="1143"/>
         </line>
         <line LineNumber="5" rowStart="668" rowEnd="716">
-            <word unicode="ಸಾಧ್ಯವೇ" WordNumber="1" rowStart="668" rowEnd="715" colStart="109" colEnd="231"/>
-            <word unicode="ಇಲ್ಲವೇ" WordNumber="2" rowStart="668" rowEnd="713" colStart="247" colEnd="359"/>
-            <word unicode="?" WordNumber="3" rowStart="669" rowEnd="700" colStart="373" colEnd="389"/>
-            <word unicode="ಎಂಬ" WordNumber="4" rowStart="677" rowEnd="701" colStart="403" colEnd="481"/>
-            <word unicode="ಮೂಲಪ್ರಶ್ನೇಗಳನ್ನು" WordNumber="5" rowStart="668" rowEnd="716" colStart="495" colEnd="765"/>
-            <word unicode="ನಾವಿಲ್ಲಿ" WordNumber="6" rowStart="670" rowEnd="713" colStart="779" colEnd="888"/>
-            <word unicode="ಪರಿಶೀಲಿಸಬೇಕು." WordNumber="7" rowStart="669" rowEnd="702" colStart="901" colEnd="1138"/>
+            <word unicode="ಸಾಧ್ಯವೇ" WordNumber="1" colStart="109" colEnd="0"/>
+            <word unicode="ಇಲ್ಲವೇ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="?" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಎಂಬ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮೂಲಪ್ರಶ್ನೆಗಳನ್ನು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನಾವಿಲ್ಲಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಪರಿಶೀಲಿಸಬೇಕು." WordNumber="7" colStart="0" colEnd="1138"/>
         </line>
     </block>
     <block type="Text" BlockNumber="3" rowStart="728" rowEnd="1370" colStart="107" colEnd="1142">

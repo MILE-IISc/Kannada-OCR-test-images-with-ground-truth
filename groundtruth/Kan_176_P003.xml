@@ -61,9 +61,10 @@
             <word unicode="ಬೆಚ್ಚಗಿರುವರನೆಲ್ಲ" WordNumber="4" rowStart="712" rowEnd="763" colStart="437" colEnd="684"/>
         </line>
         <line LineNumber="10" rowStart="772" rowEnd="822">
-            <word unicode="ಭಕ್ತರಕ್ತವ" WordNumber="1" rowStart="772" rowEnd="822" colStart="55" colEnd="189"/>
-            <word unicode="ಹೀರಿ" WordNumber="2" rowStart="777" rowEnd="805" colStart="216" colEnd="284"/>
-            <word unicode="ಕೊಬ್ಬಿಹರನೆಲ್ಲ," WordNumber="3" rowStart="773" rowEnd="821" colStart="299" colEnd="506"/>
+            <word unicode="ಭಕ್ತ" WordNumber="1" colStart="55" colEnd="0"/>
+            <word unicode="ರಕ್ತವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹೀರಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕೊಬ್ಬಿಹರನೆಲ್ಲ," WordNumber="4" colStart="0" colEnd="506"/>
         </line>
         <line LineNumber="11" rowStart="833" rowEnd="882">
             <word unicode="ಗಂಟೆ" WordNumber="1" rowStart="833" rowEnd="865" colStart="56" colEnd="127"/>
@@ -145,10 +146,10 @@
             <word unicode="ಕೂಗಬೇಕು!" WordNumber="2" rowStart="1674" rowEnd="1711" colStart="356" colEnd="523"/>
         </line>
         <line LineNumber="23" rowStart="1734" rowEnd="1784">
-            <word unicode="ಶಿಲೆಯ" WordNumber="1" rowStart="1735" rowEnd="1765" colStart="55" colEnd="154"/>
-            <word unicode="ಮೂರ್ತಿಗೆ" WordNumber="2" rowStart="1734" rowEnd="1783" colStart="181" colEnd="302"/>
-            <word unicode="ನೆಯ್ದಕಲೆಯ" WordNumber="3" rowStart="1735" rowEnd="1784" colStart="318" colEnd="492"/>
-            <word unicode="ಹೊದಿಕೆಯನೊಯ್ದು" WordNumber="4" rowStart="1736" rowEnd="1784" colStart="508" colEnd="798"/>
+            <word unicode="ಶಿಲೆಯ" WordNumber="1" colStart="55" colEnd="0"/>
+            <word unicode="ಮೂರ್ತಿಗೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನೆಯ್ದಕಲೆಯ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಹೊದಿಕೆಯನೊಯ್ದು" WordNumber="4" colStart="0" colEnd="798"/>
         </line>
         <line LineNumber="24" rowStart="1794" rowEnd="1846">
             <word unicode="ಚಳಿಯು" WordNumber="1" rowStart="1794" rowEnd="1826" colStart="55" colEnd="169"/>

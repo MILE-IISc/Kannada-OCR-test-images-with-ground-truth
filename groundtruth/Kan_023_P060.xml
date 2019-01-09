@@ -96,14 +96,14 @@
             <word unicode="ಗಳಿಸಿ" WordNumber="6" rowStart="760" rowEnd="792" colStart="1069" colEnd="1143"/>
         </line>
         <line LineNumber="13" rowStart="818" rowEnd="865">
-            <word unicode="ಕೊಳ್ಳುವ" WordNumber="1" rowStart="819" rowEnd="865" colStart="110" colEnd="234"/>
-            <word unicode="ತನಕ," WordNumber="2" rowStart="819" rowEnd="855" colStart="260" colEnd="337"/>
-            <word unicode="ವರ" WordNumber="3" rowStart="819" rowEnd="850" colStart="367" colEnd="418"/>
-            <word unicode="ಅವಳ" WordNumber="4" rowStart="820" rowEnd="851" colStart="444" colEnd="526"/>
-            <word unicode="ದೈಹಿಕ" WordNumber="5" rowStart="818" rowEnd="864" colStart="553" colEnd="640"/>
-            <word unicode="ಸಾಮೀಪ್ಯ" WordNumber="6" rowStart="820" rowEnd="864" colStart="666" colEnd="804"/>
-            <word unicode="ಬಯಸಬಾರದು." WordNumber="7" rowStart="820" rowEnd="851" colStart="831" colEnd="1061"/>
-            <word unicode="ವರ" WordNumber="8" rowStart="820" rowEnd="851" colStart="1092" colEnd="1142"/>
+            <word unicode="ಕೊಳ್ಳುವ" WordNumber="1" colStart="110" colEnd="0"/>
+            <word unicode="ತನಕ," WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವರ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅವಳ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ದೈಹಿಕ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸಾಮೀಪ್ಯ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಬಯಸಬಾರದು." WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ವರ" WordNumber="8" colStart="0" colEnd="1142"/>
         </line>
         <line LineNumber="14" rowStart="877" rowEnd="925">
             <word unicode="ಒರಟಾಗಿ" WordNumber="1" rowStart="878" rowEnd="911" colStart="110" colEnd="231"/>
@@ -169,11 +169,11 @@
             <word unicode="ದಾಸಿ," WordNumber="7" rowStart="1301" rowEnd="1334" colStart="1062" colEnd="1138"/>
         </line>
         <line LineNumber="22" rowStart="1355" rowEnd="1402">
-            <word unicode="ಆತ" WordNumber="1" rowStart="1357" rowEnd="1388" colStart="108" colEnd="159"/>
-            <word unicode="ನಿನ್ನನ್ನು" WordNumber="2" rowStart="1356" rowEnd="1402" colStart="178" colEnd="284"/>
-            <word unicode="ಹರಿದಾಡುತ್ತಾನೆ." WordNumber="3" rowStart="1356" rowEnd="1401" colStart="303" colEnd="530"/>
-            <word unicode="ನಿಂಗೆ" WordNumber="4" rowStart="1355" rowEnd="1388" colStart="554" colEnd="623"/>
-            <word unicode="ರಸ್ತಸ್ರಾವವಾಗುತ್ತದೆ!”" WordNumber="5" rowStart="1355" rowEnd="1402" colStart="642" colEnd="966"/>
+            <word unicode="ಆತ" WordNumber="1" colStart="108" colEnd="0"/>
+            <word unicode="ನಿನ್ನನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹರಿದಾಡುತ್ತಾನೆ." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಿಂಗೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ರಕ್ತಸ್ರಾವವಾಗುತ್ತದೆ!”" WordNumber="5" colStart="0" colEnd="966"/>
         </line>
     </block>
     <block type="Text" BlockNumber="9" rowStart="1416" rowEnd="1761" colStart="107" colEnd="1141">

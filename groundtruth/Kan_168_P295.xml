@@ -303,16 +303,17 @@
     </block>
     <block type="Text" BlockNumber="11" rowStart="2072" rowEnd="2240" colStart="72" colEnd="1361">
         <line LineNumber="31" rowStart="2072" rowEnd="2120">
-            <word unicode="ಶ್ರೀಲ" WordNumber="1" rowStart="2078" rowEnd="2119" colStart="72" colEnd="144"/>
-            <word unicode="ಪ್ರಭುಪಾದ:" WordNumber="2" rowStart="2076" rowEnd="2119" colStart="155" colEnd="319"/>
-            <word unicode="ಇದು" WordNumber="3" rowStart="2075" rowEnd="2106" colStart="334" colEnd="400"/>
-            <word unicode="ಹುಚ್ಚರ" WordNumber="4" rowStart="2074" rowEnd="2120" colStart="414" colEnd="515"/>
-            <word unicode="ಮಾತು." WordNumber="5" rowStart="2075" rowEnd="2106" colStart="528" colEnd="624"/>
-            <word unicode="ಐದು" WordNumber="6" rowStart="2074" rowEnd="2105" colStart="642" colEnd="707"/>
-            <word unicode="ನೂರು" WordNumber="7" rowStart="2074" rowEnd="2106" colStart="721" colEnd="804"/>
-            <word unicode="ದಶಲಕ್ಷವರ್ಷಗಳ" WordNumber="8" rowStart="2073" rowEnd="2117" colStart="817" colEnd="1063"/>
-            <word unicode="ಹಿಂದಿನ" WordNumber="9" rowStart="2073" rowEnd="2104" colStart="1077" colEnd="1174"/>
-            <word unicode="ಚರಿತ್ರೆಯನ್ನು" WordNumber="10" rowStart="2072" rowEnd="2116" colStart="1188" colEnd="1361"/>
+            <word unicode="ಶ್ರೀಲ" WordNumber="1" colStart="72" colEnd="0"/>
+            <word unicode="ಪ್ರಭುಪಾದ:" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಇದು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಹುಚ್ಚರ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾತು." WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಐದು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ನೂರು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ದಶಲಕ್ಷ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ವರ್ಷಗಳ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಹಿಂದಿನ" WordNumber="10" colStart="0" colEnd="0"/>
+            <word unicode="ಚರಿತ್ರೆಯನ್ನು" WordNumber="11" colStart="0" colEnd="1361"/>
         </line>
         <line LineNumber="32" rowStart="2132" rowEnd="2178">
             <word unicode="ನೀವು" WordNumber="1" rowStart="2136" rowEnd="2173" colStart="72" colEnd="142"/>
