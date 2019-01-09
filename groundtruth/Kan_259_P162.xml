@@ -17,14 +17,14 @@
             <word unicode="ಅನುಸೂಚಿಯಲ್ಲಿ" WordNumber="8" rowStart="148" rowEnd="205" colStart="1017" colEnd="1253"/>
         </line>
         <line LineNumber="3" rowStart="210" rowEnd="268">
-            <word unicode="ಈ" WordNumber="1" rowStart="217" rowEnd="248" colStart="68" colEnd="100"/>
-            <word unicode="ಕೆಳಗೆನ" WordNumber="2" rowStart="214" rowEnd="254" colStart="121" colEnd="220"/>
-            <word unicode="ನಮೂನೆಯಲ್ಲಿರುವ" WordNumber="3" rowStart="215" rowEnd="263" colStart="255" colEnd="524"/>
-            <word unicode="ಒಂದು" WordNumber="4" rowStart="214" rowEnd="248" colStart="545" colEnd="635"/>
-            <word unicode="ಹೆಚ್ಚಿನ" WordNumber="5" rowStart="213" rowEnd="268" colStart="656" colEnd="759"/>
-            <word unicode="ಪ್ರಮಾಣನ" WordNumber="6" rowStart="214" rowEnd="260" colStart="774" colEnd="941"/>
-            <word unicode="ಪತ್ರವು" WordNumber="7" rowStart="213" rowEnd="263" colStart="963" colEnd="1061"/>
-            <word unicode="ಬರೆಯಲ್ಪಡ" WordNumber="8" rowStart="210" rowEnd="261" colStart="1082" colEnd="1253"/>
+            <word unicode="ಈ" WordNumber="1" colStart="68" colEnd="0"/>
+            <word unicode="ಕೆಳಗಿನ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನಮೂನೆಯಲ್ಲಿರುವ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಒಂದು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಹೆಚ್ಚಿನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಮಾಣನ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಪತ್ರವು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಬರೆಯಲ್ಪಡ" WordNumber="8" colStart="0" colEnd="1253"/>
         </line>
         <line LineNumber="4" rowStart="275" rowEnd="328">
             <word unicode="ತಕ್ಕುದು" WordNumber="1" rowStart="275" rowEnd="328" colStart="70" colEnd="192"/>
@@ -33,23 +33,23 @@
     </block>
     <block type="Text" BlockNumber="3" rowStart="358" rowEnd="937" colStart="69" colEnd="1262">
         <line LineNumber="5" rowStart="364" rowEnd="420">
-            <word unicode="&quot;(I)" WordNumber="1" rowStart="367" rowEnd="413" colStart="169" colEnd="243"/>
-            <word unicode="ಅವಶ್ಯಕವಿರುವಲ್ಲೆಲ್ಲ" WordNumber="2" rowStart="367" rowEnd="420" colStart="292" colEnd="572"/>
-            <word unicode="ಪ್ರತಿಯೊಬ್ಬ" WordNumber="3" rowStart="364" rowEnd="419" colStart="593" colEnd="765"/>
-            <word unicode="ನಿವೃತ್ತಿ" WordNumber="4" rowStart="364" rowEnd="418" colStart="778" colEnd="897"/>
-            <word unicode="ವೇತನಿಯಿಂದ" WordNumber="5" rowStart="364" rowEnd="405" colStart="927" colEnd="1116"/>
-            <word unicode="ಅವನು" WordNumber="6" rowStart="364" rowEnd="402" colStart="1160" colEnd="1256"/>
+            <word unicode="“(I)" WordNumber="1" colStart="169" colEnd="0"/>
+            <word unicode="ಅವಶ್ಯಕವಿರುವಲ್ಲೆಲ್ಲ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರತಿಯೊಬ್ಬ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಿವೃತ್ತಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ವೇತನಿಯಿಂದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಅವನು" WordNumber="6" colStart="0" colEnd="1256"/>
         </line>
         <line LineNumber="6" rowStart="427" rowEnd="481">
-            <word unicode="ಕಳಿದ" WordNumber="1" rowStart="429" rowEnd="462" colStart="69" colEnd="144"/>
-            <word unicode="ಆರು" WordNumber="2" rowStart="429" rowEnd="479" colStart="164" colEnd="237"/>
-            <word unicode="ತಿಂಗಳುಗಳ" WordNumber="3" rowStart="430" rowEnd="463" colStart="249" colEnd="406"/>
-            <word unicode="ಅವಧಿಯಲ್ಲಿ" WordNumber="4" rowStart="427" rowEnd="479" colStart="426" colEnd="587"/>
-            <word unicode="ಸರಕಾರ," WordNumber="5" rowStart="431" rowEnd="473" colStart="608" colEnd="740"/>
-            <word unicode="ಕೇಂದ್ರ" WordNumber="6" rowStart="429" rowEnd="476" colStart="753" colEnd="853"/>
-            <word unicode="ಅಥಾವಾ" WordNumber="7" rowStart="432" rowEnd="471" colStart="873" colEnd="977"/>
-            <word unicode="ರಾಜ್ಯ" WordNumber="8" rowStart="437" rowEnd="481" colStart="1014" colEnd="1111"/>
-            <word unicode="ಸರಕಾರ" WordNumber="9" rowStart="428" rowEnd="461" colStart="1144" colEnd="1256"/>
+            <word unicode="ಕಳೆದ" WordNumber="1" colStart="69" colEnd="0"/>
+            <word unicode="ಆರು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಂಗಳುಗಳ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅವಧಿಯಲ್ಲಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸರಕಾರ," WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಕೇಂದ್ರ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಅಥಾವಾ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಜ್ಯ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಸರಕಾರ" WordNumber="9" colStart="0" colEnd="1256"/>
         </line>
         <line LineNumber="7" rowStart="487" rowEnd="547">
             <word unicode="ದಿಂದ" WordNumber="1" rowStart="489" rowEnd="522" colStart="70" colEnd="142"/>
@@ -109,9 +109,9 @@
             <word unicode="ಘೋಷಣೆ" WordNumber="8" rowStart="804" rowEnd="848" colStart="1126" colEnd="1262"/>
         </line>
         <line LineNumber="13" rowStart="864" rowEnd="924">
-            <word unicode="ಯನ್ನು" WordNumber="1" rowStart="867" rowEnd="917" colStart="75" colEnd="183"/>
-            <word unicode="ಪಡೆದುಕೊಂಡಿದ್ದೇನೆಂದು" WordNumber="2" rowStart="864" rowEnd="924" colStart="200" colEnd="548"/>
-            <word unicode="ಪ್ರಮಾಣೇಕರಿಸಲಾಗುತ್ತಿದಿ&quot;." WordNumber="3" rowStart="866" rowEnd="922" colStart="563" colEnd="989"/>
+            <word unicode="ಯನ್ನು" WordNumber="1" colStart="75" colEnd="0"/>
+            <word unicode="ಪಡೆದುಕೊಂಡಿದ್ದೇನೆಂದು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಮಾಣೇಕರಿಸಲಾಗುತ್ತಿದಿ”." WordNumber="3" colStart="0" colEnd="989"/>
         </line>
     </block>
     <block type="Text" BlockNumber="4" rowStart="962" rowEnd="1207" colStart="78" colEnd="1264">
@@ -147,24 +147,24 @@
     </block>
     <block type="Text" BlockNumber="5" rowStart="1233" rowEnd="1476" colStart="81" colEnd="1272">
         <line LineNumber="18" rowStart="1240" rowEnd="1295">
-            <word unicode="ಟಿಪ್ಪಣಿ" WordNumber="1" rowStart="1240" rowEnd="1295" colStart="182" colEnd="298"/>
-            <word unicode=":" WordNumber="2" rowStart="1253" rowEnd="1278" colStart="321" colEnd="340"/>
-            <word unicode="&quot;ಅಥವಾ" WordNumber="3" rowStart="1242" rowEnd="1286" colStart="385" colEnd="507"/>
-            <word unicode="ಸಂದರ್ಭಾನುಸಾರ" WordNumber="4" rowStart="1240" rowEnd="1288" colStart="527" colEnd="799"/>
-            <word unicode="ಕ.ಖ.ಸಂ." WordNumber="5" rowStart="1245" rowEnd="1279" colStart="827" colEnd="969"/>
-            <word unicode="49ನೆಯ" WordNumber="6" rowStart="1246" rowEnd="1286" colStart="1001" colEnd="1125"/>
-            <word unicode="ಪ್ರಪತ್ರ" WordNumber="7" rowStart="1240" rowEnd="1293" colStart="1162" colEnd="1270"/>
+            <word unicode="ಟಿಪ್ಪಣಿ" WordNumber="1" colStart="182" colEnd="0"/>
+            <word unicode=":" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="“ಅಥವಾ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂದರ್ಭಾನುಸಾರ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕ.ಖ.ಸಂ." WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="49ನೆಯ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಪತ್ರ" WordNumber="7" colStart="0" colEnd="1270"/>
         </line>
         <line LineNumber="19" rowStart="1300" rowEnd="1361">
-            <word unicode="ದಲ್ಲಿ" WordNumber="1" rowStart="1305" rowEnd="1359" colStart="81" colEnd="133"/>
-            <word unicode="ಘೋಷಣಿಯನ್ನು&quot;" WordNumber="2" rowStart="1303" rowEnd="1359" colStart="187" colEnd="445"/>
-            <word unicode="ಎಂಬ" WordNumber="3" rowStart="1317" rowEnd="1341" colStart="464" colEnd="537"/>
-            <word unicode="ಶಬ್ದಗಳು," WordNumber="4" rowStart="1309" rowEnd="1361" colStart="558" colEnd="698"/>
-            <word unicode="190" WordNumber="5" rowStart="1314" rowEnd="1342" colStart="724" colEnd="791"/>
-            <word unicode="ನೆಯ" WordNumber="6" rowStart="1309" rowEnd="1348" colStart="809" colEnd="883"/>
-            <word unicode="ಅನುಚ್ಭೇದದ" WordNumber="7" rowStart="1300" rowEnd="1361" colStart="896" colEnd="1083"/>
-            <word unicode="ಮೇರೆಗೆ" WordNumber="8" rowStart="1300" rowEnd="1361" colStart="1091" colEnd="1198"/>
-            <word unicode="ಜನೆ" WordNumber="9" rowStart="1311" rowEnd="1351" colStart="1216" colEnd="1271"/>
+            <word unicode="ದಲ್ಲಿ" WordNumber="1" colStart="81" colEnd="0"/>
+            <word unicode="ಘೋಷಣೆಯನ್ನು”" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಎಂಬ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಶಬ್ದಗಳು," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="190" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನೆಯ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಅನುಚ್ಛೇದದ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಮೇರೆಗೆ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಜನೆ" WordNumber="9" colStart="0" colEnd="1271"/>
         </line>
         <line LineNumber="20" rowStart="1361" rowEnd="1418">
             <word unicode="ವರಿ" WordNumber="1" rowStart="1368" rowEnd="1399" colStart="82" colEnd="129"/>
@@ -176,18 +176,18 @@
             <word unicode="ಮಾತ್ರ" WordNumber="7" rowStart="1368" rowEnd="1417" colStart="1169" colEnd="1272"/>
         </line>
         <line LineNumber="21" rowStart="1426" rowEnd="1476">
-            <word unicode="ಬರೆಯಲ್ಪಡಚೇಕು." WordNumber="1" rowStart="1426" rowEnd="1476" colStart="83" colEnd="354"/>
+            <word unicode="ಬರೆಯಲ್ಪಡಬೇಕು." WordNumber="1" colStart="83" colEnd="354"/>
         </line>
     </block>
     <block type="Text" BlockNumber="6" rowStart="1515" rowEnd="1702" colStart="85" colEnd="1276">
         <line LineNumber="22" rowStart="1521" rowEnd="1574">
-            <word unicode="(VIII)" WordNumber="1" rowStart="1525" rowEnd="1574" colStart="184" colEnd="289"/>
-            <word unicode="ಸಂದಾಯದ" WordNumber="2" rowStart="1525" rowEnd="1559" colStart="359" colEnd="527"/>
-            <word unicode="ತಿಂಗಳ" WordNumber="3" rowStart="1521" rowEnd="1566" colStart="575" colEnd="677"/>
-            <word unicode="ಅನಂತರ" WordNumber="4" rowStart="1526" rowEnd="1565" colStart="726" colEnd="845"/>
-            <word unicode="ಬರುವ" WordNumber="5" rowStart="1527" rowEnd="1560" colStart="900" colEnd="991"/>
-            <word unicode="ತಿಂಗಳ" WordNumber="6" rowStart="1527" rowEnd="1559" colStart="1054" colEnd="1144"/>
-            <word unicode="ಅನ" WordNumber="7" rowStart="1523" rowEnd="1565" colStart="1207" colEnd="1274"/>
+            <word unicode="(VIII)" WordNumber="1" colStart="184" colEnd="0"/>
+            <word unicode="ಸಂದಾಯದ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಂಗಳ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅನಂತರ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಬರುವ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಂಗಳ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಅನು" WordNumber="7" colStart="0" colEnd="1274"/>
         </line>
         <line LineNumber="23" rowStart="1581" rowEnd="1638">
             <word unicode="ಸೂಚಿಯಲ್ಲಿ," WordNumber="1" rowStart="1586" rowEnd="1634" colStart="85" colEnd="265"/>
@@ -205,13 +205,13 @@
     </block>
     <block type="Text" BlockNumber="7" rowStart="1748" rowEnd="2108" colStart="90" colEnd="1287">
         <line LineNumber="25" rowStart="1748" rowEnd="1811">
-            <word unicode="&quot;ಹಿಂದಿನ" WordNumber="1" rowStart="1753" rowEnd="1791" colStart="187" colEnd="309"/>
-            <word unicode="ತಿಂಗಳ" WordNumber="2" rowStart="1753" rowEnd="1786" colStart="347" colEnd="436"/>
-            <word unicode="ಅನುಸೂಚಿಯಲ್ಲಿ" WordNumber="3" rowStart="1748" rowEnd="1802" colStart="490" colEnd="725"/>
-            <word unicode="ಸೇರಿಸಲಾದ" WordNumber="4" rowStart="1753" rowEnd="1788" colStart="754" colEnd="918"/>
-            <word unicode="ಎಲ್ಲ" WordNumber="5" rowStart="1765" rowEnd="1803" colStart="954" colEnd="1006"/>
-            <word unicode="ನಿವೃತ್ತಿ" WordNumber="6" rowStart="1758" rowEnd="1811" colStart="1040" colEnd="1142"/>
-            <word unicode="ವೇತನ" WordNumber="7" rowStart="1757" rowEnd="1795" colStart="1188" colEnd="1278"/>
+            <word unicode="“ಹಿಂದಿನ" WordNumber="1" colStart="187" colEnd="0"/>
+            <word unicode="ತಿಂಗಳ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅನುಸೂಚಿಯಲ್ಲಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸೇರಿಸಲಾದ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಎಲ್ಲ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನಿವೃತ್ತಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ವೇತನ" WordNumber="7" colStart="0" colEnd="1278"/>
         </line>
         <line LineNumber="26" rowStart="1814" rowEnd="1873">
             <word unicode="ಗಳನ್ನು" WordNumber="1" rowStart="1815" rowEnd="1865" colStart="90" colEnd="198"/>
@@ -248,7 +248,7 @@
             <word unicode="ಪ್ರಮಾಣೀ" WordNumber="6" rowStart="2005" rowEnd="2052" colStart="1131" colEnd="1282"/>
         </line>
         <line LineNumber="30" rowStart="2061" rowEnd="2108">
-            <word unicode="ಕರಿಸಲಾಗುತ್ತಿದೆ&quot;." WordNumber="1" rowStart="2061" rowEnd="2108" colStart="96" colEnd="355"/>
+            <word unicode="ಕರಿಸಲಾಗುತ್ತಿದೆ”." WordNumber="1" colStart="96" colEnd="355"/>
         </line>
     </block>
 </page>

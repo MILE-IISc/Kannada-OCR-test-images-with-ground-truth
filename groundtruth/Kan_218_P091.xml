@@ -9,10 +9,10 @@
     </block>
     <block type="Text" BlockNumber="2" rowStart="567" rowEnd="643" colStart="636" colEnd="1158">
         <line LineNumber="2" rowStart="576" rowEnd="627">
-            <word unicode="ಡಾ||" WordNumber="1" rowStart="578" rowEnd="612" colStart="656" colEnd="725"/>
-            <word unicode="ಸಿ." WordNumber="2" rowStart="579" rowEnd="612" colStart="748" colEnd="782"/>
-            <word unicode="ಆರ್." WordNumber="3" rowStart="579" rowEnd="612" colStart="805" colEnd="889"/>
-            <word unicode="ಚಂದ್ರಶೇಖರ್" WordNumber="4" rowStart="576" rowEnd="627" colStart="915" colEnd="1144"/>
+            <word unicode="ಡಾ॥" WordNumber="1" colStart="656" colEnd="0"/>
+            <word unicode="ಸಿ." WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಆರ್." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಚಂದ್ರಶೇಖರ್" WordNumber="4" colStart="0" colEnd="1144"/>
         </line>
     </block>
     <block type="Text" BlockNumber="3" rowStart="807" rowEnd="1164" colStart="340" colEnd="1472">
@@ -55,14 +55,14 @@
             <word unicode="ನರವಿಜ್ಞಾನ" WordNumber="7" rowStart="987" rowEnd="1033" colStart="1314" colEnd="1459"/>
         </line>
         <line LineNumber="7" rowStart="1042" rowEnd="1093">
-            <word unicode="ಸಂಸ್ಥೆಯಲ್ಲಿ" WordNumber="1" rowStart="1043" rowEnd="1093" colStart="357" colEnd="498"/>
-            <word unicode="ವೈದ್ಯರಾಗಿರುವ" WordNumber="2" rowStart="1043" rowEnd="1092" colStart="531" colEnd="724"/>
-            <word unicode="ಡಾ||" WordNumber="3" rowStart="1047" rowEnd="1075" colStart="755" colEnd="811"/>
-            <word unicode="ಸಿ." WordNumber="4" rowStart="1047" rowEnd="1071" colStart="831" colEnd="859"/>
-            <word unicode="ಆರ್." WordNumber="5" rowStart="1047" rowEnd="1077" colStart="880" colEnd="953"/>
-            <word unicode="ಚಂದ್ರಶೇಖರ್" WordNumber="6" rowStart="1042" rowEnd="1092" colStart="971" colEnd="1156"/>
-            <word unicode="ಅವರು" WordNumber="7" rowStart="1042" rowEnd="1070" colStart="1188" colEnd="1271"/>
-            <word unicode="ಹಿಸ್ಟೀರಿಯಾ" WordNumber="8" rowStart="1042" rowEnd="1089" colStart="1303" colEnd="1458"/>
+            <word unicode="ಸಂಸ್ಥೆಯಲ್ಲಿ" WordNumber="1" colStart="357" colEnd="0"/>
+            <word unicode="ವೈದ್ಯರಾಗಿರುವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಡಾ॥" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸಿ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಆರ್." WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಚಂದ್ರಶೇಖರ್" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಅವರು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಹಿಸ್ಟೀರಿಯಾ" WordNumber="8" colStart="0" colEnd="1458"/>
         </line>
         <line LineNumber="8" rowStart="1096" rowEnd="1146">
             <word unicode="ಬೇನೆಯ" WordNumber="1" rowStart="1097" rowEnd="1129" colStart="357" colEnd="464"/>
@@ -156,12 +156,13 @@
             <word unicode="ನ್ಯೂನತೆಯೂ" WordNumber="5" rowStart="2132" rowEnd="2185" colStart="659" colEnd="856"/>
         </line>
         <line LineNumber="21" rowStart="2194" rowEnd="2246">
-            <word unicode="ಕಂಡು" WordNumber="1" rowStart="2194" rowEnd="2228" colStart="54" colEnd="135"/>
-            <word unicode="ಬರಲಿಲ್ಲ." WordNumber="2" rowStart="2196" rowEnd="2240" colStart="153" colEnd="274"/>
-            <word unicode="ಆ" WordNumber="3" rowStart="2202" rowEnd="2226" colStart="330" colEnd="357"/>
-            <word unicode="ಕಾಲಿನಲ್ಲಿ" WordNumber="4" rowStart="2196" rowEnd="2240" colStart="389" colEnd="510"/>
-            <word unicode="ಸಂವೇದನೆ," WordNumber="5" rowStart="2195" rowEnd="2231" colStart="529" colEnd="681"/>
-            <word unicode="ರಿಫ್ಲೆಕ್ಸ್ಸ್," WordNumber="6" rowStart="2194" rowEnd="2246" colStart="704" colEnd="854"/>
+            <word unicode="ಕಂಡು" WordNumber="1" colStart="54" colEnd="0"/>
+            <word unicode="ಬರಲಿಲ್ಲ." WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕಾಲಿನಲ್ಲಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂವೇದನೆ," WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ರಿಫ್ಲೆಕ್ಸ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="‌ಸ್," WordNumber="7" colStart="0" colEnd="854"/>
         </line>
         <line LineNumber="22" rowStart="2257" rowEnd="2304">
             <word unicode="ಮಾಂಸಖಂಡಗಳ" WordNumber="1" rowStart="2257" rowEnd="2291" colStart="52" colEnd="286"/>
@@ -284,13 +285,13 @@
     </block>
     <block type="Text" BlockNumber="8" rowStart="2395" rowEnd="2458" colStart="46" colEnd="1090">
         <line LineNumber="39" rowStart="2399" rowEnd="2453">
-            <word unicode="ರಾಷ್ಟ್ರೀಯ" WordNumber="1" rowStart="2401" rowEnd="2448" colStart="54" colEnd="190"/>
-            <word unicode="ಮಾನಸಿಕ" WordNumber="2" rowStart="2400" rowEnd="2431" colStart="207" colEnd="326"/>
-            <word unicode="ಆರೋಗ್ಯ" WordNumber="3" rowStart="2399" rowEnd="2448" colStart="344" colEnd="465"/>
-            <word unicode="ಮತ್ತು" WordNumber="4" rowStart="2401" rowEnd="2443" colStart="484" colEnd="563"/>
-            <word unicode="ನರವಿಜ್ಞಾನ" WordNumber="5" rowStart="2401" rowEnd="2448" colStart="581" colEnd="728"/>
-            <word unicode="ಸಂಸ್ಥ," WordNumber="6" rowStart="2400" rowEnd="2453" colStart="751" colEnd="833"/>
-            <word unicode="ಬೆಂಗಳೂರು-29" WordNumber="7" rowStart="2399" rowEnd="2435" colStart="855" colEnd="1068"/>
+            <word unicode="ರಾಷ್ಟ್ರೀಯ" WordNumber="1" colStart="54" colEnd="0"/>
+            <word unicode="ಮಾನಸಿಕ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಆರೋಗ್ಯ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮತ್ತು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನರವಿಜ್ಞಾನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂಸ್ಥ," WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಬೆಂಗಳೂರು_29" WordNumber="7" colStart="0" colEnd="1068"/>
         </line>
     </block>
 </page>

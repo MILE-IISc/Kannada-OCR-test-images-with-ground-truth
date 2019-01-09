@@ -136,10 +136,10 @@
             <word unicode="ವಿಶ್ಲೇಷಿಸುವುದು." WordNumber="4" rowStart="1339" rowEnd="1389" colStart="642" colEnd="886"/>
         </line>
         <line LineNumber="21" rowStart="1401" rowEnd="1453">
-            <word unicode="ಗೊಡ್ದಾರ್ಡ್" WordNumber="1" rowStart="1401" rowEnd="1453" colStart="84" colEnd="273"/>
-            <word unicode="ನೀಲಾತೀತ" WordNumber="2" rowStart="1402" rowEnd="1434" colStart="311" colEnd="465"/>
-            <word unicode="ಪ್ರತಿಬಿಂಬ" WordNumber="3" rowStart="1404" rowEnd="1450" colStart="493" colEnd="637"/>
-            <word unicode="ದೂರದರ್ಶಕವು" WordNumber="4" rowStart="1401" rowEnd="1440" colStart="674" colEnd="890"/>
+            <word unicode="ಗೊಡ್ಡಾರ್ಡ್" WordNumber="1" colStart="84" colEnd="0"/>
+            <word unicode="ನೀಲಾತೀತ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರತಿಬಿಂಬ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ದೂರದರ್ಶಕವು" WordNumber="4" colStart="0" colEnd="890"/>
         </line>
         <line LineNumber="22" rowStart="1461" rowEnd="1519">
             <word unicode="ದುರ್ಬಲ" WordNumber="1" rowStart="1470" rowEnd="1502" colStart="86" colEnd="215"/>
@@ -257,7 +257,7 @@
             <word unicode="ಉಪಯೋಗ" WordNumber="5" rowStart="959" rowEnd="998" colStart="1616" colEnd="1801"/>
         </line>
         <line LineNumber="39" rowStart="1021" rowEnd="1071">
-            <word unicode="ಕರವಾಗುತ್ತವೆ." WordNumber="1" rowStart="1021" rowEnd="1071" colStart="991" colEnd="1226"/>
+            <word unicode="ಕರವಾಗಿರುತ್ತವೆ." WordNumber="1" colStart="991" colEnd="1226"/>
         </line>
     </block>
     <block type="Text" BlockNumber="6" rowStart="1086" rowEnd="1710" colStart="989" colEnd="1800">

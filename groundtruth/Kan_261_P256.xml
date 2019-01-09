@@ -133,23 +133,24 @@
             <word unicode="ಗಳಲ್ಲಿ" WordNumber="7" rowStart="954" rowEnd="1000" colStart="1175" colEnd="1251"/>
         </line>
         <line LineNumber="16" rowStart="1011" rowEnd="1067">
-            <word unicode="ಅಸಂಖ್ಯೆ" WordNumber="1" rowStart="1011" rowEnd="1064" colStart="57" colEnd="177"/>
-            <word unicode="ಮೃದ್ವಂಗಿಗಳು," WordNumber="2" rowStart="1013" rowEnd="1066" colStart="197" colEnd="417"/>
-            <word unicode="ಏಡಿ," WordNumber="3" rowStart="1020" rowEnd="1055" colStart="423" colEnd="490"/>
-            <word unicode="ನಳ್ಳಿ" WordNumber="4" rowStart="1014" rowEnd="1065" colStart="497" colEnd="557"/>
-            <word unicode="ಮೊದಲಾದ" WordNumber="5" rowStart="1013" rowEnd="1048" colStart="577" colEnd="737"/>
-            <word unicode="ವಲ್ಕವಂತ" WordNumber="6" rowStart="1015" rowEnd="1067" colStart="756" colEnd="896"/>
-            <word unicode="(ಗಡುಸು" WordNumber="7" rowStart="1015" rowEnd="1063" colStart="910" colEnd="1037"/>
-            <word unicode="ಚರ್ಮವುಳ್ಳ)" WordNumber="8" rowStart="1015" rowEnd="1066" colStart="1058" colEnd="1250"/>
+            <word unicode="ಅಸಂಖ್ಯೆ" WordNumber="1" colStart="57" colEnd="0"/>
+            <word unicode="ಮೃದ್ವಂಗಿಗಳು," WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಏಡಿ," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಳ್ಳಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮೊದಲಾದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ವಲ್ಕವಂತ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="(ಗಡುಸು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಚರ್ಮವುಳ್ಳ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode=")" WordNumber="9" colStart="0" colEnd="1250"/>
         </line>
         <line LineNumber="17" rowStart="1076" rowEnd="1129">
-            <word unicode="ಜಲಚರಗಳು" WordNumber="1" rowStart="1076" rowEnd="1109" colStart="57" colEnd="234"/>
-            <word unicode="iತ್ತು" WordNumber="2" rowStart="1077" rowEnd="1122" colStart="262" colEnd="359"/>
-            <word unicode="ಅನೇಕ" WordNumber="3" rowStart="1078" rowEnd="1117" colStart="397" colEnd="489"/>
-            <word unicode="ಜಾತಿಯ" WordNumber="4" rowStart="1080" rowEnd="1111" colStart="509" colEnd="633"/>
-            <word unicode="ಮೀನುಗಳು" WordNumber="5" rowStart="1079" rowEnd="1117" colStart="654" colEnd="815"/>
-            <word unicode="ಸಿಕ್ಕಿಕೊಳ್ಳುತ್ತವೆ." WordNumber="6" rowStart="1076" rowEnd="1129" colStart="850" colEnd="1104"/>
-            <word unicode="ಇಂಥ" WordNumber="7" rowStart="1083" rowEnd="1120" colStart="1177" colEnd="1250"/>
+            <word unicode="ಜಲಚರಗಳು" WordNumber="1" colStart="57" colEnd="0"/>
+            <word unicode="ಮತ್ತು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅನೇಕ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಜಾತಿಯ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮೀನುಗಳು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸಿಕ್ಕಿಕೊಳ್ಳುತ್ತವೆ." WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಇಂಥ" WordNumber="7" colStart="0" colEnd="1250"/>
         </line>
         <line LineNumber="18" rowStart="1136" rowEnd="1192">
             <word unicode="ಪ್ರದೇಶಗಳಲ್ಲಿ" WordNumber="1" rowStart="1136" rowEnd="1185" colStart="56" colEnd="237"/>
@@ -168,21 +169,21 @@
             <word unicode="ಕೆಳಭಾಗಗಳು" WordNumber="6" rowStart="1203" rowEnd="1246" colStart="1056" colEnd="1247"/>
         </line>
         <line LineNumber="20" rowStart="1263" rowEnd="1320">
-            <word unicode="ಕೆಲವೊಮ್ಮೆ" WordNumber="1" rowStart="1263" rowEnd="1315" colStart="54" colEnd="221"/>
-            <word unicode="ಜಲಾಂತರ್ಗತ" WordNumber="2" rowStart="1265" rowEnd="1299" colStart="232" colEnd="431"/>
-            <word unicode="ಹುಲ್ಲುಮಾಳಗಳಿಂದ" WordNumber="3" rowStart="1266" rowEnd="1312" colStart="450" colEnd="726"/>
-            <word unicode="ಆವರಿಸಲ್ಪmರುತ್ತವೆ." WordNumber="4" rowStart="1265" rowEnd="1320" colStart="746" colEnd="1052"/>
-            <word unicode="ಈ" WordNumber="5" rowStart="1270" rowEnd="1300" colStart="1106" colEnd="1140"/>
-            <word unicode="ಹುಲ್ಲು" WordNumber="6" rowStart="1268" rowEnd="1314" colStart="1159" colEnd="1248"/>
+            <word unicode="ಕೆಲವೊಮ್ಮೆ" WordNumber="1" colStart="54" colEnd="0"/>
+            <word unicode="ಜಲಾಂತರ್ಗತ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹುಲ್ಲುಮಾಳಗಳಿಂದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಆವರಿಸಲ್ಪಟ್ಟಿರುತ್ತವೆ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಈ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಹುಲ್ಲು" WordNumber="6" colStart="0" colEnd="1248"/>
         </line>
         <line LineNumber="21" rowStart="1328" rowEnd="1382">
-            <word unicode="ಮಳಗಳಲ್ಲಿ" WordNumber="1" rowStart="1328" rowEnd="1374" colStart="53" colEnd="217"/>
-            <word unicode="ವಲ್ಕವಂತ" WordNumber="2" rowStart="1329" rowEnd="1379" colStart="262" colEnd="403"/>
-            <word unicode="ಜಲಚರಗಳು," WordNumber="3" rowStart="1329" rowEnd="1369" colStart="422" colEnd="614"/>
-            <word unicode="ಮೃದ್ವಂಗಿಗಳು" WordNumber="4" rowStart="1329" rowEnd="1382" colStart="637" colEnd="845"/>
-            <word unicode="ಮತ್ತು" WordNumber="5" rowStart="1330" rowEnd="1376" colStart="881" colEnd="977"/>
-            <word unicode="ಇತರ" WordNumber="6" rowStart="1330" rowEnd="1363" colStart="1025" colEnd="1098"/>
-            <word unicode="ಜಾತಿಯ" WordNumber="7" rowStart="1332" rowEnd="1364" colStart="1125" colEnd="1248"/>
+            <word unicode="ಮಾಳಗಳಲ್ಲಿ" WordNumber="1" colStart="53" colEnd="0"/>
+            <word unicode="ವಲ್ಕವಂತ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಜಲಚರಗಳು," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮೃದ್ವಂಗಿಗಳು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮತ್ತು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಇತರ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಜಾತಿಯ" WordNumber="7" colStart="0" colEnd="1248"/>
         </line>
         <line LineNumber="22" rowStart="1391" rowEnd="1443">
             <word unicode="ಮೀನುಗಳು" WordNumber="1" rowStart="1391" rowEnd="1429" colStart="55" colEnd="212"/>
@@ -216,13 +217,13 @@
             <word unicode="ಸಂಪತ್ತು" WordNumber="6" rowStart="1569" rowEnd="1615" colStart="1121" colEnd="1246"/>
         </line>
         <line LineNumber="26" rowStart="1630" rowEnd="1685">
-            <word unicode="ಕಂಡು" WordNumber="1" rowStart="1630" rowEnd="1664" colStart="53" colEnd="140"/>
-            <word unicode="ಬರುತ್ತದೆ." WordNumber="2" rowStart="1630" rowEnd="1676" colStart="159" colEnd="301"/>
-            <word unicode="ಬೆಚ್ಚಗಿನ" WordNumber="3" rowStart="1630" rowEnd="1685" colStart="343" colEnd="470"/>
-            <word unicode="ಮಡಿಟರೇನಿಯನ್" WordNumber="4" rowStart="1630" rowEnd="1671" colStart="490" colEnd="748"/>
-            <word unicode="ಸಮುದ್ರದ" WordNumber="5" rowStart="1632" rowEnd="1678" colStart="768" colEnd="918"/>
-            <word unicode="ನೀರು" WordNumber="6" rowStart="1633" rowEnd="1673" colStart="939" colEnd="1018"/>
-            <word unicode="ಜಲಚರಗಳಿಂದ" WordNumber="7" rowStart="1632" rowEnd="1666" colStart="1037" colEnd="1247"/>
+            <word unicode="ಕಂಡು" WordNumber="1" colStart="53" colEnd="0"/>
+            <word unicode="ಬರುತ್ತದೆ." WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಬೆಚ್ಚಗಿನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮೆಡಿಟರೇನಿಯನ್" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸಮುದ್ರದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನೀರು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಜಲಚರಗಳಿಂದ" WordNumber="7" colStart="0" colEnd="1247"/>
         </line>
         <line LineNumber="27" rowStart="1694" rowEnd="1749">
             <word unicode="ತುಂಬಿರುತ್ತದೆ." WordNumber="1" rowStart="1695" rowEnd="1746" colStart="55" colEnd="268"/>
@@ -234,14 +235,15 @@
             <word unicode="ಮೀನು," WordNumber="7" rowStart="1697" rowEnd="1738" colStart="1138" colEnd="1244"/>
         </line>
         <line LineNumber="28" rowStart="1756" rowEnd="1809">
-            <word unicode="ಸಮುದ್ರ" WordNumber="1" rowStart="1756" rowEnd="1802" colStart="52" colEnd="175"/>
-            <word unicode="ಸಸ್ಯ," WordNumber="2" rowStart="1757" rowEnd="1809" colStart="196" colEnd="270"/>
-            <word unicode="ಗಡುಸು" WordNumber="3" rowStart="1757" rowEnd="1790" colStart="289" colEnd="397"/>
-            <word unicode="ಚರ್ಮದ" WordNumber="4" rowStart="1757" rowEnd="1790" colStart="418" colEnd="543"/>
-            <word unicode="ಜಲಚರ" WordNumber="5" rowStart="1758" rowEnd="1790" colStart="563" colEnd="675"/>
-            <word unicode="ಮೊದಲಾದವುಗಳ" WordNumber="6" rowStart="1757" rowEnd="1802" colStart="695" colEnd="940"/>
-            <word unicode="ರಾಶಿಯನ್ನೇ" WordNumber="7" rowStart="1758" rowEnd="1809" colStart="960" colEnd="1132"/>
-            <word unicode="ಕಾಣ" WordNumber="8" rowStart="1767" rowEnd="1791" colStart="1170" colEnd="1245"/>
+            <word unicode="ಸಮುದ್ರ" WordNumber="1" colStart="52" colEnd="0"/>
+            <word unicode="ಸಸ್ಯ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಗಡುಸು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಚರ್ಮದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಜಲಚರ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಮೊದಲಾದವುಗಳ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಶಿಯನ್ನೇ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಕಾಣ" WordNumber="9" colStart="0" colEnd="1245"/>
         </line>
         <line LineNumber="29" rowStart="1818" rowEnd="1876">
             <word unicode="ಬಹುದು." WordNumber="1" rowStart="1819" rowEnd="1852" colStart="49" colEnd="179"/>

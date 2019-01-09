@@ -154,10 +154,10 @@
             <word unicode="(1)" WordNumber="3" rowStart="1868" rowEnd="1914" colStart="1178" colEnd="1238"/>
         </line>
         <line LineNumber="29" rowStart="1930" rowEnd="1983">
-            <word unicode="--ಪ" WordNumber="1" rowStart="1930" rowEnd="1965" colStart="145" colEnd="199"/>
-            <word unicode="ಪರಿವರ್ತಿತ" WordNumber="2" rowStart="1931" rowEnd="1964" colStart="217" colEnd="365"/>
-            <word unicode="ಮೌಲ್ಯ" WordNumber="3" rowStart="1931" rowEnd="1983" colStart="413" colEnd="519"/>
-            <word unicode="202" WordNumber="4" rowStart="1933" rowEnd="1962" colStart="1166" colEnd="1236"/>
+            <word unicode="--ದ" WordNumber="1" colStart="145" colEnd="0"/>
+            <word unicode="ಪರಿವರ್ತಿತ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮೌಲ್ಯ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="202" WordNumber="4" colStart="0" colEnd="1236"/>
         </line>
         <line LineNumber="30" rowStart="1990" rowEnd="2033">
             <word unicode="--ಸಂದಾಯದ" WordNumber="1" rowStart="1992" rowEnd="2026" colStart="147" colEnd="348"/>

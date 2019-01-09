@@ -82,13 +82,13 @@
             <word unicode="ಗುಂಪಿ" WordNumber="6" rowStart="791" rowEnd="823" colStart="1157" colEnd="1240"/>
         </line>
         <line LineNumber="11" rowStart="851" rowEnd="908">
-            <word unicode="ನಲ್ಲಿ" WordNumber="1" rowStart="857" rowEnd="905" colStart="52" colEnd="102"/>
-            <word unicode="100" WordNumber="2" rowStart="861" rowEnd="888" colStart="162" colEnd="226"/>
-            <word unicode="ಪುಸ್ತಕವಾಗಿ" WordNumber="3" rowStart="854" rowEnd="903" colStart="281" colEnd="445"/>
-            <word unicode="ಇರುತ್ತವೆ." WordNumber="4" rowStart="855" rowEnd="900" colStart="476" colEnd="620"/>
-            <word unicode="ಸಾಮಾನ್ಯ" WordNumber="5" rowStart="855" rowEnd="908" colStart="649" colEnd="801"/>
-            <word unicode="ಶ್ರೇಣಿಯಲ್ಲಿ" WordNumber="6" rowStart="851" rowEnd="904" colStart="864" colEnd="1023"/>
-            <word unicode="ಸಂಖ್ಯೆಗಳನ್ನು" WordNumber="7" rowStart="855" rowEnd="908" colStart="1042" colEnd="1244"/>
+            <word unicode="ನಲ್ಲಿ" WordNumber="1" colStart="52" colEnd="0"/>
+            <word unicode="100" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪುಸ್ತಕಗಳು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಇರುತ್ತವೆ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸಾಮಾನ್ಯ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಶ್ರೇಣಿಯಲ್ಲಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂಖ್ಯೆಗಳನ್ನು" WordNumber="7" colStart="0" colEnd="1244"/>
         </line>
         <line LineNumber="12" rowStart="918" rowEnd="974">
             <word unicode="ಹೊಂದಿರುತ್ತವೆ" WordNumber="1" rowStart="918" rowEnd="964" colStart="51" colEnd="263"/>

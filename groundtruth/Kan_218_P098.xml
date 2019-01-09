@@ -9,16 +9,17 @@
     </block>
     <block type="Text" BlockNumber="3" rowStart="169" rowEnd="986" colStart="79" colEnd="895">
         <line LineNumber="2" rowStart="169" rowEnd="224">
-            <word unicode="ಜೈವಿಕ" WordNumber="1" rowStart="169" rowEnd="222" colStart="84" colEnd="178"/>
-            <word unicode="ಕ್ರಿಯೆಗಳಿಂದುತ್ಪನ್ನವಾಗುವ" WordNumber="2" rowStart="170" rowEnd="222" colStart="229" colEnd="621"/>
-            <word unicode="ವಸ್ತುಗಳನ್ನೂ," WordNumber="3" rowStart="174" rowEnd="224" colStart="682" colEnd="890"/>
+            <word unicode="ಜೈವಿಕ" WordNumber="1" colStart="84" colEnd="0"/>
+            <word unicode="ಕ್ರಿಯೆಗಳಿಂದುತ್ಪನ್ನವಾಗುವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಸ್ತುಗಳನ್ನೂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="," WordNumber="4" colStart="0" colEnd="890"/>
         </line>
         <line LineNumber="3" rowStart="234" rowEnd="290">
-            <word unicode="ಸಾಂಪ್ರದಾಯಕ" WordNumber="1" rowStart="234" rowEnd="277" colStart="89" colEnd="314"/>
-            <word unicode="ಕ್ರಮಗಳಿಗೆ" WordNumber="2" rowStart="234" rowEnd="279" colStart="333" colEnd="481"/>
-            <word unicode="ದೂರವಾದ," WordNumber="3" rowStart="235" rowEnd="271" colStart="501" colEnd="674"/>
-            <word unicode="ನವ" WordNumber="4" rowStart="237" rowEnd="269" colStart="697" colEnd="748"/>
-            <word unicode="ಉತ್ಕ್ರಷ್ಟ" WordNumber="5" rowStart="237" rowEnd="290" colStart="768" colEnd="894"/>
+            <word unicode="ಸಾಂಪ್ರದಾಯಕ" WordNumber="1" colStart="89" colEnd="0"/>
+            <word unicode="ಕ್ರಮಗಳಿಗೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ದೂರವಾದ," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನವ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಉತ್ಕೃಷ್ಟ" WordNumber="5" colStart="0" colEnd="894"/>
         </line>
         <line LineNumber="4" rowStart="296" rowEnd="348">
             <word unicode="ವಿಧಾನವನ್ನೂ" WordNumber="1" rowStart="296" rowEnd="348" colStart="89" colEnd="289"/>
@@ -37,11 +38,12 @@
             <word unicode="ಕಾಣುವ" WordNumber="6" rowStart="365" rowEnd="396" colStart="779" colEnd="894"/>
         </line>
         <line LineNumber="6" rowStart="422" rowEnd="478">
-            <word unicode="ಔಷಧಗಳನ್ನು" WordNumber="1" rowStart="422" rowEnd="473" colStart="92" colEnd="282"/>
-            <word unicode="ಮತ್ತು" WordNumber="2" rowStart="425" rowEnd="471" colStart="320" colEnd="414"/>
-            <word unicode="ಲಸಿಕೆಗಳನ್ನೂ," WordNumber="3" rowStart="426" rowEnd="474" colStart="453" colEnd="658"/>
-            <word unicode="ಸತ್ವಭರಿತ" WordNumber="4" rowStart="427" rowEnd="478" colStart="690" colEnd="824"/>
-            <word unicode="ನವ" WordNumber="5" rowStart="429" rowEnd="460" colStart="844" colEnd="895"/>
+            <word unicode="ಔಷಧಗಳನ್ನು" WordNumber="1" colStart="92" colEnd="0"/>
+            <word unicode="ಮತ್ತು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಲಸಿಕೆಗಳನ್ನೂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸತ್ವಭರಿತ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನವ" WordNumber="6" colStart="0" colEnd="895"/>
         </line>
         <line LineNumber="7" rowStart="487" rowEnd="539">
             <word unicode="ಆಹಾರ" WordNumber="1" rowStart="487" rowEnd="518" colStart="90" colEnd="192"/>
@@ -220,11 +222,12 @@
             <word unicode="(DNA=" WordNumber="6" rowStart="433" rowEnd="479" colStart="1609" colEnd="1789"/>
         </line>
         <line LineNumber="32" rowStart="496" rowEnd="548">
-            <word unicode="Dioxyribo" WordNumber="1" rowStart="500" rowEnd="548" colStart="993" colEnd="1223"/>
-            <word unicode="nucleic" WordNumber="2" rowStart="497" rowEnd="535" colStart="1244" colEnd="1398"/>
-            <word unicode="acid" WordNumber="3" rowStart="496" rowEnd="533" colStart="1418" colEnd="1508"/>
-            <word unicode="ಆಮ್ಲಜನಕ" WordNumber="4" rowStart="496" rowEnd="545" colStart="1523" colEnd="1686"/>
-            <word unicode="ಲುಪ್ತ" WordNumber="5" rowStart="496" rowEnd="541" colStart="1705" colEnd="1790"/>
+            <word unicode="Dioxyribo" WordNumber="1" colStart="993" colEnd="0"/>
+            <word unicode="nucleic" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="acid" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಆಮ್ಲ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಜನಕ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಲುಪ್ತ" WordNumber="6" colStart="0" colEnd="1790"/>
         </line>
         <line LineNumber="33" rowStart="558" rowEnd="607">
             <word unicode="ಶರ್ಕರಯುತ" WordNumber="1" rowStart="563" rowEnd="595" colStart="994" colEnd="1176"/>
@@ -252,10 +255,10 @@
             <word unicode="ಉಪಭಾಗ" WordNumber="5" rowStart="685" rowEnd="725" colStart="1648" colEnd="1796"/>
         </line>
         <line LineNumber="36" rowStart="748" rowEnd="805">
-            <word unicode="ಗಳು" WordNumber="1" rowStart="755" rowEnd="785" colStart="993" colEnd="1055"/>
-            <word unicode="ಪ್ರತ್ಯಾಮ್ಲಗಳಿಂದ" WordNumber="2" rowStart="752" rowEnd="805" colStart="1075" colEnd="1328"/>
-            <word unicode="ಮಾಡಲ್ಪಟ್ಟಿರುತ್ತವೆ." WordNumber="3" rowStart="748" rowEnd="801" colStart="1348" colEnd="1638"/>
-            <word unicode="ಜೇಮ್ಸ್ಡಿ" WordNumber="4" rowStart="748" rowEnd="796" colStart="1672" colEnd="1793"/>
+            <word unicode="ಗಳು" WordNumber="1" colStart="993" colEnd="0"/>
+            <word unicode="ಪ್ರತ್ಯಾಮ್ಲಗಳಿಂದ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಡಲ್ಪಟ್ಟಿರುತ್ತವೆ." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಜೇಮ್ಸ್" WordNumber="4" colStart="0" colEnd="1793"/>
         </line>
         <line LineNumber="37" rowStart="816" rowEnd="865">
             <word unicode="ಡಿ" WordNumber="1" rowStart="821" rowEnd="849" colStart="991" colEnd="1017"/>

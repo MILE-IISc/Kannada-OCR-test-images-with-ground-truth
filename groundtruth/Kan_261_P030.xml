@@ -44,14 +44,14 @@
             <word unicode="ಒಂದು" WordNumber="7" rowStart="364" rowEnd="398" colStart="1166" colEnd="1254"/>
         </line>
         <line LineNumber="6" rowStart="424" rowEnd="486">
-            <word unicode="ದೇಶದ" WordNumber="1" rowStart="424" rowEnd="460" colStart="62" colEnd="151"/>
-            <word unicode="ಅಥವಾ" WordNumber="2" rowStart="429" rowEnd="469" colStart="170" colEnd="272"/>
-            <word unicode="ಪ್ರದೇಶದ" WordNumber="3" rowStart="429" rowEnd="476" colStart="317" colEnd="448"/>
-            <word unicode="ಆರ್ಥಿಕ" WordNumber="4" rowStart="428" rowEnd="482" colStart="484" colEnd="610"/>
-            <word unicode="ಪ್ರಗತಿಂiiಲ್ಲಿ" WordNumber="5" rowStart="430" rowEnd="478" colStart="616" colEnd="784"/>
-            <word unicode="ಭೌಗೋಳಿಕ" WordNumber="6" rowStart="429" rowEnd="472" colStart="833" colEnd="1004"/>
-            <word unicode="ಸ್ಥಾನವು" WordNumber="7" rowStart="429" rowEnd="486" colStart="1051" colEnd="1169"/>
-            <word unicode="ಅತಿ" WordNumber="8" rowStart="431" rowEnd="461" colStart="1203" colEnd="1253"/>
+            <word unicode="ದೇಶದ" WordNumber="1" colStart="62" colEnd="0"/>
+            <word unicode="ಅಥವಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರದೇಶದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಆರ್ಥಿಕ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಗತಿಯಲ್ಲಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಭೌಗೋಳಿಕ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಸ್ಥಾನವು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಅತಿ" WordNumber="8" colStart="0" colEnd="1253"/>
         </line>
         <line LineNumber="7" rowStart="490" rowEnd="547">
             <word unicode="ಮಹತ್ವದ" WordNumber="1" rowStart="490" rowEnd="544" colStart="63" colEnd="202"/>

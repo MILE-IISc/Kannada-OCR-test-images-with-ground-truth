@@ -189,11 +189,11 @@
             <word unicode="ಮಾಡಲಾಗಿದೆ" WordNumber="8" rowStart="1379" rowEnd="1422" colStart="1077" colEnd="1268"/>
         </line>
         <line LineNumber="22" rowStart="1450" rowEnd="1511">
-            <word unicode="ಎಂದು" WordNumber="1" rowStart="1454" rowEnd="1489" colStart="83" colEnd="174"/>
-            <word unicode="ಖಾತ್ರಿ" WordNumber="2" rowStart="1459" rowEnd="1502" colStart="209" colEnd="301"/>
-            <word unicode="ಮಾಡಿಕೊಳ್ಳಲು" WordNumber="3" rowStart="1455" rowEnd="1509" colStart="336" colEnd="567"/>
-            <word unicode="ವೈಯುಕ್ತಿಕವಾಗಿ" WordNumber="4" rowStart="1455" rowEnd="1510" colStart="620" colEnd="864"/>
-            <word unicode="ಜವಾಬ್ಧಾರರಾಗಿರುವರು." WordNumber="5" rowStart="1450" rowEnd="1511" colStart="908" colEnd="1267"/>
+            <word unicode="ಎಂದು" WordNumber="1" colStart="83" colEnd="0"/>
+            <word unicode="ಖಾತ್ರಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಡಿಕೊಳ್ಳಲು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ವೈಯುಕ್ತಿಕವಾಗಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಜವಾಬ್ದಾರರಾಗಿರುವರು." WordNumber="5" colStart="0" colEnd="1267"/>
         </line>
         <line LineNumber="23" rowStart="1515" rowEnd="1573">
             <word unicode="ಆ" WordNumber="1" rowStart="1529" rowEnd="1553" colStart="84" colEnd="111"/>

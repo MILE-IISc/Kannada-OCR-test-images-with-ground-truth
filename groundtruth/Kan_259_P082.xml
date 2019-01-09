@@ -47,13 +47,13 @@
             <word unicode="ಉಪಖಜಾನೆಗಳೆರಡರಲ್ಲೂ" WordNumber="5" rowStart="787" rowEnd="836" colStart="892" colEnd="1246"/>
         </line>
         <line LineNumber="8" rowStart="842" rowEnd="905">
-            <word unicode="ಲೆಕ್ಕವನ್ನಿಡುವ" WordNumber="1" rowStart="842" rowEnd="904" colStart="59" colEnd="265"/>
-            <word unicode="ವಿಧಾನವು" WordNumber="2" rowStart="852" rowEnd="892" colStart="287" colEnd="418"/>
-            <word unicode="ಒಂದೇ" WordNumber="3" rowStart="852" rowEnd="886" colStart="441" colEnd="527"/>
-            <word unicode="ರೀತಿಯಾದಾಗಿದೆ," WordNumber="4" rowStart="854" rowEnd="897" colStart="550" colEnd="772"/>
-            <word unicode="ಯಾವ" WordNumber="5" rowStart="856" rowEnd="889" colStart="790" colEnd="884"/>
-            <word unicode="ಜಿಲ್ಲಾ" WordNumber="6" rowStart="861" rowEnd="905" colStart="904" colEnd="996"/>
-            <word unicode="ಖಜಾನೆಗಳೆಲ್ಲವೂ" WordNumber="7" rowStart="853" rowEnd="901" colStart="1013" colEnd="1246"/>
+            <word unicode="ಲೆಕ್ಕವನ್ನಿಡುವ" WordNumber="1" colStart="59" colEnd="0"/>
+            <word unicode="ವಿಧಾನವು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಒಂದೇ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ರೀತಿಯದಾಗಿದೆ," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಯಾವ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಜಿಲ್ಲಾ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಖಜಾನೆಗಳೆಲ್ಲವೂ" WordNumber="7" colStart="0" colEnd="1246"/>
         </line>
         <line LineNumber="9" rowStart="908" rowEnd="969">
             <word unicode="ಬ್ಯಾಂಕು" WordNumber="1" rowStart="911" rowEnd="960" colStart="60" colEnd="182"/>
@@ -103,12 +103,12 @@
             <word unicode="ಜಿಲ್ಲೆಯ" WordNumber="8" rowStart="1167" rowEnd="1220" colStart="1123" colEnd="1243"/>
         </line>
         <line LineNumber="14" rowStart="1221" rowEnd="1280">
-            <word unicode="ಖಜಾನೆಯ" WordNumber="1" rowStart="1221" rowEnd="1261" colStart="56" colEnd="215"/>
-            <word unicode="ವರದಿಗಲನ್ನು" WordNumber="2" rowStart="1225" rowEnd="1280" colStart="252" colEnd="435"/>
-            <word unicode="ಜಿಲ್ಲಾ" WordNumber="3" rowStart="1234" rowEnd="1279" colStart="471" colEnd="563"/>
-            <word unicode="ಖಜಾನೆಗಳವರು" WordNumber="4" rowStart="1231" rowEnd="1270" colStart="609" colEnd="833"/>
-            <word unicode="ತಾವೇ" WordNumber="5" rowStart="1231" rowEnd="1264" colStart="887" colEnd="970"/>
-            <word unicode="ಸಂಗ್ರಹಿಸುವರು" WordNumber="6" rowStart="1230" rowEnd="1276" colStart="1024" colEnd="1245"/>
+            <word unicode="ಖಜಾನೆಯ" WordNumber="1" colStart="56" colEnd="0"/>
+            <word unicode="ವರದಿಗಳನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಜಿಲ್ಲಾ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಖಜಾನೆಗಳವರು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ತಾವೇ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂಗ್ರಹಿಸುವರು" WordNumber="6" colStart="0" colEnd="1245"/>
         </line>
         <line LineNumber="15" rowStart="1282" rowEnd="1338">
             <word unicode="ಮತ್ತು" WordNumber="1" rowStart="1282" rowEnd="1331" colStart="52" colEnd="150"/>
