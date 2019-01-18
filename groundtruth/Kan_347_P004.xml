@@ -231,12 +231,12 @@
     </block>
     <block type="Text" BlockNumber="4" rowStart="1778" rowEnd="1838" colStart="222" colEnd="1250">
         <line LineNumber="28" rowStart="1788" rowEnd="1830">
-            <word unicode="ಮೂಲವಸ್ತು" WordNumber="1" rowStart="1788" rowEnd="1830" colStart="238" colEnd="411"/>
-            <word unicode="ಶೇ||" WordNumber="2" rowStart="1788" rowEnd="1830" colStart="525" colEnd="582"/>
-            <word unicode="ಭಾಗ" WordNumber="3" rowStart="1788" rowEnd="1830" colStart="598" colEnd="661"/>
-            <word unicode="ಮೂಲವಸ್ತು" WordNumber="4" rowStart="1788" rowEnd="1830" colStart="843" colEnd="1022"/>
-            <word unicode="ಶೇ||" WordNumber="5" rowStart="1788" rowEnd="1830" colStart="1095" colEnd="1154"/>
-            <word unicode="ಭಾಗ" WordNumber="6" rowStart="1788" rowEnd="1830" colStart="1168" colEnd="1231"/>
+            <word unicode="ಮೂಲವಸ್ತು" WordNumber="1" colStart="238" colEnd="0"/>
+            <word unicode="ಶೇ॥" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾಗ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮೂಲವಸ್ತು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಶೇ॥" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾಗ" WordNumber="6" colStart="0" colEnd="1231"/>
         </line>
     </block>
     <block type="Text" BlockNumber="5" rowStart="1856" rowEnd="2160" colStart="212" colEnd="1191">

@@ -29,11 +29,11 @@
             <word unicode="ಕೇಳ್ಗುಮನಿತನಿತಂಜಿ" WordNumber="8" rowStart="221" rowEnd="262" colStart="1089" colEnd="1326"/>
         </line>
         <line LineNumber="4" rowStart="275" rowEnd="314">
-            <word unicode="ಗುಹೆಯೊಳಡಂಗಿರ್ದತ್ತು" WordNumber="1" rowStart="275" rowEnd="314" colStart="148" colEnd="445"/>
-            <word unicode="ಪೊಱಮಡಲ್ಲೊಲ್ಲದಿರ್ದೊಡಾ" WordNumber="2" rowStart="275" rowEnd="313" colStart="461" colEnd="815"/>
-            <word unicode="ಗುಹೆಯ" WordNumber="3" rowStart="275" rowEnd="303" colStart="836" colEnd="945"/>
-            <word unicode="ಬಾಗಿಲೊಳೆನಿತಾನುಂ" WordNumber="4" rowStart="275" rowEnd="305" colStart="967" colEnd="1214"/>
-            <word unicode="ಪುಲ್ಲುಂ" WordNumber="5" rowStart="277" rowEnd="313" colStart="1235" colEnd="1326"/>
+            <word unicode="ಗುಹೆಯೊಳಡಂಗಿರ್ದತ್ತು" WordNumber="1" colStart="148" colEnd="0"/>
+            <word unicode="ಪೊಱಮಡಲೊಲ್ಲದಿರ್ದೊಡಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಗುಹೆಯ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಬಾಗಿಲೊಳೆನಿತಾನುಂ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಪುಲ್ಲುಂ" WordNumber="5" colStart="0" colEnd="1326"/>
         </line>
         <line LineNumber="5" rowStart="329" rowEnd="372">
             <word unicode="ಪುಳ್ಳಿಯುಮನೊಟ್ಟಿ" WordNumber="1" rowStart="329" rowEnd="370" colStart="148" colEnd="387"/>
@@ -194,13 +194,13 @@
             <word unicode="ಕಟುಕಿಯೆಂಬ" WordNumber="6" rowStart="1337" rowEnd="1369" colStart="1142" colEnd="1325"/>
         </line>
         <line LineNumber="23" rowStart="1395" rowEnd="1445">
-            <word unicode="ಬ್ರಾಹ್ಮಣಿಗತಿಗೂ" WordNumber="1" rowStart="1395" rowEnd="1443" colStart="153" colEnd="351"/>
-            <word unicode="ಹಳಮುಖನೆಂಬ" WordNumber="2" rowStart="1396" rowEnd="1430" colStart="379" colEnd="607"/>
-            <word unicode="ಹೆಸರುಳ್ಳ" WordNumber="3" rowStart="1396" rowEnd="1445" colStart="635" colEnd="760"/>
-            <word unicode="ಮಗನಾಗಿ" WordNumber="4" rowStart="1398" rowEnd="1430" colStart="786" colEnd="920"/>
-            <word unicode="ಹುಟ್ಟಿತು." WordNumber="5" rowStart="1397" rowEnd="1444" colStart="948" colEnd="1076"/>
-            <word unicode="ಅನಂತರ," WordNumber="6" rowStart="1398" rowEnd="1436" colStart="1103" colEnd="1244"/>
-            <word unicode="ಇತ್ತ" WordNumber="7" rowStart="1398" rowEnd="1443" colStart="1271" colEnd="1331"/>
+            <word unicode="ಬ್ರಾಹ್ಮಣಿತಿಗೂ" WordNumber="1" colStart="153" colEnd="0"/>
+            <word unicode="ಹಳಮುಖನೆಂಬ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹೆಸರುಳ್ಳ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಗನಾಗಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಹುಟ್ಟಿತು." WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಅನಂತರ," WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಇತ್ತ" WordNumber="7" colStart="0" colEnd="1331"/>
         </line>
         <line LineNumber="24" rowStart="1456" rowEnd="1505">
             <word unicode="ಅಂಗವೆಂಬ" WordNumber="1" rowStart="1456" rowEnd="1488" colStart="152" colEnd="305"/>

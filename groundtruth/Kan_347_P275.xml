@@ -42,12 +42,12 @@
             <word unicode="ವಿಮರ್ಶಿಸ" WordNumber="7" rowStart="344" rowEnd="397" colStart="1128" colEnd="1279"/>
         </line>
         <line LineNumber="6" rowStart="406" rowEnd="465">
-            <word unicode="ಬೇಕಾಗಿಲ್ಲ." WordNumber="1" rowStart="406" rowEnd="465" colStart="87" colEnd="250"/>
-            <word unicode="ಇಲ್ಲೆ" WordNumber="2" rowStart="406" rowEnd="465" colStart="320" colEnd="376"/>
-            <word unicode="ಸೂಚಿಸಿರುವ" WordNumber="3" rowStart="406" rowEnd="465" colStart="402" colEnd="587"/>
-            <word unicode="ಸ್ಥಾಪಿಸಬಹುದಾದ" WordNumber="4" rowStart="406" rowEnd="465" colStart="620" colEnd="899"/>
-            <word unicode="ಕೈಗಾರಿಕೆಗಳು," WordNumber="5" rowStart="406" rowEnd="465" colStart="933" colEnd="1155"/>
-            <word unicode="ಖನಿಜ" WordNumber="6" rowStart="406" rowEnd="465" colStart="1190" colEnd="1279"/>
+            <word unicode="ಬೇಕಾಗಿಲ್ಲ." WordNumber="1" colStart="87" colEnd="0"/>
+            <word unicode="ಇಲ್ಲಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸೂಚಿಸಿರುವ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸ್ಥಾಪಿಸಬಹುದಾದ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕೈಗಾರಿಕೆಗಳು," WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಖನಿಜ" WordNumber="6" colStart="0" colEnd="1279"/>
         </line>
         <line LineNumber="7" rowStart="470" rowEnd="528">
             <word unicode="ವಿನಿಯೋಗ" WordNumber="1" rowStart="470" rowEnd="528" colStart="87" colEnd="255"/>

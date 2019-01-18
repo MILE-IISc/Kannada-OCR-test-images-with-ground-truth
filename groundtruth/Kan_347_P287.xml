@@ -45,12 +45,12 @@
             <word unicode="203" WordNumber="5" rowStart="406" rowEnd="436" colStart="1246" colEnd="1299"/>
         </line>
         <line LineNumber="7" rowStart="454" rowEnd="495">
-            <word unicode="ಕಾರ್ಯ" WordNumber="1" rowStart="456" rowEnd="489" colStart="108" colEnd="226"/>
-            <word unicode="ಮೈಸೂರು" WordNumber="2" rowStart="454" rowEnd="495" colStart="499" colEnd="647"/>
-            <word unicode=".." WordNumber="3" rowStart="464" rowEnd="478" colStart="958" colEnd="1002"/>
-            <word unicode="209," WordNumber="4" rowStart="457" rowEnd="486" colStart="1090" colEnd="1151"/>
-            <word unicode="240," WordNumber="5" rowStart="457" rowEnd="486" colStart="1170" colEnd="1232"/>
-            <word unicode="247" WordNumber="6" rowStart="457" rowEnd="479" colStart="1251" colEnd="1300"/>
+            <word unicode="ಕಾರ್ಯ" WordNumber="1" colStart="108" colEnd="0"/>
+            <word unicode="ಮೈಸೂರು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode=".." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="209," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="240," WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="274" WordNumber="6" colStart="0" colEnd="1300"/>
         </line>
         <line LineNumber="8" rowStart="502" rowEnd="544">
             <word unicode="ಕಾರಲ್ಗಿ" WordNumber="1" rowStart="502" rowEnd="544" colStart="111" colEnd="210"/>

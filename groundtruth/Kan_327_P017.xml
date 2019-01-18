@@ -84,8 +84,8 @@
             <word unicode="ಮಹಾದೇ" WordNumber="3" rowStart="1101" rowEnd="1140" colStart="641" colEnd="781"/>
         </line>
         <line LineNumber="15" rowStart="1165" rowEnd="1219">
-            <word unicode="ವರಸುಮಕ್ಕಳಲೇ" WordNumber="1" rowStart="1165" rowEnd="1219" colStart="353" colEnd="592"/>
-            <word unicode="ವಿರೋಧವೇ" WordNumber="2" rowStart="1166" rowEnd="1207" colStart="621" colEnd="776"/>
+            <word unicode="ವರಸುಮಕ್ಕಳಲೇ" WordNumber="1" colStart="353" colEnd="0"/>
+            <word unicode="ವಿರೋಧವೆ" WordNumber="2" colStart="0" colEnd="776"/>
         </line>
         <line LineNumber="16" rowStart="1228" rowEnd="1288">
             <word unicode="ಹರಹರತಿ" WordNumber="1" rowStart="1230" rowEnd="1262" colStart="352" colEnd="481"/>
@@ -140,9 +140,9 @@
             <word unicode="ಸಾತ್ಯಕಿ" WordNumber="3" rowStart="1760" rowEnd="1815" colStart="752" colEnd="859"/>
         </line>
         <line LineNumber="24" rowStart="1820" rowEnd="1877">
-            <word unicode="ಯುಱುಬೆಗನುವರಿಲ್ಲ" WordNumber="1" rowStart="1820" rowEnd="1869" colStart="352" colEnd="662"/>
-            <word unicode="ದೊರೆ" WordNumber="2" rowStart="1820" rowEnd="1855" colStart="685" colEnd="762"/>
-            <word unicode="ಕೈ" WordNumber="3" rowStart="1820" rowEnd="1877" colStart="783" colEnd="817"/>
+            <word unicode="ಯುಱುಬೆಗಾನುವರಿಲ್ಲ" WordNumber="1" colStart="352" colEnd="0"/>
+            <word unicode="ದೊರೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕೈ" WordNumber="3" colStart="0" colEnd="817"/>
         </line>
         <line LineNumber="25" rowStart="1882" rowEnd="1934">
             <word unicode="ಮಱೆದನೋ" WordNumber="1" rowStart="1882" rowEnd="1920" colStart="348" colEnd="534"/>

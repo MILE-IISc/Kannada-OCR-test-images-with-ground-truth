@@ -146,21 +146,20 @@
             <word unicode="ಉಬ್ಬುವುದರಿಂದ" WordNumber="5" rowStart="1155" rowEnd="1212" colStart="1049" colEnd="1301"/>
         </line>
         <line LineNumber="19" rowStart="1218" rowEnd="1273">
-            <word unicode="ಅದನ್ನು" WordNumber="1" rowStart="1218" rowEnd="1273" colStart="103" colEnd="213"/>
-            <word unicode="ಅಗ್ನಿನಿರೋಧಕ" WordNumber="2" rowStart="1218" rowEnd="1273" colStart="261" colEnd="482"/>
-            <word unicode="ಇಟ್ಟಿಗೆಗಳಾಗಿ" WordNumber="3" rowStart="1218" rowEnd="1273" colStart="532" colEnd="743"/>
-            <word unicode="ತಯಾರಿಸುವ" WordNumber="4" rowStart="1218" rowEnd="1273" colStart="792" colEnd="990"/>
-            <word unicode="ಮುಂಚೆ" WordNumber="5" rowStart="1218" rowEnd="1273" colStart="1029" colEnd="1145"/>
-            <word unicode="ಅದನ್ನು" WordNumber="6" rowStart="1218" rowEnd="1273" colStart="1186" colEnd="1301"/>
+            <word unicode="ಅದನ್ನು" WordNumber="1" colStart="103" colEnd="0"/>
+            <word unicode="ಅಗ್ನಿನಿರೋಧಕ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಇಟ್ಟಿಗೆಗಳಾಗಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ತಯಾರಿಸುವ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮುಂಚೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಆದನ್ನು" WordNumber="6" colStart="0" colEnd="1301"/>
         </line>
         <line LineNumber="20" rowStart="1279" rowEnd="1335">
-            <word unicode="1,500o" WordNumber="1" rowStart="1279" rowEnd="1335" colStart="103" colEnd="221"/>
-            <word unicode="C" WordNumber="2" rowStart="1279" rowEnd="1335" colStart="246" colEnd="268"/>
-            <word unicode="ಉಷ್ಣಾಂಶದಲ್ಲಿ" WordNumber="3" rowStart="1279" rowEnd="1335" colStart="292" colEnd="505"/>
-            <word unicode="ಸುಟ್ಟು" WordNumber="4" rowStart="1279" rowEnd="1335" colStart="530" colEnd="629"/>
-            <word unicode="ಪುಡಿಮಾಡಬೇಕು;" WordNumber="5" rowStart="1279" rowEnd="1335" colStart="652" colEnd="934"/>
-            <word unicode="ಸಿಲ್ಲಿಮನೈಟ್" WordNumber="6" rowStart="1279" rowEnd="1335" colStart="997" colEnd="1196"/>
-            <word unicode="ಹಾಗೆ" WordNumber="7" rowStart="1279" rowEnd="1335" colStart="1220" colEnd="1301"/>
+            <word unicode="1,550°C" WordNumber="1" colStart="103" colEnd="0"/>
+            <word unicode="ಉಷ್ಣಾಂಶದಲ್ಲಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸುಟ್ಟು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಪುಡಿಮಾಡಬೇಕು;" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸಿಲ್ಲಿಮನೈಟ್" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಹಾಗೆ" WordNumber="6" colStart="0" colEnd="1301"/>
         </line>
         <line LineNumber="21" rowStart="1342" rowEnd="1397">
             <word unicode="ಉಬ್ಬದಿರುವುದರಿಂದ" WordNumber="1" rowStart="1342" rowEnd="1397" colStart="103" colEnd="403"/>

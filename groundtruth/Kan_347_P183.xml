@@ -85,20 +85,20 @@
             <word unicode="ಅಂಗುಲದಿಂದ" WordNumber="8" rowStart="635" rowEnd="688" colStart="1099" colEnd="1308"/>
         </line>
         <line LineNumber="11" rowStart="697" rowEnd="755">
-            <word unicode="ಒಂದು" WordNumber="1" rowStart="697" rowEnd="755" colStart="109" colEnd="206"/>
-            <word unicode="ಅಡಿಗೆ" WordNumber="2" rowStart="697" rowEnd="755" colStart="239" colEnd="322"/>
-            <word unicode="ಮೀರಿ" WordNumber="3" rowStart="697" rowEnd="755" colStart="353" colEnd="436"/>
-            <word unicode="ಅಗಲವಾಗಿರುತ್ತವೆ." WordNumber="4" rowStart="697" rowEnd="755" colStart="469" colEnd="771"/>
-            <word unicode="ಇವು" WordNumber="5" rowStart="697" rowEnd="755" colStart="825" colEnd="888"/>
-            <word unicode="ಸಾಮಾನ್ಯವಾಗಿ" WordNumber="6" rowStart="697" rowEnd="755" colStart="920" colEnd="1152"/>
-            <word unicode="ಟಾಲ್ಕ್," WordNumber="7" rowStart="697" rowEnd="755" colStart="1183" colEnd="1308"/>
+            <word unicode="ಒಂದು" WordNumber="1" colStart="109" colEnd="0"/>
+            <word unicode="ಅಡಿಗೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮೀರಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅಗಲವಾಗಿರುತ್ತವೆ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಇವು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸಾಮಾನ್ಯವಾಗಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಟಾಲ್ಕ್-" WordNumber="7" colStart="0" colEnd="1308"/>
         </line>
         <line LineNumber="12" rowStart="760" rowEnd="818">
-            <word unicode="ಟ್ರೆಮೊಲೈಟ್" WordNumber="1" rowStart="760" rowEnd="818" colStart="109" colEnd="316"/>
-            <word unicode="ಪದರಶಿಲೆ" WordNumber="2" rowStart="760" rowEnd="818" colStart="377" colEnd="512"/>
-            <word unicode="(Talc-Tremolite" WordNumber="3" rowStart="760" rowEnd="818" colStart="573" colEnd="844"/>
-            <word unicode="Schist);" WordNumber="4" rowStart="760" rowEnd="818" colStart="881" colEnd="1015"/>
-            <word unicode="ಟ್ರೆಮೊಲೈಟ್" WordNumber="5" rowStart="760" rowEnd="818" colStart="1078" colEnd="1308"/>
+            <word unicode="ಟ್ರೆಮೊಲೈಟ್" WordNumber="1" colStart="109" colEnd="0"/>
+            <word unicode="ಪದರಶಿಲೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="(Talc-Tremolite" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="Schist);" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಟ್ರೆಮೊಲೈಟ್-" WordNumber="5" colStart="0" colEnd="1308"/>
         </line>
         <line LineNumber="13" rowStart="824" rowEnd="880">
             <word unicode="ಆಕ್ಟಿನೊಲೈಟ್" WordNumber="1" rowStart="824" rowEnd="880" colStart="109" colEnd="326"/>
@@ -229,11 +229,11 @@
             <word unicode="ಗುಂಪಿಗೆ" WordNumber="6" rowStart="1759" rowEnd="1818" colStart="1194" colEnd="1315"/>
         </line>
         <line LineNumber="29" rowStart="1820" rowEnd="1874">
-            <word unicode="ಸೇರಿದುದಾಗಿ" WordNumber="1" rowStart="1820" rowEnd="1874" colStart="116" colEnd="307"/>
-            <word unicode="ಅದರ" WordNumber="2" rowStart="1820" rowEnd="1874" colStart="367" colEnd="447"/>
-            <word unicode="ರಾಸಾಯನಿಕ" WordNumber="3" rowStart="1820" rowEnd="1874" colStart="497" colEnd="699"/>
-            <word unicode="ವಿಶ್ಲೇಷದಿಂದ" WordNumber="4" rowStart="1820" rowEnd="1874" colStart="756" colEnd="1002"/>
-            <word unicode="ತಿಳಿದುಬರುತ್ತದೆ." WordNumber="5" rowStart="1820" rowEnd="1874" colStart="1050" colEnd="1315"/>
+            <word unicode="ಸೇರಿದುದಾಗಿ" WordNumber="1" colStart="116" colEnd="0"/>
+            <word unicode="ಅದರ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಸಾಯನಿಕ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಶ್ಲೇಷಣದಿಂದ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಳಿದುಬರುತ್ತದೆ." WordNumber="5" colStart="0" colEnd="1315"/>
         </line>
         <line LineNumber="30" rowStart="1883" rowEnd="1939">
             <word unicode="ಕಬ್ಬೂರಿನ" WordNumber="1" rowStart="1883" rowEnd="1939" colStart="116" colEnd="262"/>
@@ -243,11 +243,11 @@
             <word unicode="ಆಕ್ಟಿನೊಲೈಟ್-" WordNumber="5" rowStart="1883" rowEnd="1939" colStart="1058" colEnd="1315"/>
         </line>
         <line LineNumber="31" rowStart="1945" rowEnd="1999">
-            <word unicode="ಟ್ರೆಮೊಲೈಟ್ಗಳ" WordNumber="1" rowStart="1945" rowEnd="1999" colStart="116" colEnd="380"/>
-            <word unicode="ಮಿಶ್ರಣ;" WordNumber="2" rowStart="1945" rowEnd="1999" colStart="430" colEnd="575"/>
-            <word unicode="ಇನ್ನೂ" WordNumber="3" rowStart="1945" rowEnd="1999" colStart="659" colEnd="756"/>
-            <word unicode="ಉತ್ತರದಲ್ಲಿರುವುದು" WordNumber="4" rowStart="1945" rowEnd="1999" colStart="806" colEnd="1106"/>
-            <word unicode="ಬಹುವಾಗಿ" WordNumber="5" rowStart="1945" rowEnd="1999" colStart="1154" colEnd="1315"/>
+            <word unicode="ಟ್ರೆಮೊಲೈಟ್‌ಗಳ" WordNumber="1" colStart="116" colEnd="0"/>
+            <word unicode="ಮಿಶ್ರಣ;" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಇನ್ನೂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಉತ್ತರದಲ್ಲಿರುವುದು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಬಹುವಾಗಿ" WordNumber="5" colStart="0" colEnd="1315"/>
         </line>
         <line LineNumber="32" rowStart="2005" rowEnd="2063">
             <word unicode="ಟ್ರೆಮೊಲೈಟ್-ಆಕ್ಟಿನೊಲೈಟ್" WordNumber="1" rowStart="2005" rowEnd="2063" colStart="116" colEnd="558"/>

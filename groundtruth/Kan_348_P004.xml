@@ -170,12 +170,12 @@
             <word unicode="ವಿಷಯಗಳಲ್ಲಿ" WordNumber="7" rowStart="1191" rowEnd="1235" colStart="1064" colEnd="1262"/>
         </line>
         <line LineNumber="22" rowStart="1241" rowEnd="1294">
-            <word unicode="ಹೋಲಿಕೆಯುಂಟು." WordNumber="1" rowStart="1246" rowEnd="1277" colStart="84" colEnd="348"/>
-            <word unicode="ಪರಮೇಶ್ವರನ" WordNumber="2" rowStart="1245" rowEnd="1292" colStart="365" colEnd="556"/>
-            <word unicode="ಇಪ್ಪತ್ತೈದು" WordNumber="3" rowStart="1246" rowEnd="1293" colStart="572" colEnd="715"/>
-            <word unicode="ಲಿಲೆಗಳಲ್ಲಿ" WordNumber="4" rowStart="1241" rowEnd="1294" colStart="732" colEnd="901"/>
-            <word unicode="“ವೈವಾಹಿಕ" WordNumber="5" rowStart="1241" rowEnd="1294" colStart="904" colEnd="1060"/>
-            <word unicode="ಲೀಲೆ”ಯೂ" WordNumber="6" rowStart="1242" rowEnd="1277" colStart="1077" colEnd="1254"/>
+            <word unicode="ಹೋಲಿಕೆಯುಂಟು." WordNumber="1" colStart="84" colEnd="0"/>
+            <word unicode="ಪರಮೇಶ್ವರನ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಇಪ್ಪತ್ತೈದು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಲೀಲೆಗಳಲ್ಲಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="“ವೈವಾಹಿಕ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಲೀಲೆ”ಯೂ" WordNumber="6" colStart="0" colEnd="1254"/>
         </line>
         <line LineNumber="23" rowStart="1303" rowEnd="1332">
             <word unicode="ಒಂದು." WordNumber="1" rowStart="1303" rowEnd="1332" colStart="84" colEnd="186"/>

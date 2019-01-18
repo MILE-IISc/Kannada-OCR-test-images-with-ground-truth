@@ -38,12 +38,12 @@
             <word unicode="ವೋಗಿ" WordNumber="8" rowStart="312" rowEnd="348" colStart="1201" colEnd="1282"/>
         </line>
         <line LineNumber="5" rowStart="369" rowEnd="412">
-            <word unicode="ಅಲ್ಲರ್ದಂ" WordNumber="1" rowStart="372" rowEnd="409" colStart="107" colEnd="218"/>
-            <word unicode="ಅನ್ನೆಗಮಾ" WordNumber="2" rowStart="371" rowEnd="410" colStart="234" colEnd="352"/>
-            <word unicode="ಪೊೞಲನಾಳ್ವೊಂ" WordNumber="3" rowStart="370" rowEnd="412" colStart="367" colEnd="560"/>
-            <word unicode="ಮಯೂರವಂಶದರಸಂ" WordNumber="4" rowStart="371" rowEnd="399" colStart="576" colEnd="838"/>
-            <word unicode="ಕುಮುದನೆಂಬೊನಾತನ" WordNumber="5" rowStart="369" rowEnd="399" colStart="853" colEnd="1125"/>
-            <word unicode="ಮಹಾದೇವಿ" WordNumber="6" rowStart="369" rowEnd="398" colStart="1140" colEnd="1283"/>
+            <word unicode="ಅಲ್ಲಿರ್ದಂ" WordNumber="1" colStart="107" colEnd="0"/>
+            <word unicode="ಅನ್ನೆಗಮಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪೊೞಲನಾಳ್ವೊಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಯೂರವಂಶದರಸಂ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕುಮುದನೆಂಬೊನಾತನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮಹಾದೇವಿ" WordNumber="6" colStart="0" colEnd="1283"/>
         </line>
         <line LineNumber="6" rowStart="428" rowEnd="463">
             <word unicode="ಮಂದೆಯೆಂಬೊಳಾಕೆಗೆ" WordNumber="1" rowStart="429" rowEnd="457" colStart="108" colEnd="382"/>
@@ -69,8 +69,8 @@
             <word unicode="ಪುಟ್ಟಿದ" WordNumber="5" rowStart="547" rowEnd="584" colStart="1164" colEnd="1283"/>
         </line>
         <line LineNumber="9" rowStart="600" rowEnd="642">
-            <word unicode="ಕೂಸನೆನಗೀಯಲಾರ್ಪೊಡೆಂದೊಡರಸನೀವೆನೆಂದೊಡರಸಿಯುಮಂ" WordNumber="1" rowStart="603" rowEnd="640" colStart="109" colEnd="884"/>
-            <word unicode="ನನ್ನಿಗೊಂಡಾಱುಮಱಯದಂತಿರೆ" WordNumber="2" rowStart="600" rowEnd="642" colStart="901" colEnd="1282"/>
+            <word unicode="ಕೂಸನೆನಗೀಯಲಾರ್ಪೊಡೆಂದೊಡರಸನೀವೆನೆಂದೊಡರಸಿಯುಮಂ" WordNumber="1" colStart="109" colEnd="0"/>
+            <word unicode="ನನ್ನಿಗೊಂಡಾಱುಮಱಿಯದಂತಿರೆ" WordNumber="2" colStart="0" colEnd="1282"/>
         </line>
         <line LineNumber="10" rowStart="661" rowEnd="701">
             <word unicode="ನೃಪತಿಯ" WordNumber="1" rowStart="663" rowEnd="700" colStart="107" colEnd="221"/>
@@ -92,13 +92,13 @@
             <word unicode="ಕಮ್ಮಿತಪ್ಪ" WordNumber="7" rowStart="720" rowEnd="760" colStart="1178" colEnd="1289"/>
         </line>
         <line LineNumber="12" rowStart="777" rowEnd="821">
-            <word unicode="ನೀರಂ" WordNumber="1" rowStart="778" rowEnd="807" colStart="106" colEnd="178"/>
-            <word unicode="ತೀವಿ" WordNumber="2" rowStart="781" rowEnd="806" colStart="208" colEnd="268"/>
-            <word unicode="ಚಂದ್ರಬಿಂಬಮಂ" WordNumber="3" rowStart="778" rowEnd="812" colStart="300" colEnd="502"/>
-            <word unicode="ನೀರೊಳ್" WordNumber="4" rowStart="777" rowEnd="806" colStart="533" colEnd="649"/>
-            <word unicode="ಕಾಣ್ವಂತಿರೆ" WordNumber="5" rowStart="777" rowEnd="819" colStart="681" colEnd="799"/>
-            <word unicode="ಮಾಡಿಯರಸಿಯಂ" WordNumber="6" rowStart="778" rowEnd="805" colStart="831" colEnd="1057"/>
-            <word unicode="ತೃಷ್ಣಾಭಿವೃದ್ಧಿಯ" WordNumber="7" rowStart="778" rowEnd="821" colStart="1088" colEnd="1282"/>
+            <word unicode="ನೀರಂ" WordNumber="1" colStart="106" colEnd="0"/>
+            <word unicode="ತೀವಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಚಂದ್ರಬಿಂಬಮಂ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನೀರೊಳ್" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕಾಣ್ಬಂತಿರೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಡಿಯರಸಿಯಂ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ತೃಷ್ಣಾಭಿವೃದ್ಧಿಯ" WordNumber="7" colStart="0" colEnd="1282"/>
         </line>
         <line LineNumber="13" rowStart="836" rowEnd="879">
             <word unicode="ಪ್ಪಾಹಾರಮನೂಡೆ" WordNumber="1" rowStart="837" rowEnd="875" colStart="107" colEnd="313"/>
