@@ -17,13 +17,13 @@
     </block>
     <block type="Text" BlockNumber="3" rowStart="258" rowEnd="889" colStart="58" colEnd="1278">
         <line LineNumber="3" rowStart="258" rowEnd="314">
-            <word unicode="ಈ" WordNumber="1" rowStart="265" rowEnd="295" colStart="181" colEnd="212"/>
-            <word unicode="ನ್ಯಾಯಾಲಯದ" WordNumber="2" rowStart="265" rowEnd="302" colStart="241" colEnd="493"/>
-            <word unicode="ಅಧಿಕಾರಗಳು" WordNumber="3" rowStart="262" rowEnd="302" colStart="514" colEnd="721"/>
-            <word unicode="ಹೀಗಿವೆ" WordNumber="4" rowStart="261" rowEnd="296" colStart="743" colEnd="857"/>
-            <word unicode=":" WordNumber="5" rowStart="272" rowEnd="294" colStart="881" colEnd="888"/>
-            <word unicode="ಸಂವಿಧಾನಕ್ಕೆ" WordNumber="6" rowStart="258" rowEnd="314" colStart="909" colEnd="1085"/>
-            <word unicode="ಸಂಬಂಧಿಸಿದ" WordNumber="7" rowStart="261" rowEnd="303" colStart="1108" colEnd="1277"/>
+            <word unicode="ಈ" WordNumber="1" colStart="181" colEnd="0"/>
+            <word unicode="ನಾಯಾಲಯದ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅಧಿಕಾರಗಳು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಹೀಗಿವೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode=":" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂವಿಧಾನಕ್ಕೆ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂಬಂಧಿಸಿದ" WordNumber="7" colStart="0" colEnd="1277"/>
         </line>
         <line LineNumber="4" rowStart="315" rowEnd="366">
             <word unicode="ಪ್ರಕರಣಗಳ" WordNumber="1" rowStart="319" rowEnd="366" colStart="80" colEnd="241"/>
@@ -69,12 +69,12 @@
             <word unicode="ವಿಷಯಗಳು" WordNumber="6" rowStart="559" rowEnd="598" colStart="1106" colEnd="1276"/>
         </line>
         <line LineNumber="9" rowStart="616" rowEnd="673">
-            <word unicode="ಬಂದಾಗ" WordNumber="1" rowStart="620" rowEnd="652" colStart="81" colEnd="199"/>
-            <word unicode="ಅವುಗಳನ್ನು" WordNumber="2" rowStart="617" rowEnd="667" colStart="225" colEnd="400"/>
-            <word unicode="ಸರ್ವೋಚ್ಚ" WordNumber="3" rowStart="619" rowEnd="670" colStart="430" colEnd="587"/>
-            <word unicode="ನ್ಯಾಯಾಲಯಕ್ಕೆ" WordNumber="4" rowStart="616" rowEnd="673" colStart="625" colEnd="865"/>
-            <word unicode="ಕೆಳಿಸಲಾಗುವುದು." WordNumber="5" rowStart="617" rowEnd="659" colStart="897" colEnd="1143"/>
-            <word unicode="ರಾಜ್ಯ" WordNumber="6" rowStart="625" rowEnd="671" colStart="1193" colEnd="1278"/>
+            <word unicode="ಬಂದಾಗ" WordNumber="1" colStart="81" colEnd="0"/>
+            <word unicode="ಅವುಗಳನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸರ್ವೋಚ್ಚ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನ್ಯಾಯಾಲಯಕ್ಕೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕಳಿಸಲಾಗುವುದು." WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಜ್ಯ" WordNumber="6" colStart="0" colEnd="1278"/>
         </line>
         <line LineNumber="10" rowStart="676" rowEnd="732">
             <word unicode="ಶಾಸಕಾಂಗವು" WordNumber="1" rowStart="676" rowEnd="722" colStart="79" colEnd="268"/>
@@ -93,12 +93,12 @@
             <word unicode="ಶ್ರೇಷ್ಠ" WordNumber="6" rowStart="735" rowEnd="785" colStart="1179" colEnd="1274"/>
         </line>
         <line LineNumber="12" rowStart="792" rowEnd="849">
-            <word unicode="ನ್ಯಾಯಾಲಯವು" WordNumber="1" rowStart="794" rowEnd="849" colStart="79" colEnd="322"/>
-            <word unicode="ಅದನ್ನು" WordNumber="2" rowStart="794" rowEnd="843" colStart="360" colEnd="470"/>
-            <word unicode="ಸಂವಿಧಾನ" WordNumber="3" rowStart="794" rowEnd="840" colStart="519" colEnd="665"/>
-            <word unicode="ಬಾಹಿರವೆಂದು" WordNumber="4" rowStart="792" rowEnd="828" colStart="707" colEnd="904"/>
-            <word unicode="ಘೋಷಿಸಿವ" WordNumber="5" rowStart="793" rowEnd="837" colStart="940" colEnd="1118"/>
-            <word unicode="ಅಧಿಕಾರ" WordNumber="6" rowStart="794" rowEnd="836" colStart="1163" colEnd="1277"/>
+            <word unicode="ನ್ಯಾಯಾಲಯವು" WordNumber="1" colStart="79" colEnd="0"/>
+            <word unicode="ಅದನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂವಿಧಾನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಬಾಹಿರವೆಂದು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಘೋಷಿಸುವ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಅಧಿಕಾರ" WordNumber="6" colStart="0" colEnd="1277"/>
         </line>
         <line LineNumber="13" rowStart="853" rowEnd="889">
             <word unicode="ಪಡೆದಿದೆ." WordNumber="1" rowStart="853" rowEnd="889" colStart="82" colEnd="197"/>
@@ -106,11 +106,11 @@
     </block>
     <block type="Text" BlockNumber="4" rowStart="911" rowEnd="1086" colStart="83" colEnd="1279">
         <line LineNumber="14" rowStart="911" rowEnd="970">
-            <word unicode="ತನ್ನ" WordNumber="1" rowStart="913" rowEnd="965" colStart="184" colEnd="244"/>
-            <word unicode="ಕೈಕೆಳಗಿನ" WordNumber="2" rowStart="911" rowEnd="969" colStart="263" colEnd="396"/>
-            <word unicode="ನ್ಯಾಯಾಲ್ಯಯಗಳಲ್ಲಿ" WordNumber="3" rowStart="914" rowEnd="970" colStart="434" colEnd="708"/>
-            <word unicode="ನಡೆಯುತ್ತಿರುವ" WordNumber="4" rowStart="911" rowEnd="956" colStart="728" colEnd="950"/>
-            <word unicode="ಯಾವುದಾದರೊಂದು" WordNumber="5" rowStart="912" rowEnd="954" colStart="986" colEnd="1279"/>
+            <word unicode="ತನ್ನ" WordNumber="1" colStart="184" colEnd="0"/>
+            <word unicode="ಕೈಕೆಳಗಿನ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನ್ಯಾಯಾಲಯಗಳಲ್ಲಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಡೆಯುತ್ತಿರುವ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಯಾವುದಾದರೊಂದು" WordNumber="5" colStart="0" colEnd="1279"/>
         </line>
         <line LineNumber="15" rowStart="970" rowEnd="1024">
             <word unicode="ಮೊಕದ್ದಮೆಯಲ್ಲಿ" WordNumber="1" rowStart="971" rowEnd="1024" colStart="86" colEnd="339"/>
@@ -222,12 +222,12 @@
             <word unicode="ಮೊದಲಾದ" WordNumber="5" rowStart="1682" rowEnd="1716" colStart="1112" colEnd="1278"/>
         </line>
         <line LineNumber="28" rowStart="1736" rowEnd="1797">
-            <word unicode="ರಿಟ್ಗಳನ್ನು" WordNumber="1" rowStart="1736" rowEnd="1789" colStart="91" colEnd="262"/>
-            <word unicode="ಹೊರಡಿಸುವ" WordNumber="2" rowStart="1738" rowEnd="1772" colStart="302" colEnd="479"/>
-            <word unicode="ಅಧಿಕಾರವನ್ನು" WordNumber="3" rowStart="1738" rowEnd="1790" colStart="515" colEnd="716"/>
-            <word unicode="ಈ" WordNumber="4" rowStart="1741" rowEnd="1773" colStart="752" colEnd="784"/>
-            <word unicode="ನ್ಯಾಯಾಲಯಕ್ಕೆ" WordNumber="5" rowStart="1740" rowEnd="1797" colStart="804" colEnd="1046"/>
-            <word unicode="ಕೊಡಲಾಗಿದೆ." WordNumber="6" rowStart="1737" rowEnd="1775" colStart="1084" colEnd="1279"/>
+            <word unicode="ರಿಟ್‌ಗಳನ್ನು" WordNumber="1" colStart="91" colEnd="0"/>
+            <word unicode="ಹೊರಡಿಸುವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅಧಿಕಾರವನ್ನು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಈ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನ್ಯಾಯಾಲಯಕ್ಕೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಕೊಡಲಾಗಿದೆ." WordNumber="6" colStart="0" colEnd="1279"/>
         </line>
         <line LineNumber="29" rowStart="1794" rowEnd="1852">
             <word unicode="ಇದಕ್ಕೆ" WordNumber="1" rowStart="1794" rowEnd="1850" colStart="87" colEnd="177"/>
@@ -246,12 +246,12 @@
     </block>
     <block type="Text" BlockNumber="7" rowStart="1914" rowEnd="2079" colStart="89" colEnd="1285">
         <line LineNumber="31" rowStart="1915" rowEnd="1969">
-            <word unicode="ಮೂಲಾಧಿಕಾರ" WordNumber="1" rowStart="1915" rowEnd="1961" colStart="187" colEnd="433"/>
-            <word unicode="ಅಥಾವಾ" WordNumber="2" rowStart="1915" rowEnd="1958" colStart="448" colEnd="561"/>
-            <word unicode="ನೇರವಿಚಾರಣಾಧಿಕಾರ" WordNumber="3" rowStart="1916" rowEnd="1961" colStart="579" colEnd="937"/>
-            <word unicode=":" WordNumber="4" rowStart="1929" rowEnd="1952" colStart="951" colEnd="959"/>
-            <word unicode="ಕಲ್ಕತ್ತ," WordNumber="5" rowStart="1918" rowEnd="1969" colStart="981" colEnd="1100"/>
-            <word unicode="ಮುಂಬಯಿ" WordNumber="6" rowStart="1916" rowEnd="1959" colStart="1118" colEnd="1282"/>
+            <word unicode="ಮೂಲಾಧಿಕಾರ" WordNumber="1" colStart="187" colEnd="0"/>
+            <word unicode="ಅಥವಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನೇರವಿಚಾರಣಾಧಿಕಾರ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode=":" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕಲ್ಕತ್ತ," WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮುಂಬಯಿ" WordNumber="6" colStart="0" colEnd="1282"/>
         </line>
         <line LineNumber="32" rowStart="1971" rowEnd="2032">
             <word unicode="ಮತ್ತು" WordNumber="1" rowStart="1971" rowEnd="2016" colStart="91" colEnd="186"/>

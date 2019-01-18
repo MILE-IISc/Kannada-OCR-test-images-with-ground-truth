@@ -76,13 +76,13 @@
             <word unicode="ಸಾಧನವಾಗಿವೆ." WordNumber="7" rowStart="586" rowEnd="629" colStart="1049" colEnd="1253"/>
         </line>
         <line LineNumber="10" rowStart="645" rowEnd="701">
-            <word unicode="ಮತದಾನದ" WordNumber="1" rowStart="649" rowEnd="686" colStart="54" colEnd="224"/>
-            <word unicode="ಹಕ್ಕು" WordNumber="2" rowStart="645" rowEnd="701" colStart="245" colEnd="323"/>
-            <word unicode="ಇಲ್ಲದಿದ್ದಲ್ಲಿ" WordNumber="3" rowStart="650" rowEnd="698" colStart="345" colEnd="494"/>
-            <word unicode="ಚುನಾವಣೆಗಳು" WordNumber="4" rowStart="647" rowEnd="684" colStart="516" colEnd="731"/>
-            <word unicode="ಸಾಧ್ಯವಿಲ್ಲ" WordNumber="5" rowStart="648" rowEnd="701" colStart="752" colEnd="887"/>
-            <word unicode=":" WordNumber="6" rowStart="662" rowEnd="687" colStart="910" colEnd="916"/>
-            <word unicode="ಚುನಾವಣೆಗಳಿಲ್ಲದಿದ್ದಲ್ಲಿ" WordNumber="7" rowStart="647" rowEnd="699" colStart="939" colEnd="1257"/>
+            <word unicode="ಮತದಾನದ" WordNumber="1" colStart="54" colEnd="0"/>
+            <word unicode="ಹಕ್ಕು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಇಲ್ಲದಿದ್ದಲ್ಲಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಚುನಾವಣೆಗಳು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸಾಧ್ಯವಿಲ್ಲ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode=";" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಚುನಾವಣೆಗಳಿಲ್ಲದಿದ್ದಲ್ಲಿ" WordNumber="7" colStart="0" colEnd="1257"/>
         </line>
         <line LineNumber="11" rowStart="704" rowEnd="760">
             <word unicode="ಪ್ರಜಾಪ್ರಭುತ್ವವಿರುವುದು" WordNumber="1" rowStart="704" rowEnd="757" colStart="58" colEnd="420"/>

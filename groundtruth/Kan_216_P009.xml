@@ -283,10 +283,10 @@
             <word unicode="ತಡೆಯುವುದು." WordNumber="4" rowStart="680" rowEnd="718" colStart="1579" colEnd="1783"/>
         </line>
         <line LineNumber="44" rowStart="737" rowEnd="787">
-            <word unicode="ಇದರಿಂದ" WordNumber="1" rowStart="739" rowEnd="771" colStart="964" colEnd="1090"/>
-            <word unicode="ಇಂಧನದ" WordNumber="2" rowStart="739" rowEnd="776" colStart="1174" colEnd="1301"/>
-            <word unicode="ಅಣುಭಾರವು" WordNumber="3" rowStart="740" rowEnd="776" colStart="1388" colEnd="1565"/>
-            <word unicode="ಹಬ್ಬೌಗಿ" WordNumber="4" rowStart="737" rowEnd="787" colStart="1651" colEnd="1771"/>
+            <word unicode="ಇದರಿಂದ" WordNumber="1" colStart="964" colEnd="0"/>
+            <word unicode="ಇಂಧನದ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅಣುಭಾರವು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಹಚ್ಚಾಗಿ," WordNumber="4" colStart="0" colEnd="1771"/>
         </line>
         <line LineNumber="45" rowStart="795" rowEnd="843">
             <word unicode="ಹನಿಗಳಾಗಿ," WordNumber="1" rowStart="797" rowEnd="832" colStart="964" colEnd="1123"/>
@@ -330,10 +330,10 @@
             <word unicode="ಮಿಶ್ರಣವು" WordNumber="5" rowStart="1086" rowEnd="1128" colStart="1645" colEnd="1784"/>
         </line>
         <line LineNumber="51" rowStart="1140" rowEnd="1188">
-            <word unicode="ಇಂಜಿನ್ನಿನೊಳಗೆ" WordNumber="1" rowStart="1140" rowEnd="1186" colStart="966" colEnd="1181"/>
-            <word unicode="ಹೋದಾಗ" WordNumber="2" rowStart="1142" rowEnd="1172" colStart="1232" colEnd="1375"/>
-            <word unicode="ಅದನ್ನು" WordNumber="3" rowStart="1143" rowEnd="1188" colStart="1426" colEnd="1531"/>
-            <word unicode="ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ" WordNumber="4" rowStart="1141" rowEnd="1188" colStart="1578" colEnd="1784"/>
+            <word unicode="ಇಂಜಿನ್ನಿನೊಳಗೆ" WordNumber="1" colStart="966" colEnd="0"/>
+            <word unicode="ಹೋದಾಗ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅದನ್ನು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಿಷ್ಕಿಯಗೊಳಿಸಿ" WordNumber="4" colStart="0" colEnd="1784"/>
         </line>
         <line LineNumber="52" rowStart="1198" rowEnd="1236">
             <word unicode="ಎಂದಿನ" WordNumber="1" rowStart="1201" rowEnd="1231" colStart="964" colEnd="1062"/>
@@ -342,12 +342,12 @@
             <word unicode="ಮಾಡಿಕೊಡಬೇಕು" WordNumber="4" rowStart="1199" rowEnd="1230" colStart="1536" colEnd="1784"/>
         </line>
         <line LineNumber="53" rowStart="1255" rowEnd="1301">
-            <word unicode="(ಚಿತ್ರ" WordNumber="1" rowStart="1255" rowEnd="1301" colStart="965" colEnd="1042"/>
-            <word unicode="೨" WordNumber="2" rowStart="1266" rowEnd="1286" colStart="1077" colEnd="1097"/>
-            <word unicode="ನೋಡೆ)." WordNumber="3" rowStart="1256" rowEnd="1297" colStart="1137" colEnd="1258"/>
-            <word unicode="ಆದರೆ" WordNumber="4" rowStart="1256" rowEnd="1287" colStart="1298" colEnd="1377"/>
-            <word unicode="ಅಪಘಾತದ" WordNumber="5" rowStart="1259" rowEnd="1294" colStart="1417" colEnd="1572"/>
-            <word unicode="ಸಮಯದಲ್ಲಿ" WordNumber="6" rowStart="1258" rowEnd="1301" colStart="1612" colEnd="1785"/>
+            <word unicode="(ಚಿತ್ರ" WordNumber="1" colStart="965" colEnd="0"/>
+            <word unicode="೨" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನೋಡಿ)." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಆದರೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಅಪಘಾತದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸಮಯದಲ್ಲಿ" WordNumber="6" colStart="0" colEnd="1785"/>
         </line>
         <line LineNumber="54" rowStart="1314" rowEnd="1358">
             <word unicode="ಈ" WordNumber="1" rowStart="1316" rowEnd="1344" colStart="965" colEnd="998"/>

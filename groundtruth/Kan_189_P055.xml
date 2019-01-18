@@ -193,14 +193,14 @@
             <word unicode="ತಮ್ಮ" WordNumber="7" rowStart="1574" rowEnd="1619" colStart="1188" colEnd="1273"/>
         </line>
         <line LineNumber="24" rowStart="1634" rowEnd="1684">
-            <word unicode="ಉಸಿರಿರುವವರೆಗೂ" WordNumber="1" rowStart="1638" rowEnd="1668" colStart="48" colEnd="324"/>
-            <word unicode="&quot;ಮಂಜೇಶ್ವರ" WordNumber="2" rowStart="1634" rowEnd="1684" colStart="352" colEnd="539"/>
-            <word unicode="ದಕ್ಷಿಣ" WordNumber="3" rowStart="1640" rowEnd="1683" colStart="566" colEnd="650"/>
-            <word unicode="ಕನ್ನಡ" WordNumber="4" rowStart="1640" rowEnd="1682" colStart="676" colEnd="751"/>
-            <word unicode="ಜಿಲ್ಲೆ&quot;" WordNumber="5" rowStart="1634" rowEnd="1681" colStart="778" colEnd="859"/>
-            <word unicode="ಎಂದೇ" WordNumber="6" rowStart="1639" rowEnd="1669" colStart="885" colEnd="978"/>
-            <word unicode="ತಮ್ಮ" WordNumber="7" rowStart="1640" rowEnd="1684" colStart="1005" colEnd="1088"/>
-            <word unicode="ವಿಳಾಸದಲ್ಲಿ" WordNumber="8" rowStart="1639" rowEnd="1681" colStart="1101" colEnd="1265"/>
+            <word unicode="ಉಸಿರಿರುವವರೆಗೂ" WordNumber="1" colStart="48" colEnd="0"/>
+            <word unicode="“ಮಂಜೇಶ್ವರ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ದಕ್ಷಿಣ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕನ್ನಡ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಜಿಲ್ಲೆ”" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಎಂದೇ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ತಮ್ಮ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಳಾಸದಲ್ಲಿ" WordNumber="8" colStart="0" colEnd="1265"/>
         </line>
         <line LineNumber="25" rowStart="1705" rowEnd="1750">
             <word unicode="ನಮೂದಿಸಿ," WordNumber="1" rowStart="1705" rowEnd="1741" colStart="46" colEnd="220"/>

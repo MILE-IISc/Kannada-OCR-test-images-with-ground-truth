@@ -454,11 +454,11 @@
     </block>
     <block type="Text" BlockNumber="9" rowStart="2300" rowEnd="2415" colStart="1060" colEnd="1912">
         <line LineNumber="67" rowStart="2300" rowEnd="2351">
-            <word unicode="ಕೊಲರಾಡೋ" WordNumber="1" rowStart="2300" rowEnd="2333" colStart="1155" colEnd="1359"/>
-            <word unicode="ಸ್ಪ್ರಿಂಗ್" WordNumber="2" rowStart="2302" rowEnd="2351" colStart="1380" colEnd="1470"/>
-            <word unicode="ಮತ್ತು" WordNumber="3" rowStart="2302" rowEnd="2347" colStart="1489" colEnd="1579"/>
-            <word unicode="ಪಿಟ್ಸ್‌ಬರ್ಗ್" WordNumber="4" rowStart="2302" rowEnd="2344" colStart="1595" colEnd="1773"/>
-            <word unicode="ವಿಮಾನ" WordNumber="5" rowStart="2301" rowEnd="2334" colStart="1794" colEnd="1912"/>
+            <word unicode="ಕೊಲರಾಡೋ" WordNumber="1" colStart="1155" colEnd="0"/>
+            <word unicode="ಸ್ಪ್ರಿಂಗ್ಸ್" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮತ್ತು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಪಿಟ್ಸ್‌ಬರ್ಗ್" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಮಾನ" WordNumber="5" colStart="0" colEnd="1912"/>
         </line>
         <line LineNumber="68" rowStart="2365" rowEnd="2415">
             <word unicode="ದುರಂತಗಳಾದ" WordNumber="1" rowStart="2366" rowEnd="2398" colStart="1060" colEnd="1267"/>

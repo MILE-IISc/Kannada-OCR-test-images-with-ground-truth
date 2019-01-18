@@ -60,11 +60,11 @@
             <word unicode="ಪಳ" WordNumber="6" rowStart="523" rowEnd="551" colStart="827" colEnd="875"/>
         </line>
         <line LineNumber="9" rowStart="578" rowEnd="624">
-            <word unicode="ಗಿಸಬಹುದು." WordNumber="1" rowStart="578" rowEnd="609" colStart="52" colEnd="228"/>
-            <word unicode="ಈ" WordNumber="2" rowStart="579" rowEnd="608" colStart="284" colEnd="318"/>
-            <word unicode="ಬಲವಾದ" WordNumber="3" rowStart="579" rowEnd="609" colStart="375" colEnd="503"/>
-            <word unicode="ಇಲಿಗಳನ್ನು" WordNumber="4" rowStart="578" rowEnd="624" colStart="561" colEnd="717"/>
-            <word unicode="ಬ್ರಾನಿಕ" WordNumber="5" rowStart="582" rowEnd="622" colStart="771" colEnd="875"/>
+            <word unicode="ಗಿಸಬಹುದು." WordNumber="1" colStart="52" colEnd="0"/>
+            <word unicode="ಈ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಬಲವಾದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಇಲಿಗಳನ್ನು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಬ್ರಾನಿಕ್" WordNumber="5" colStart="0" colEnd="875"/>
         </line>
         <line LineNumber="10" rowStart="634" rowEnd="669">
             <word unicode="ಇಲಿಗಳೆಂದು" WordNumber="1" rowStart="634" rowEnd="669" colStart="52" colEnd="223"/>
@@ -127,9 +127,9 @@
             <word unicode="ಸಾಮಾನ್ಯರಿಗೆ" WordNumber="3" rowStart="524" rowEnd="571" colStart="1589" colEnd="1769"/>
         </line>
         <line LineNumber="20" rowStart="578" rowEnd="627">
-            <word unicode="ಒಳ್ಳೆಯದಾಗಲೆಂದು" WordNumber="1" rowStart="578" rowEnd="627" colStart="950" colEnd="1221"/>
-            <word unicode="ನಾವೆಲ್ಲರು" WordNumber="2" rowStart="580" rowEnd="626" colStart="1253" colEnd="1403"/>
-            <word unicode="ಆಶಿಸೋಣ." WordNumber="3" rowStart="580" rowEnd="613" colStart="1435" colEnd="1596"/>
+            <word unicode="ಒಳ್ಳೆಯದಾಗಲೆಂದು" WordNumber="1" colStart="950" colEnd="0"/>
+            <word unicode="ನಾವೆಲ್ಲರೂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಆಶಿಸೋಣ." WordNumber="3" colStart="0" colEnd="1596"/>
         </line>
     </block>
     <block type="Text" BlockNumber="7" rowStart="1613" rowEnd="1705" colStart="1044" colEnd="1683">

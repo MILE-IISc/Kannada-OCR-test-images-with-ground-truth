@@ -2,20 +2,20 @@
 <page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" BookCode="0189" PageNumber="2" ImageLoc="0189_KarnatakaSamskruthi_Img_300_Original/0189_KarnatakaSamskruthi_Img_300_Org_Page_0002.tif">
     <block type="Text" BlockNumber="1" rowStart="71" rowEnd="105" colStart="79" colEnd="1272">
         <line LineNumber="1" rowStart="71" rowEnd="105">
-            <word unicode="೨" WordNumber="1" rowStart="78" rowEnd="96" colStart="79" colEnd="100"/>
-            <word unicode="ಕರ್ನಾಟಕ" WordNumber="2" rowStart="71" rowEnd="96" colStart="1044" colEnd="1163"/>
-            <word unicode="ಸಂಸ್ಕೃತಿ" WordNumber="3" rowStart="71" rowEnd="105" colStart="1183" colEnd="1272"/>
+            <word unicode="೨" WordNumber="1" colStart="79" colEnd="0"/>
+            <word unicode="ಕರ್ನಾಟಕ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂಸ್ಕೃತಿ" WordNumber="3" colStart="0" colEnd="1272"/>
         </line>
     </block>
     <block type="Text" BlockNumber="2" rowStart="162" rowEnd="544" colStart="77" colEnd="1282">
         <line LineNumber="2" rowStart="162" rowEnd="211">
-            <word unicode="ಈ" WordNumber="1" rowStart="167" rowEnd="191" colStart="178" colEnd="216"/>
-            <word unicode="ನಾಡಿನ" WordNumber="2" rowStart="166" rowEnd="193" colStart="257" colEnd="354"/>
-            <word unicode="ಹೆಸರು" WordNumber="3" rowStart="163" rowEnd="191" colStart="395" colEnd="492"/>
-            <word unicode="ಕ್ರಿಸ್ತಪೂರ್ವದಷ್ಟು" WordNumber="4" rowStart="165" rowEnd="207" colStart="533" colEnd="777"/>
-            <word unicode="ಹಳೆಯದು." WordNumber="5" rowStart="162" rowEnd="191" colStart="817" colEnd="984"/>
-            <word unicode="ವ್ಯಾಸರ" WordNumber="6" rowStart="166" rowEnd="206" colStart="1025" colEnd="1129"/>
-            <word unicode="ಸಂಸ್ಕ್ರತ" WordNumber="7" rowStart="164" rowEnd="211" colStart="1171" colEnd="1281"/>
+            <word unicode="ಈ" WordNumber="1" colStart="178" colEnd="0"/>
+            <word unicode="ನಾಡಿನ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹೆಸರು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕ್ರಿಸ್ತಪೂರ್ವದಷ್ಟು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಹಳೆಯದು." WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ವ್ಯಾಸರ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಸಂಸ್ಕೃತ" WordNumber="7" colStart="0" colEnd="1281"/>
         </line>
         <line LineNumber="3" rowStart="224" rowEnd="272">
             <word unicode="ಮಹಾಭಾರತದಲ್ಲಿ" WordNumber="1" rowStart="228" rowEnd="271" colStart="77" colEnd="339"/>
@@ -36,12 +36,12 @@
             <word unicode="ಎಂದು" WordNumber="7" rowStart="299" rowEnd="324" colStart="1191" colEnd="1281"/>
         </line>
         <line LineNumber="5" rowStart="361" rowEnd="413">
-            <word unicode="ಕರೆದಿದೆ." WordNumber="1" rowStart="362" rowEnd="392" colStart="77" colEnd="202"/>
-            <word unicode="ಸಂಸ್ಕ್ರತ" WordNumber="2" rowStart="363" rowEnd="413" colStart="241" colEnd="355"/>
-            <word unicode="ಕಾವ್ಯಗಳಲ್ಲಿ" WordNumber="3" rowStart="362" rowEnd="407" colStart="397" colEnd="569"/>
-            <word unicode="ಕರ್ನಾಟಕವನ್ನು" WordNumber="4" rowStart="364" rowEnd="405" colStart="602" colEnd="827"/>
-            <word unicode="ಒಮ್ಮೊಮ್ಮೆ" WordNumber="5" rowStart="361" rowEnd="407" colStart="863" colEnd="1025"/>
-            <word unicode="ಕುಂತಲವೆಂದೂ" WordNumber="6" rowStart="362" rowEnd="391" colStart="1052" colEnd="1282"/>
+            <word unicode="ಕರೆದಿದೆ." WordNumber="1" colStart="77" colEnd="0"/>
+            <word unicode="ಸಂಸ್ಕೃತ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕಾವ್ಯಗಳಲ್ಲಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕರ್ನಾಟಕವನ್ನು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಒಮ್ಮೊಮ್ಮೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಕುಂತಲವೆಂದೂ" WordNumber="6" colStart="0" colEnd="1282"/>
         </line>
         <line LineNumber="6" rowStart="424" rowEnd="473">
             <word unicode="ಕರೆದಿರುವುದುಂಟು." WordNumber="1" rowStart="429" rowEnd="464" colStart="77" colEnd="355"/>

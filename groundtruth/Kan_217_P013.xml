@@ -163,20 +163,20 @@
             <word unicode="ಕಂಪ್ಯೂಟರ್" WordNumber="4" rowStart="2317" rowEnd="2367" colStart="697" colEnd="867"/>
         </line>
         <line LineNumber="25" rowStart="2379" rowEnd="2433">
-            <word unicode="ವಿಜ್ಞಾನಿಗಳಿಗೆ," WordNumber="1" rowStart="2379" rowEnd="2431" colStart="66" colEnd="272"/>
-            <word unicode="ನಂತರ" WordNumber="2" rowStart="2380" rowEnd="2413" colStart="336" colEnd="426"/>
-            <word unicode="ಮನಶಾಸ್ತ್ರಜ್ಞಾರು," WordNumber="3" rowStart="2380" rowEnd="2433" colStart="481" colEnd="731"/>
-            <word unicode="ಗಣಿತ" WordNumber="4" rowStart="2381" rowEnd="2415" colStart="792" colEnd="871"/>
+            <word unicode="ವಿಜ್ಞಾನಿಗಳಿಗೆ," WordNumber="1" colStart="66" colEnd="0"/>
+            <word unicode="ನಂತರ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮನಶಾಸ್ತ್ರಜ್ಞರು," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಗಣಿತ" WordNumber="4" colStart="0" colEnd="871"/>
         </line>
     </block>
     <block type="Text" BlockNumber="6" rowStart="1477" rowEnd="2248" colStart="957" colEnd="1790">
         <line LineNumber="26" rowStart="1491" rowEnd="1549">
-            <word unicode="ಶಾಸ್ತ್ರಜ್ಞಾರು," WordNumber="1" rowStart="1494" rowEnd="1549" colStart="977" colEnd="1151"/>
-            <word unicode="ತತ್ವ" WordNumber="2" rowStart="1495" rowEnd="1544" colStart="1173" colEnd="1231"/>
-            <word unicode="ಜ್ಞಾನಿಗಳು" WordNumber="3" rowStart="1494" rowEnd="1546" colStart="1251" colEnd="1405"/>
-            <word unicode="ಮತ್ತು" WordNumber="4" rowStart="1494" rowEnd="1541" colStart="1420" colEnd="1515"/>
-            <word unicode="ಸಾಮಾನ್ಯ" WordNumber="5" rowStart="1492" rowEnd="1542" colStart="1535" colEnd="1676"/>
-            <word unicode="ಓದು" WordNumber="6" rowStart="1491" rowEnd="1524" colStart="1697" colEnd="1771"/>
+            <word unicode="ಶಾಸ್ತ್ರಜ್ಞರು," WordNumber="1" colStart="977" colEnd="0"/>
+            <word unicode="ತತ್ವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಜ್ಞಾನಿಗಳು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮತ್ತು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸಾಮಾನ್ಯ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಓದು" WordNumber="6" colStart="0" colEnd="1771"/>
         </line>
         <line LineNumber="27" rowStart="1554" rowEnd="1608">
             <word unicode="ಗರಿಗೆ" WordNumber="1" rowStart="1557" rowEnd="1589" colStart="977" colEnd="1047"/>
@@ -199,11 +199,11 @@
             <word unicode="ಅಥವಾ" WordNumber="5" rowStart="1682" rowEnd="1721" colStart="1668" colEnd="1772"/>
         </line>
         <line LineNumber="30" rowStart="1744" rowEnd="1800">
-            <word unicode="ಮನಸ್ಸಿನ" WordNumber="1" rowStart="1748" rowEnd="1794" colStart="977" colEnd="1108"/>
-            <word unicode="ಬಗ್ಗೆ" WordNumber="2" rowStart="1747" rowEnd="1798" colStart="1150" colEnd="1213"/>
-            <word unicode="ಹೆಚ್ಚು" WordNumber="3" rowStart="1745" rowEnd="1799" colStart="1258" colEnd="1346"/>
-            <word unicode="ಜ್ಞಾನ" WordNumber="4" rowStart="1746" rowEnd="1800" colStart="1388" colEnd="1478"/>
-            <word unicode="ಉ೦ಟಾಗುತ್ತದೆ." WordNumber="5" rowStart="1744" rowEnd="1791" colStart="1539" colEnd="1769"/>
+            <word unicode="ಮನಸ್ಸಿನ" WordNumber="1" colStart="977" colEnd="0"/>
+            <word unicode="ಬಗ್ಗೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹೆಚ್ಚು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಜ್ಞಾನ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಉಂಟಾಗುತ್ತದೆ." WordNumber="5" colStart="0" colEnd="1769"/>
         </line>
         <line LineNumber="31" rowStart="1808" rowEnd="1864">
             <word unicode="ವಿಜ್ಞಾನಿಗಳು" WordNumber="1" rowStart="1811" rowEnd="1864" colStart="974" colEnd="1157"/>
@@ -274,12 +274,12 @@
     </block>
     <block type="Text" BlockNumber="8" rowStart="2452" rowEnd="2524" colStart="45" colEnd="1086">
         <line LineNumber="41" rowStart="2457" rowEnd="2508">
-            <word unicode="ಸ್ಟ್ರಕ್ಚರ್‍ಸ್" WordNumber="1" rowStart="2458" rowEnd="2506" colStart="69" colEnd="181"/>
-            <word unicode="ವಿಭಾಗ," WordNumber="2" rowStart="2460" rowEnd="2492" colStart="197" colEnd="299"/>
-            <word unicode="ರಾಷ್ಟ್ರೀಯ" WordNumber="3" rowStart="2459" rowEnd="2507" colStart="319" colEnd="454"/>
-            <word unicode="ವೈಮಾನಿಕ" WordNumber="4" rowStart="2457" rowEnd="2506" colStart="472" colEnd="607"/>
-            <word unicode="ಪ್ರಯೋಗಶಾಲೆ," WordNumber="5" rowStart="2459" rowEnd="2508" colStart="624" colEnd="833"/>
-            <word unicode="ಬೆಂಗಳೂರು-17" WordNumber="6" rowStart="2459" rowEnd="2496" colStart="855" colEnd="1068"/>
+            <word unicode="ಸ್ಟ್ರಕ್ಚರ್‍ಸ್" WordNumber="1" colStart="69" colEnd="0"/>
+            <word unicode="ವಿಭಾಗ," WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಷ್ಟ್ರೀಯ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ವೈಮಾನಿಕ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಯೋಗಶಾಲೆ," WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಬೆಂಗಳೂರು-17" WordNumber="6" colStart="0" colEnd="1068"/>
         </line>
     </block>
 </page>

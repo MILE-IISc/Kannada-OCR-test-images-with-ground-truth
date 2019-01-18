@@ -62,14 +62,14 @@
             <word unicode="ಅಪ್ಪಣೆ" WordNumber="9" rowStart="426" rowEnd="481" colStart="1157" colEnd="1257"/>
         </line>
         <line LineNumber="7" rowStart="489" rowEnd="542">
-            <word unicode="ಕೊಡಿಸಿದ್ದು" WordNumber="1" rowStart="490" rowEnd="542" colStart="59" colEnd="228"/>
-            <word unicode="ಈಗ" WordNumber="2" rowStart="493" rowEnd="524" colStart="259" colEnd="321"/>
-            <word unicode="ನೆನಪಿಗೆ" WordNumber="3" rowStart="490" rowEnd="531" colStart="352" colEnd="456"/>
-            <word unicode="ಬರುತ್ತದೆ." WordNumber="4" rowStart="489" rowEnd="536" colStart="485" colEnd="632"/>
-            <word unicode="ಕಾವ್ಯವೂ" WordNumber="5" rowStart="491" rowEnd="540" colStart="692" colEnd="836"/>
-            <word unicode="ಹಾಗೆಯೇ" WordNumber="6" rowStart="490" rowEnd="524" colStart="866" colEnd="1012"/>
-            <word unicode="ಎಂದು" WordNumber="7" rowStart="490" rowEnd="523" colStart="1042" colEnd="1135"/>
-            <word unicode="ಅವರ" WordNumber="8" rowStart="492" rowEnd="524" colStart="1162" colEnd="1258"/>
+            <word unicode="ಕೊಡಿಸಿದ್ದು" WordNumber="1" colStart="59" colEnd="0"/>
+            <word unicode="ಈಗ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನೆನಪಿಗೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಬರುತ್ತದೆ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕಾವ್ಯವೂ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಹಾಗೆಯೇ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಎಂದು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಅವರು" WordNumber="8" colStart="0" colEnd="1258"/>
         </line>
         <line LineNumber="8" rowStart="552" rowEnd="608">
             <word unicode="ಸೂಚಿಸಿದ್ದರು." WordNumber="1" rowStart="555" rowEnd="604" colStart="60" colEnd="268"/>
