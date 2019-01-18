@@ -68,13 +68,13 @@
             <word unicode="ನೇಮಕಾತಿ," WordNumber="7" rowStart="511" rowEnd="555" colStart="1111" colEnd="1270"/>
         </line>
         <line LineNumber="8" rowStart="572" rowEnd="626">
-            <word unicode="ಉನ್ನತ" WordNumber="1" rowStart="573" rowEnd="624" colStart="73" colEnd="176"/>
-            <word unicode="ಹುದ್ದೆಗಳಲ್ಲಿ" WordNumber="2" rowStart="572" rowEnd="626" colStart="195" colEnd="358"/>
-            <word unicode="ವರ್ಗಾವಣೆ" WordNumber="3" rowStart="572" rowEnd="608" colStart="395" colEnd="542"/>
-            <word unicode="ಮತ್ತು" WordNumber="4" rowStart="574" rowEnd="619" colStart="571" colEnd="662"/>
-            <word unicode="ಬಡ್ತಿ" WordNumber="5" rowStart="578" rowEnd="618" colStart="702" colEnd="771"/>
-            <word unicode="ಮೊದ್‌ಲಾದವುಗಳೂ" WordNumber="6" rowStart="573" rowEnd="617" colStart="810" colEnd="1082"/>
-            <word unicode="ಬರುತ್ತವೆ." WordNumber="7" rowStart="574" rowEnd="619" colStart="1129" colEnd="1271"/>
+            <word unicode="ಉನ್ನತ" WordNumber="1" colStart="73" colEnd="0"/>
+            <word unicode="ಹುದ್ದೆಗಳಲ್ಲಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವರ್ಗಾವಣೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮತ್ತು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಬಡ್ತಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮೊದಲಾದವುಗಳೂ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಬರುತ್ತವೆ." WordNumber="7" colStart="0" colEnd="1271"/>
         </line>
         <line LineNumber="9" rowStart="632" rowEnd="686">
             <word unicode="ಆಯೋಗಗಳು" WordNumber="1" rowStart="634" rowEnd="674" colStart="72" colEnd="271"/>

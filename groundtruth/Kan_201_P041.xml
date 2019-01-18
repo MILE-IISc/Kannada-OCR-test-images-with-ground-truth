@@ -78,12 +78,12 @@
             <word unicode="ಮತ್ತು" WordNumber="7" rowStart="508" rowEnd="556" colStart="1172" colEnd="1266"/>
         </line>
         <line LineNumber="9" rowStart="572" rowEnd="632">
-            <word unicode="ಸಮಾನತೆ" WordNumber="1" rowStart="572" rowEnd="632" colStart="61" colEnd="196"/>
-            <word unicode="ಅಂಶಗಳನ್ನು" WordNumber="2" rowStart="572" rowEnd="632" colStart="232" colEnd="407"/>
-            <word unicode="ವಿಶ್ವಬ್ಯಾಂಕು" WordNumber="3" rowStart="572" rowEnd="632" colStart="443" colEnd="630"/>
-            <word unicode="ಪರಿಶೀಲಿಸುತ್ತದೆ;" WordNumber="4" rowStart="572" rowEnd="632" colStart="676" colEnd="964"/>
-            <word unicode="(ii)" WordNumber="5" rowStart="572" rowEnd="632" colStart="1017" colEnd="1082"/>
-            <word unicode="ನಿರ್ದಿಷ್ಟ" WordNumber="6" rowStart="572" rowEnd="632" colStart="1143" colEnd="1266"/>
+            <word unicode="ಸಮಾನತೆ" WordNumber="1" colStart="61" colEnd="0"/>
+            <word unicode="ಅಂಶಗಳನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಶ್ವಬ್ಯಾಂಕು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಪರಿಶೀಲೀಸುತ್ತದೆ;" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="(ii)" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನಿರ್ದಿಷ್ಟ" WordNumber="6" colStart="0" colEnd="1266"/>
         </line>
         <line LineNumber="10" rowStart="636" rowEnd="698">
             <word unicode="ಯೋಜನೆಗೆ" WordNumber="1" rowStart="636" rowEnd="698" colStart="61" colEnd="227"/>

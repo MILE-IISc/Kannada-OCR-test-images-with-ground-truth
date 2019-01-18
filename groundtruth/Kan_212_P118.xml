@@ -123,11 +123,11 @@
             <word unicode="ಒಳಗಾಗದೆ" WordNumber="6" rowStart="970" rowEnd="1005" colStart="1100" colEnd="1259"/>
         </line>
         <line LineNumber="16" rowStart="1030" rowEnd="1086">
-            <word unicode="ತನಗೆ" WordNumber="1" rowStart="1030" rowEnd="1070" colStart="50" colEnd="122"/>
-            <word unicode="ಇಷ್ಟಬಂದಂತೆ" WordNumber="2" rowStart="1033" rowEnd="1086" colStart="174" colEnd="379"/>
-            <word unicode="ತನ್ನ" WordNumber="3" rowStart="1034" rowEnd="1081" colStart="434" colEnd="502"/>
-            <word unicode="ತನುಮನಧರ್ಮಗಳನ್ನು" WordNumber="4" rowStart="1035" rowEnd="1086" colStart="550" colEnd="866"/>
-            <word unicode="ಉಪಯೋಗಿಸಿಕೊಳ್ಳುವ" WordNumber="5" rowStart="1032" rowEnd="1086" colStart="914" colEnd="1258"/>
+            <word unicode="ತನಗೆ" WordNumber="1" colStart="50" colEnd="0"/>
+            <word unicode="ಇಷ್ಟಬಂದಂತೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತನ್ನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ತನುಮನಧನಗಳನ್ನು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಉಪಯೋಗಿಸಿಕೊಳ್ಳುವ" WordNumber="5" colStart="0" colEnd="1258"/>
         </line>
         <line LineNumber="17" rowStart="1096" rowEnd="1153">
             <word unicode="ಸ್ವಾತಂತ್ರ್ಯ" WordNumber="1" rowStart="1098" rowEnd="1149" colStart="52" colEnd="220"/>
@@ -179,13 +179,13 @@
             <word unicode="ಹೇಳುವುದು" WordNumber="4" rowStart="1410" rowEnd="1452" colStart="1087" colEnd="1257"/>
         </line>
         <line LineNumber="23" rowStart="1472" rowEnd="1533">
-            <word unicode="ತಪ್ಪು" WordNumber="1" rowStart="1475" rowEnd="1522" colStart="51" colEnd="135"/>
-            <word unicode="ಎಂದು" WordNumber="2" rowStart="1475" rowEnd="1507" colStart="177" colEnd="271"/>
-            <word unicode="ಭಾವಿಸಿದ್ದನು." WordNumber="3" rowStart="1474" rowEnd="1524" colStart="310" colEnd="511"/>
-            <word unicode="ಅಲ್ಲದೆ" WordNumber="4" rowStart="1472" rowEnd="1520" colStart="578" colEnd="662"/>
-            <word unicode="ಸಮಾನತೆಗೆ" WordNumber="5" rowStart="1473" rowEnd="1511" colStart="702" colEnd="874"/>
-            <word unicode="ಲಾಕನು" WordNumber="6" rowStart="1473" rowEnd="1511" colStart="911" colEnd="1031"/>
-            <word unicode="ಷ್ಕೃಷ್ಟವಾದ" WordNumber="7" rowStart="1474" rowEnd="1533" colStart="1061" colEnd="1258"/>
+            <word unicode="ತಪ್ಪು" WordNumber="1" colStart="51" colEnd="0"/>
+            <word unicode="ಎಂದು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾವಿಸಿದ್ದನು." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅಲ್ಲದೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸಮಾನತೆಗೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಲಾಕನು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ನಿಷ್ಕೃಷ್ಟವಾದ" WordNumber="7" colStart="0" colEnd="1258"/>
         </line>
         <line LineNumber="24" rowStart="1536" rowEnd="1591">
             <word unicode="ಅರ್ಥವನ್ನೂ" WordNumber="1" rowStart="1537" rowEnd="1583" colStart="51" colEnd="237"/>
@@ -249,13 +249,13 @@
             <word unicode="ಹುಟ್ಟಿತು." WordNumber="7" rowStart="1972" rowEnd="2024" colStart="1115" colEnd="1255"/>
         </line>
         <line LineNumber="32" rowStart="2035" rowEnd="2091">
-            <word unicode="ಆದರೆ" WordNumber="1" rowStart="2040" rowEnd="2073" colStart="51" colEnd="130"/>
-            <word unicode="ಪ್ರತಿವ್ಯಕ್ತಿಗೂ" WordNumber="2" rowStart="2040" rowEnd="2091" colStart="153" colEnd="360"/>
-            <word unicode="ತನ್ನ" WordNumber="3" rowStart="2038" rowEnd="2089" colStart="383" colEnd="449"/>
-            <word unicode="ಪ್ರಾಣ," WordNumber="4" rowStart="2048" rowEnd="2090" colStart="471" colEnd="576"/>
-            <word unicode="ಮಾನ," WordNumber="5" rowStart="2039" rowEnd="2077" colStart="609" colEnd="711"/>
-            <word unicode="ಆಸ್ತಿಪಾಸ್ತಿಗಳನ್ನು" WordNumber="6" rowStart="2036" rowEnd="2083" colStart="736" colEnd="1009"/>
-            <word unicode="ಉಳಿಸಿಕೊಳ್ಲುವ" WordNumber="7" rowStart="2035" rowEnd="2088" colStart="1025" colEnd="1258"/>
+            <word unicode="ಆದರೆ" WordNumber="1" colStart="51" colEnd="0"/>
+            <word unicode="ಪ್ರತಿವ್ಯಕ್ತಿಗೂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತನ್ನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಾಣ," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾನ," WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಆಸ್ತಿಪಾಸ್ತಿಗಳನ್ನು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಉಳಿಸಿಕೊಳ್ಳುವ" WordNumber="7" colStart="0" colEnd="1258"/>
         </line>
         <line LineNumber="33" rowStart="2098" rowEnd="2156">
             <word unicode="ಸ್ವಾತಂತ್ರ್ಯ" WordNumber="1" rowStart="2103" rowEnd="2155" colStart="52" colEnd="225"/>

@@ -108,14 +108,14 @@
     </block>
     <block type="Text" BlockNumber="6" rowStart="1317" rowEnd="1413" colStart="444" colEnd="1119">
         <line LineNumber="18" rowStart="1317" rowEnd="1358">
-            <word unicode="ನೆಗೞ್ದೆರವಂತಿಯ" WordNumber="1" rowStart="1317" rowEnd="1358" colStart="444" colEnd="645"/>
-            <word unicode="ಮನೆಗಳೊ" WordNumber="2" rowStart="1320" rowEnd="1347" colStart="671" colEnd="801"/>
+            <word unicode="ನೆಗೞ್ದಿರವಂತಿಯ" WordNumber="1" colStart="444" colEnd="0"/>
+            <word unicode="ಮನೆಗಳೊ" WordNumber="2" colStart="0" colEnd="801"/>
         </line>
         <line LineNumber="19" rowStart="1374" rowEnd="1413">
             <word unicode="ಳಗಲಮನೊಳಕೊಂಡು" WordNumber="1" colStart="444" colEnd="0"/>
             <word unicode="ಪಲವು" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಪಳುಕಿನ" WordNumber="3" colStart="0" colEnd="0"/>
-            <word unicode="ಸಱೆಗಳ್" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸಱಿಗಳ್" WordNumber="4" colStart="0" colEnd="0"/>
             <word unicode="।" WordNumber="5" colStart="0" colEnd="1119"/>
         </line>
     </block>

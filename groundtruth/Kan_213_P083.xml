@@ -224,24 +224,24 @@
     </block>
     <block type="Text" BlockNumber="6" rowStart="1649" rowEnd="1703" colStart="151" colEnd="1128">
         <line LineNumber="27" rowStart="1649" rowEnd="1703">
-            <word unicode="iii)" WordNumber="1" rowStart="1655" rowEnd="1692" colStart="151" colEnd="202"/>
-            <word unicode="ಈ" WordNumber="2" rowStart="1655" rowEnd="1686" colStart="255" colEnd="286"/>
-            <word unicode="ವಿಷಯಗಳ" WordNumber="3" rowStart="1653" rowEnd="1686" colStart="308" colEnd="459"/>
-            <word unicode="ಬಗ್ಗೆ" WordNumber="4" rowStart="1650" rowEnd="1703" colStart="478" colEnd="543"/>
-            <word unicode="ಸೂಕ್ತ" WordNumber="5" rowStart="1653" rowEnd="1696" colStart="562" colEnd="645"/>
-            <word unicode="ಶಿಫಾರಸುಗಳನ್ನು" WordNumber="6" rowStart="1649" rowEnd="1703" colStart="668" colEnd="908"/>
-            <word unicode="ಮಾಡುವುದ.." WordNumber="7" rowStart="1651" rowEnd="1703" colStart="929" colEnd="1128"/>
+            <word unicode="iii)" WordNumber="1" colStart="151" colEnd="0"/>
+            <word unicode="ಈ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಷಯಗಳ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಬಗ್ಗೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸೂಕ್ತ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಶಿಫಾರಸುಗಳನ್ನು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಡುವುದು." WordNumber="7" colStart="0" colEnd="1128"/>
         </line>
     </block>
     <block type="Text" BlockNumber="7" rowStart="1707" rowEnd="1878" colStart="47" colEnd="1253">
         <line LineNumber="28" rowStart="1707" rowEnd="1762">
-            <word unicode="ಇಂತಹ" WordNumber="1" rowStart="1708" rowEnd="1745" colStart="149" colEnd="248"/>
-            <word unicode="ಮಂಡಲಿಯನ್ನು" WordNumber="2" rowStart="1711" rowEnd="1759" colStart="269" colEnd="491"/>
-            <word unicode="ರಚಿಸುವುದೆಷ್ಟೇ" WordNumber="3" rowStart="1710" rowEnd="1762" colStart="513" colEnd="717"/>
-            <word unicode="ಅಲ್ಲದೇ," WordNumber="4" rowStart="1708" rowEnd="1756" colStart="755" colEnd="866"/>
-            <word unicode="ಅದರ" WordNumber="5" rowStart="1710" rowEnd="1743" colStart="907" colEnd="981"/>
-            <word unicode="ರಚನೆ," WordNumber="6" rowStart="1707" rowEnd="1751" colStart="1022" colEnd="1111"/>
-            <word unicode="ಕಾರ್ಯ" WordNumber="7" rowStart="1713" rowEnd="1744" colStart="1132" colEnd="1253"/>
+            <word unicode="ಇಂತಹ" WordNumber="1" colStart="149" colEnd="0"/>
+            <word unicode="ಮಂಡಲಿಯನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ರಚಿಸುವುದಷ್ಟೇ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅಲ್ಲದೇ," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಅದರ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ರಚನೆ," WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಕಾರ್ಯ" WordNumber="7" colStart="0" colEnd="1253"/>
         </line>
         <line LineNumber="29" rowStart="1765" rowEnd="1825">
             <word unicode="ವಿಧಾನ" WordNumber="1" rowStart="1772" rowEnd="1818" colStart="50" colEnd="147"/>

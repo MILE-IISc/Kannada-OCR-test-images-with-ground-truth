@@ -32,10 +32,10 @@
             <word unicode="ಆಮ್ಲಮಳೆ." WordNumber="5" rowStart="359" rowEnd="405" colStart="716" colEnd="881"/>
         </line>
         <line LineNumber="6" rowStart="422" rowEnd="469">
-            <word unicode="ಸ್ವೀಡನ್ನಿನ" WordNumber="1" rowStart="422" rowEnd="469" colStart="86" colEnd="233"/>
-            <word unicode="ಸರೋವರಗಳಲ್ಲಿ" WordNumber="2" rowStart="422" rowEnd="467" colStart="253" colEnd="475"/>
-            <word unicode="ಮಿನುಗಳೂ" WordNumber="3" rowStart="423" rowEnd="455" colStart="495" colEnd="658"/>
-            <word unicode="ಮಾಯವಾಗು" WordNumber="4" rowStart="424" rowEnd="454" colStart="679" colEnd="887"/>
+            <word unicode="ಸ್ವೀಡನ್ನಿನ" WordNumber="1" colStart="86" colEnd="0"/>
+            <word unicode="ಸರೋವರಗಳಲ್ಲಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮೀನುಗಳು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಯವಾಗು" WordNumber="4" colStart="0" colEnd="887"/>
         </line>
         <line LineNumber="7" rowStart="484" rowEnd="535">
             <word unicode="ತ್ತಲಿದೆ." WordNumber="1" rowStart="484" rowEnd="530" colStart="81" colEnd="185"/>
@@ -263,11 +263,11 @@
             <word unicode="ಹೊಂದಿರುವುದಿಲ್ಲ." WordNumber="5" rowStart="162" rowEnd="215" colStart="1526" colEnd="1791"/>
         </line>
         <line LineNumber="40" rowStart="233" rowEnd="285">
-            <word unicode="ಏಕೆಂದರೆ" WordNumber="1" rowStart="233" rowEnd="264" colStart="990" colEnd="1108"/>
-            <word unicode="ವಾತವರಣದಲ್ಲಿರುವ" WordNumber="2" rowStart="234" rowEnd="277" colStart="1127" colEnd="1430"/>
-            <word unicode="ಇಂಗಾಲದ" WordNumber="3" rowStart="239" rowEnd="265" colStart="1446" colEnd="1596"/>
-            <word unicode="ಡೈ" WordNumber="4" rowStart="234" rowEnd="280" colStart="1608" colEnd="1644"/>
-            <word unicode="ಆಕ್ಸೈಡ್" WordNumber="5" rowStart="233" rowEnd="285" colStart="1663" colEnd="1783"/>
+            <word unicode="ಏಕೆಂದರೆ" WordNumber="1" colStart="990" colEnd="0"/>
+            <word unicode="ವಾತಾವರಣದಲ್ಲಿರುವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಇಂಗಾಲದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಡೈ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಆಕ್ಸೈಡ್" WordNumber="5" colStart="0" colEnd="1783"/>
         </line>
         <line LineNumber="41" rowStart="297" rowEnd="343">
             <word unicode="ಅನಿಲವು" WordNumber="1" rowStart="297" rowEnd="334" colStart="990" colEnd="1105"/>
@@ -277,9 +277,9 @@
             <word unicode="ಇಂಗಾಲಾಮ್ಲವು" WordNumber="5" rowStart="297" rowEnd="343" colStart="1555" colEnd="1783"/>
         </line>
         <line LineNumber="42" rowStart="359" rowEnd="407">
-            <word unicode="ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ." WordNumber="1" rowStart="359" rowEnd="407" colStart="990" colEnd="1290"/>
-            <word unicode="ಇಂಗಾಲಮ್ಲವು" WordNumber="2" rowStart="360" rowEnd="405" colStart="1350" colEnd="1561"/>
-            <word unicode="ವಾತವರಣದ" WordNumber="3" rowStart="360" rowEnd="391" colStart="1582" colEnd="1784"/>
+            <word unicode="ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ." WordNumber="1" colStart="990" colEnd="0"/>
+            <word unicode="ಇಂಗಾಲಮ್ಲವು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಾತಾವರಣದ" WordNumber="3" colStart="0" colEnd="1784"/>
         </line>
         <line LineNumber="43" rowStart="422" rowEnd="472">
             <word unicode="ಸಾಮಾನ್ಯ" WordNumber="1" rowStart="426" rowEnd="472" colStart="987" colEnd="1125"/>
@@ -391,10 +391,10 @@
             <word unicode="ಕಲ್ಲಿ" WordNumber="6" rowStart="1312" rowEnd="1356" colStart="1732" colEnd="1778"/>
         </line>
         <line LineNumber="58" rowStart="1373" rowEnd="1425">
-            <word unicode="ದ್ದಲ್ಲನ್ನು" WordNumber="1" rowStart="1373" rowEnd="1421" colStart="982" colEnd="1102"/>
-            <word unicode="ಬಳಸುವ" WordNumber="2" rowStart="1373" rowEnd="1405" colStart="1139" colEnd="1260"/>
-            <word unicode="ವಿದ್ಯುತ್‌ಜನಕ," WordNumber="3" rowStart="1374" rowEnd="1425" colStart="1304" colEnd="1520"/>
-            <word unicode="ಯಂತ್ರಗಳಿಂದ" WordNumber="4" rowStart="1376" rowEnd="1420" colStart="1574" colEnd="1777"/>
+            <word unicode="ದ್ದಲನ್ನು" WordNumber="1" colStart="982" colEnd="0"/>
+            <word unicode="ಬಳಸುವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಿದ್ಯುತ್‌ಜನಕ," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಯಂತ್ರಗಳಿಂದ" WordNumber="4" colStart="0" colEnd="1777"/>
         </line>
         <line LineNumber="59" rowStart="1433" rowEnd="1488">
             <word unicode="ಹೆಚ್ಚಾಗಿ," WordNumber="1" rowStart="1433" rowEnd="1487" colStart="980" colEnd="1108"/>
@@ -410,10 +410,10 @@
             <word unicode="ಹೊರ" WordNumber="5" rowStart="1502" rowEnd="1534" colStart="1693" colEnd="1776"/>
         </line>
         <line LineNumber="61" rowStart="1564" rowEnd="1617">
-            <word unicode="ಬರುತ್ತದೆ." WordNumber="1" rowStart="1564" rowEnd="1617" colStart="979" colEnd="1120"/>
-            <word unicode="ವಾತವರಣದಲ್ಲಿ" WordNumber="2" rowStart="1564" rowEnd="1609" colStart="1166" colEnd="1401"/>
-            <word unicode="ವಿಷಾನಿಲವನ್ನು" WordNumber="3" rowStart="1567" rowEnd="1614" colStart="1420" colEnd="1631"/>
-            <word unicode="ಹರಡುವ" WordNumber="4" rowStart="1566" rowEnd="1599" colStart="1651" colEnd="1778"/>
+            <word unicode="ಬರುತ್ತದೆ." WordNumber="1" colStart="979" colEnd="0"/>
+            <word unicode="ವಾತಾವರಣದಲ್ಲಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಷಾನಿಲವನ್ನು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಹರಡುವ" WordNumber="4" colStart="0" colEnd="1778"/>
         </line>
         <line LineNumber="62" rowStart="1626" rowEnd="1674">
             <word unicode="ಪ್ರಧಾನಪಾತ್ರ" WordNumber="1" rowStart="1626" rowEnd="1673" colStart="981" colEnd="1178"/>

@@ -35,13 +35,13 @@
             <word unicode="ಗುಹಾಂತರ್ದೇವಾಲಯಗಳನ್ನೂ" WordNumber="7" rowStart="301" rowEnd="344" colStart="837" colEnd="1291"/>
         </line>
         <line LineNumber="5" rowStart="365" rowEnd="412">
-            <word unicode="ಆ" WordNumber="1" rowStart="375" rowEnd="397" colStart="73" colEnd="98"/>
-            <word unicode="ವಿಗ್ರಹಗಳನ್ನೂ" WordNumber="2" rowStart="369" rowEnd="412" colStart="133" colEnd="345"/>
-            <word unicode="ನೋಡಿ," WordNumber="3" rowStart="367" rowEnd="404" colStart="378" colEnd="495"/>
-            <word unicode="ಕನ್ನಡಿಗರ" WordNumber="4" rowStart="369" rowEnd="411" colStart="531" colEnd="660"/>
-            <word unicode="ಅಂದಿನ" WordNumber="5" rowStart="369" rowEnd="399" colStart="697" colEnd="801"/>
-            <word unicode="ಜೀವನೋತ್ಸಾಹ" WordNumber="6" rowStart="367" rowEnd="409" colStart="837" colEnd="1083"/>
-            <word unicode="ಔದಾರ್ಯ," WordNumber="7" rowStart="365" rowEnd="405" colStart="1119" colEnd="1287"/>
+            <word unicode="ಆ" WordNumber="1" colStart="73" colEnd="0"/>
+            <word unicode="ವಿಗ್ರಹಗಳನ್ನೂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನೋಡಿ," WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕನ್ನಡಿಗರ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಅಂದಿನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಜೀವನೋತ್ಸಾಹ," WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಔದಾರ್ಯ," WordNumber="7" colStart="0" colEnd="1287"/>
         </line>
         <line LineNumber="6" rowStart="434" rowEnd="482">
             <word unicode="ಸ್ವಾಭಿಮನಗಳ" WordNumber="1" rowStart="436" rowEnd="481" colStart="72" colEnd="294"/>
@@ -62,13 +62,13 @@
             <word unicode="ತಮ್ಮ" WordNumber="8" rowStart="503" rowEnd="548" colStart="1216" colEnd="1301"/>
         </line>
         <line LineNumber="8" rowStart="569" rowEnd="614">
-            <word unicode="ಈಡೀ" WordNumber="1" rowStart="574" rowEnd="600" colStart="73" colEnd="146"/>
-            <word unicode="ಪ್ರತಿಭೆಯನ್ನು" WordNumber="2" rowStart="570" rowEnd="614" colStart="186" colEnd="379"/>
-            <word unicode="ಕಲಿಗಾಗಿ" WordNumber="3" rowStart="570" rowEnd="600" colStart="413" colEnd="530"/>
-            <word unicode="ವಿನಿಯೋಗಿಸಿ" WordNumber="4" rowStart="569" rowEnd="601" colStart="568" colEnd="757"/>
-            <word unicode="ಒಂದು" WordNumber="5" rowStart="570" rowEnd="599" colStart="796" colEnd="889"/>
-            <word unicode="ಕಲಾಪ್ರಪಂಚವನ್ನೇ" WordNumber="6" rowStart="570" rowEnd="613" colStart="927" colEnd="1191"/>
-            <word unicode="ಅಲ್ಲಿ" WordNumber="7" rowStart="569" rowEnd="612" colStart="1228" colEnd="1293"/>
+            <word unicode="ಇಡೀ" WordNumber="1" colStart="73" colEnd="0"/>
+            <word unicode="ಪ್ರತಿಭೆಯನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಕಲೆಗಾಗಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ವಿನಿಯೋಗಿಸಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಒಂದು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಕಲಾಪ್ರಪಂಚವನ್ನೇ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಅಲ್ಲಿ" WordNumber="7" colStart="0" colEnd="1293"/>
         </line>
         <line LineNumber="9" rowStart="636" rowEnd="688">
             <word unicode="ತೆರೆದಿಟ್ಟಿದ್ದಾರೆ." WordNumber="1" rowStart="637" rowEnd="684" colStart="73" colEnd="272"/>

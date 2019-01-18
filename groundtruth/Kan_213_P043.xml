@@ -208,12 +208,12 @@
     </block>
     <block type="Text" BlockNumber="8" rowStart="1617" rowEnd="1795" colStart="96" colEnd="1307">
         <line LineNumber="26" rowStart="1620" rowEnd="1675">
-            <word unicode="7." WordNumber="1" rowStart="1624" rowEnd="1653" colStart="209" colEnd="238"/>
-            <word unicode="ಸಾರ್ವಜನಿಕ" WordNumber="2" rowStart="1621" rowEnd="1660" colStart="289" colEnd="474"/>
-            <word unicode="ಹಿತದೃಷ್ಟಿಯಿಂದ" WordNumber="3" rowStart="1621" rowEnd="1675" colStart="502" colEnd="736"/>
-            <word unicode="ವಶಪಡಿಸಿಕೊಳ್ಳುವ" WordNumber="4" rowStart="1620" rowEnd="1675" colStart="773" colEnd="1037"/>
-            <word unicode="ಖಸಗಿ" WordNumber="5" rowStart="1622" rowEnd="1654" colStart="1074" colEnd="1170"/>
-            <word unicode="ಆಸ್ತಿಗೆ" WordNumber="6" rowStart="1621" rowEnd="1669" colStart="1208" colEnd="1303"/>
+            <word unicode="7." WordNumber="1" colStart="209" colEnd="0"/>
+            <word unicode="ಸಾರ್ವಜನಿಕ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಹಿತದೃಷ್ಟಿಯಿಂದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ವಶಪಡಿಸಿಕೊಳ್ಳುವ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಖಾಸಗಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಆಸ್ತಿಗೆ" WordNumber="6" colStart="0" colEnd="1303"/>
         </line>
         <line LineNumber="27" rowStart="1678" rowEnd="1738">
             <word unicode="ಸರ್ಕಾರವು" WordNumber="1" rowStart="1681" rowEnd="1722" colStart="102" colEnd="247"/>
@@ -226,9 +226,9 @@
             <word unicode="ಹೋಗು" WordNumber="8" rowStart="1680" rowEnd="1717" colStart="1182" colEnd="1299"/>
         </line>
         <line LineNumber="28" rowStart="1737" rowEnd="1791">
-            <word unicode="ವಂತಿಲ್ಲ" WordNumber="1" rowStart="1742" rowEnd="1785" colStart="109" colEnd="204"/>
-            <word unicode="(25ನೇ" WordNumber="2" rowStart="1737" rowEnd="1788" colStart="234" colEnd="318"/>
-            <word unicode="ತಿದ್ದುಪಡಿ):" WordNumber="3" rowStart="1741" rowEnd="1791" colStart="339" colEnd="503"/>
+            <word unicode="ವಂತಿಲ್ಲ" WordNumber="1" colStart="109" colEnd="0"/>
+            <word unicode="(25ನೇ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತಿದ್ದುಪಡಿ)." WordNumber="3" colStart="0" colEnd="503"/>
         </line>
     </block>
     <block type="Text" BlockNumber="9" rowStart="1795" rowEnd="2207" colStart="107" colEnd="1304">

@@ -8,11 +8,11 @@
     </block>
     <block type="Text" BlockNumber="2" rowStart="193" rowEnd="372" colStart="69" colEnd="1285">
         <line LineNumber="2" rowStart="198" rowEnd="254">
-            <word unicode="ಚುನಾವಣೆಗಳಿಂದಲೇ" WordNumber="1" rowStart="198" rowEnd="242" colStart="76" colEnd="366"/>
-            <word unicode="ಪ್ರಜಾಪ್ರಭುತ್ವದ" WordNumber="2" rowStart="204" rowEnd="254" colStart="384" colEnd="624"/>
-            <word unicode="ತೇರು" WordNumber="3" rowStart="206" rowEnd="241" colStart="645" colEnd="719"/>
-            <word unicode="ಮುಂದುವರಿಯಬೇಕು." WordNumber="4" rowStart="204" rowEnd="240" colStart="751" colEnd="1063"/>
-            <word unicode="ಚುನಾವಣೆ" WordNumber="5" rowStart="203" rowEnd="243" colStart="1131" colEnd="1278"/>
+            <word unicode="ಚುನಾವಣೆಗಳಿಂದಲೇ" WordNumber="1" colStart="76" colEnd="0"/>
+            <word unicode="ಪ್ರಬಾಪ್ರಭುತ್ವದ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತೇರು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮುಂದುವರಿಯಬೇಕು." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಚುನಾವಣೆ" WordNumber="5" colStart="0" colEnd="1278"/>
         </line>
         <line LineNumber="3" rowStart="260" rowEnd="315">
             <word unicode="ಗಳು" WordNumber="1" rowStart="261" rowEnd="294" colStart="79" colEnd="138"/>
@@ -102,14 +102,14 @@
             <word unicode="ಕರೆಯ" WordNumber="8" rowStart="731" rowEnd="783" colStart="1180" colEnd="1279"/>
         </line>
         <line LineNumber="12" rowStart="782" rowEnd="841">
-            <word unicode="ಬಹುದು." WordNumber="1" rowStart="784" rowEnd="823" colStart="87" colEnd="215"/>
-            <word unicode="ಒಮ್ದು" WordNumber="2" rowStart="785" rowEnd="817" colStart="254" colEnd="343"/>
-            <word unicode="ಪ್ರದೇಶಕ್ಕೆ" WordNumber="3" rowStart="782" rowEnd="841" colStart="363" colEnd="498"/>
-            <word unicode="ಅಥವ" WordNumber="4" rowStart="789" rowEnd="828" colStart="539" colEnd="616"/>
-            <word unicode="ಗುಂಪಿಗೆ" WordNumber="5" rowStart="787" rowEnd="823" colStart="633" colEnd="747"/>
-            <word unicode="ಪ್ರಾತಿನಿಧ್ಯ" WordNumber="6" rowStart="788" rowEnd="840" colStart="764" colEnd="911"/>
-            <word unicode="ದೊರೆಕಿಸುವುದೇ" WordNumber="7" rowStart="785" rowEnd="827" colStart="951" colEnd="1166"/>
-            <word unicode="ಚುನಾ" WordNumber="8" rowStart="787" rowEnd="823" colStart="1187" colEnd="1279"/>
+            <word unicode="ಬಹುದು." WordNumber="1" colStart="87" colEnd="0"/>
+            <word unicode="ಒಂದು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರದೇಶಕ್ಕೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಅಥವ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಗುಂಪಿಗೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಾತಿನಿಧ್ಯ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ದೊರೆಕಿಸುವುದೇ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಚುನಾ" WordNumber="8" colStart="0" colEnd="1279"/>
         </line>
         <line LineNumber="13" rowStart="841" rowEnd="893">
             <word unicode="ವಣೆಯ" WordNumber="1" rowStart="843" rowEnd="877" colStart="85" colEnd="189"/>

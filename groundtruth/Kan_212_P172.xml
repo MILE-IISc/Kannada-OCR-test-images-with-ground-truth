@@ -176,14 +176,13 @@
             <word unicode="ಸೇರತಕ್ಕವರು" WordNumber="5" rowStart="1459" rowEnd="1511" colStart="1058" colEnd="1255"/>
         </line>
         <line LineNumber="21" rowStart="1520" rowEnd="1574">
-            <word unicode="ನಾವು." WordNumber="1" rowStart="1520" rowEnd="1560" colStart="58" colEnd="151"/>
-            <word unicode="ಈ" WordNumber="2" rowStart="1523" rowEnd="1553" colStart="212" colEnd="244"/>
-            <word unicode="ಪಕ್ಷಕ್ಕೆ" WordNumber="3" rowStart="1521" rowEnd="1574" colStart="276" colEnd="367"/>
-            <word unicode="ಸೇರುವು" WordNumber="4" rowStart="1522" rowEnd="1563" colStart="399" colEnd="513"/>
-            <word unicode="ದರಿಂದ" WordNumber="5" rowStart="1524" rowEnd="1556" colStart="524" colEnd="626"/>
-            <word unicode="ನಮಗೆ" WordNumber="6" rowStart="1521" rowEnd="1561" colStart="661" colEnd="755"/>
-            <word unicode="ಪ್ರಯೋಜನವಿಲ್ಲದಿಲ್ಲ." WordNumber="7" rowStart="1522" rowEnd="1570" colStart="778" colEnd="1092"/>
-            <word unicode="ಏಕೆಂದರೆ" WordNumber="8" rowStart="1522" rowEnd="1556" colStart="1125" colEnd="1252"/>
+            <word unicode="ನಾವು." WordNumber="1" colStart="58" colEnd="0"/>
+            <word unicode="ಈ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪಕ್ಷಕ್ಕೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸೇರುವುದರಿಂದ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನಮಗೆ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಯೋಜನವಿಲ್ಲದಿಲ್ಲ." WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಏಕೆಂದರೆ" WordNumber="7" colStart="0" colEnd="1252"/>
         </line>
         <line LineNumber="22" rowStart="1583" rowEnd="1636">
             <word unicode="ಕವಿಯ" WordNumber="1" rowStart="1585" rowEnd="1617" colStart="58" colEnd="163"/>

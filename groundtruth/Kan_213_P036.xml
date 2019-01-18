@@ -278,13 +278,13 @@
     </block>
     <block type="Text" BlockNumber="6" rowStart="1986" rowEnd="2111" colStart="116" colEnd="1312">
         <line LineNumber="32" rowStart="1986" rowEnd="2051">
-            <word unicode="10." WordNumber="1" rowStart="1997" rowEnd="2031" colStart="219" colEnd="272"/>
-            <word unicode="ಕ್ರಿಯಾತ್ಮಕ್" WordNumber="2" rowStart="1991" rowEnd="2047" colStart="301" colEnd="495"/>
-            <word unicode="ಸ್ವರೂಪದ" WordNumber="3" rowStart="1994" rowEnd="2049" colStart="512" colEnd="674"/>
-            <word unicode="ಹಕ್ಕುಗಳು" WordNumber="4" rowStart="1993" rowEnd="2051" colStart="712" colEnd="880"/>
-            <word unicode=":" WordNumber="5" rowStart="2005" rowEnd="2028" colStart="902" colEnd="909"/>
-            <word unicode="ಮೂಲಭೂತ" WordNumber="6" rowStart="1993" rowEnd="2046" colStart="939" colEnd="1124"/>
-            <word unicode="ಹಕ್ಕುಗಳಲ್ಲಿ" WordNumber="7" rowStart="1986" rowEnd="2044" colStart="1156" colEnd="1312"/>
+            <word unicode="10." WordNumber="1" colStart="219" colEnd="0"/>
+            <word unicode="ಕ್ರಿಯಾತ್ಮಕ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸ್ವರೂಪದ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಹಕ್ಕುಗಳು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode=":" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮೂಲಭೂತ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಹಕ್ಕುಗಳಲ್ಲಿ" WordNumber="7" colStart="0" colEnd="1312"/>
         </line>
         <line LineNumber="33" rowStart="2047" rowEnd="2111">
             <word unicode="ಕೆಲವು" WordNumber="1" rowStart="2053" rowEnd="2099" colStart="116" colEnd="201"/>

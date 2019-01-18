@@ -19,12 +19,12 @@
             <word unicode="ಅಭಿಪ್ರಾಯದ" WordNumber="6" rowStart="185" rowEnd="230" colStart="1076" colEnd="1272"/>
         </line>
         <line LineNumber="3" rowStart="237" rowEnd="296">
-            <word unicode="ಪ್ರಕಾರವೇ" WordNumber="1" rowStart="237" rowEnd="284" colStart="77" colEnd="224"/>
-            <word unicode="ನ್ಯಾಂii" WordNumber="2" rowStart="240" rowEnd="296" colStart="252" colEnd="371"/>
-            <word unicode="ನಿರ್ಣಯಮಾಡಬೇಕೆಂಬ" WordNumber="3" rowStart="237" rowEnd="280" colStart="426" colEnd="769"/>
-            <word unicode="ನಿರ್ಬಂಧವಿಲ್ಲ." WordNumber="4" rowStart="240" rowEnd="286" colStart="803" colEnd="985"/>
-            <word unicode="ಯಾವ" WordNumber="5" rowStart="241" rowEnd="272" colStart="1041" colEnd="1135"/>
-            <word unicode="ಬಗೆಯ" WordNumber="6" rowStart="239" rowEnd="274" colStart="1170" colEnd="1279"/>
+            <word unicode="ಪ್ರಕಾರವೇ" WordNumber="1" colStart="77" colEnd="0"/>
+            <word unicode="ನ್ಯಾಯ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನಿರ್ಣಯಮಾಡಬೇಕೆಂಬ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಿರ್ಬಂಧವಿಲ್ಲ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಯಾವ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಬಗೆಯ" WordNumber="6" colStart="0" colEnd="1279"/>
         </line>
         <line LineNumber="4" rowStart="296" rowEnd="355">
             <word unicode="ಶಿಕ್ಷೆಯನ್ನು" WordNumber="1" rowStart="298" rowEnd="350" colStart="75" colEnd="231"/>

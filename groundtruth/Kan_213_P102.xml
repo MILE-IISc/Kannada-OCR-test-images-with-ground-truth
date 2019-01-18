@@ -49,11 +49,11 @@
             <word unicode="ಪ್ರಧಾನ" WordNumber="5" rowStart="433" rowEnd="486" colStart="1162" colEnd="1275"/>
         </line>
         <line LineNumber="7" rowStart="493" rowEnd="553">
-            <word unicode="ಮಂತ್ರಿಯ" WordNumber="1" rowStart="495" rowEnd="540" colStart="62" colEnd="237"/>
-            <word unicode="ಅಧಿಕಾರ" WordNumber="2" rowStart="495" rowEnd="535" colStart="275" colEnd="399"/>
-            <word unicode="ಶಿರೋಮಣಿಯಾಗಿದ್ದು" WordNumber="3" rowStart="493" rowEnd="551" colStart="440" colEnd="774"/>
-            <word unicode="ರಾಷ್ಟ್ರಪತಿಯು" WordNumber="4" rowStart="497" rowEnd="553" colStart="813" colEnd="1024"/>
-            <word unicode="ನಾಮಮಾತ್ರ" WordNumber="5" rowStart="495" rowEnd="549" colStart="1078" colEnd="1274"/>
+            <word unicode="ಮಂತ್ರಿಯು" WordNumber="1" colStart="62" colEnd="0"/>
+            <word unicode="ಅಧಿಕಾರ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಶಿರೋಮಣಿಯಾಗಿದ್ದು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಷ್ಟ್ರಪತಿಯು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ನಾಮಮಾತ್ರ" WordNumber="5" colStart="0" colEnd="1274"/>
         </line>
         <line LineNumber="8" rowStart="555" rowEnd="612">
             <word unicode="ಶಿರೋಮಣಿಯಾಗಿದ್ದಾನೆ." WordNumber="1" rowStart="555" rowEnd="612" colStart="70" colEnd="446"/>
@@ -126,12 +126,12 @@
             <word unicode="ಅವರು" WordNumber="8" rowStart="1001" rowEnd="1025" colStart="1183" colEnd="1277"/>
         </line>
         <line LineNumber="16" rowStart="1054" rowEnd="1111">
-            <word unicode="ಹೇಳಿದಂತೆ" WordNumber="1" rowStart="1054" rowEnd="1093" colStart="65" colEnd="211"/>
-            <word unicode="“ನಾವು" WordNumber="2" rowStart="1056" rowEnd="1096" colStart="232" colEnd="333"/>
-            <word unicode="ರಾಷ್ಟ್ರಧ್ಯಕ್ಷರಿಗೆ" WordNumber="3" rowStart="1055" rowEnd="1109" colStart="357" colEnd="598"/>
-            <word unicode="ಯಾವುದೇ" WordNumber="4" rowStart="1055" rowEnd="1094" colStart="615" colEnd="765"/>
-            <word unicode="ವಾಸ್ತ್ವಿಕಾಧಿಕಾರಗಳನ್ನು" WordNumber="5" rowStart="1056" rowEnd="1111" colStart="782" colEnd="1161"/>
-            <word unicode="ನೀಡಿಲ್ಲ" WordNumber="6" rowStart="1061" rowEnd="1101" colStart="1181" colEnd="1283"/>
+            <word unicode="ಹೇಳಿದಂತೆ" WordNumber="1" colStart="65" colEnd="0"/>
+            <word unicode="“ನಾವು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಷ್ಟ್ರಧ್ಯಕ್ಷರಿಗೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಯಾವುದೇ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ವಾಸ್ತ‌ವಿಕಾಧಿಕಾರಗಳನ್ನು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನೀಡಿಲ್ಲ" WordNumber="6" colStart="0" colEnd="1283"/>
         </line>
         <line LineNumber="17" rowStart="1112" rowEnd="1176">
             <word unicode="ವಾದರೂ" WordNumber="1" rowStart="1115" rowEnd="1149" colStart="66" colEnd="191"/>
@@ -188,13 +188,12 @@
             <word unicode="ಪಾತ್ರ" WordNumber="6" rowStart="1492" rowEnd="1543" colStart="1197" colEnd="1277"/>
         </line>
         <line LineNumber="24" rowStart="1546" rowEnd="1604">
-            <word unicode="ವಹಿಸುತ್ತಾರೆ." WordNumber="1" rowStart="1548" rowEnd="1595" colStart="65" colEnd="264"/>
-            <word unicode="ಸಂಸತ್ತನ್ನು" WordNumber="2" rowStart="1547" rowEnd="1604" colStart="299" colEnd="469"/>
-            <word unicode="ವಿಸರ್ಜಿ" WordNumber="3" rowStart="1552" rowEnd="1578" colStart="477" colEnd="558"/>
-            <word unicode="ಸಬೇಕೆಂದು" WordNumber="4" rowStart="1546" rowEnd="1584" colStart="590" colEnd="750"/>
-            <word unicode="ಕೇಳಿದಾಗಲೂ" WordNumber="5" rowStart="1548" rowEnd="1586" colStart="774" colEnd="974"/>
-            <word unicode="ಅವರು" WordNumber="6" rowStart="1552" rowEnd="1581" colStart="993" colEnd="1085"/>
-            <word unicode="ನಿರ್ಣಾಯಕ" WordNumber="7" rowStart="1552" rowEnd="1595" colStart="1103" colEnd="1280"/>
+            <word unicode="ವಹಿಸುತ್ತಾರೆ." WordNumber="1" colStart="65" colEnd="0"/>
+            <word unicode="ಸಂಸತ್ತನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಸರ್ಜಿಸಬೇಕೆಂದು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕೇಳಿದಾಗಲೂ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಅವರು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ನಿರ್ಣಾಯಕ" WordNumber="6" colStart="0" colEnd="1280"/>
         </line>
         <line LineNumber="25" rowStart="1606" rowEnd="1659">
             <word unicode="ಪಾತ್ರ" WordNumber="1" rowStart="1610" rowEnd="1659" colStart="70" colEnd="153"/>

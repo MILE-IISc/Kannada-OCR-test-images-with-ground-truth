@@ -172,12 +172,12 @@
             <word unicode="ಸಂಸ್ಥೆ" WordNumber="6" rowStart="1164" rowEnd="1220" colStart="1164" colEnd="1246"/>
         </line>
         <line LineNumber="19" rowStart="1227" rowEnd="1284">
-            <word unicode="ಗಳಿಗೆ" WordNumber="1" rowStart="1231" rowEnd="1262" colStart="43" colEnd="148"/>
-            <word unicode="eಪೇಟಟೆಜಿಗೂ" WordNumber="2" rowStart="1229" rowEnd="1262" colStart="172" colEnd="303"/>
-            <word unicode="ವ್ಯಾಪಾರ" WordNumber="3" rowStart="1231" rowEnd="1284" colStart="326" colEnd="462"/>
-            <word unicode="ಕೈಗಾರಿಕೆಗಳಿಗೂ" WordNumber="4" rowStart="1229" rowEnd="1282" colStart="486" colEnd="737"/>
-            <word unicode="ಸರಕಾರಗಳಿಗೂ" WordNumber="5" rowStart="1230" rowEnd="1263" colStart="774" colEnd="1003"/>
-            <word unicode="ಹಣವೊದಗುವ" WordNumber="6" rowStart="1227" rowEnd="1268" colStart="1032" colEnd="1248"/>
+            <word unicode="ಗಳಿಗೆ" WordNumber="1" colStart="43" colEnd="0"/>
+            <word unicode="ಪೇಟೆಗೂ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ವ್ಯಾಪಾರ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕೈಗಾರಿಕೆಗಳಿಗೂ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸರಕಾರಗಳಿಗೂ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಹಣವೊದಗುವ" WordNumber="6" colStart="0" colEnd="1248"/>
         </line>
         <line LineNumber="20" rowStart="1291" rowEnd="1340">
             <word unicode="ರೀತಿಯೇ" WordNumber="1" rowStart="1291" rowEnd="1327" colStart="44" colEnd="174"/>
@@ -264,12 +264,12 @@
             <word unicode="ಆದರೆ" WordNumber="8" rowStart="1793" rowEnd="1825" colStart="1172" colEnd="1251"/>
         </line>
         <line LineNumber="29" rowStart="1855" rowEnd="1908">
-            <word unicode="ಸರಕಾರ" WordNumber="1" rowStart="1857" rowEnd="1890" colStart="44" colEnd="162"/>
-            <word unicode="ಅದನ್ನು" WordNumber="2" rowStart="1857" rowEnd="1908" colStart="202" colEnd="314"/>
-            <word unicode="ಸರಿಪಡಿಸಿಕೊಡುವುದೆಂಬ" WordNumber="3" rowStart="1856" rowEnd="1898" colStart="367" colEnd="724"/>
-            <word unicode="ಧೈರ್ಯ." WordNumber="4" rowStart="1855" rowEnd="1908" colStart="778" colEnd="905"/>
-            <word unicode="ಆದುದರಿಂದ" WordNumber="5" rowStart="1855" rowEnd="1889" colStart="964" colEnd="1142"/>
-            <word unicode="ಜನ" WordNumber="6" rowStart="1855" rowEnd="1893" colStart="1180" colEnd="1247"/>
+            <word unicode="ಸರಕಾರ" WordNumber="1" colStart="44" colEnd="0"/>
+            <word unicode="ಅದನ್ನು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸರಿಪಡಿಸಿಕೊಡುವುದೆಂಬ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಧೈರ್ಯ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಆದುದರಿಂದ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಜನ," WordNumber="6" colStart="0" colEnd="1247"/>
         </line>
         <line LineNumber="30" rowStart="1916" rowEnd="1970">
             <word unicode="ಅನುಕೂಲ" WordNumber="1" rowStart="1920" rowEnd="1958" colStart="43" colEnd="199"/>
